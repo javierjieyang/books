@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">adaeeeb9-78a5-4b3c-a49a-136d321b6853</dc:identifier>
         <dc:title>The Big Short: Inside the Doomsday Machine</dc:title>
         <dc:creator opf:file-as="Lewis, Michael" opf:role="aut">Michael Lewis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-11-02T05:00:00+00:00</dc:date>
         <dc:description>EDITORIAL REVIEW:
 
@@ -31,7 +31,7 @@ The #1 New York Times bestseller: a brilliant account—character-rich and darkl
         <dc:subject>History</dc:subject>
         <meta content="{&quot;Michael Lewis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="6" name="calibre:rating"/>
-        <meta content="2019-02-07T11:06:58.039511+00:00" name="calibre:timestamp"/>
+        <meta content="2019-02-07T11:06:58+00:00" name="calibre:timestamp"/>
         <meta content="Big Short: Inside the Doomsday Machine, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89597a9f-d6f4-4c8a-b17a-0b93de4b110e</dc:identifier>
+        <dc:title>Elixir in Action</dc:title>
+        <dc:creator opf:file-as="Jurić, Saša" opf:role="aut">Saša Jurić</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-30T00:55:38+00:00</dc:date>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Saša Jurić&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-06T16:13:18+00:00" name="calibre:timestamp"/>
+        <meta content="Unknown" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

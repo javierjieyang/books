@@ -549,64 +549,64 @@
   }, 
   "gui_view_history": [
     [
-      592, 
-      "Seeking Wisdom: From Darwin To Munger"
+      537, 
+      "(Springer series in operations research) Jorge Nocedal, Stephen Wright-Numerical Optimization-Springer (2006)"
     ], 
     [
-      42, 
-      "Poor Charlie's Almanack, Expanded Third Edition"
+      562, 
+      "howtosavetheworld"
+    ], 
+    [
+      713, 
+      "ergodicity economics.pdf"
+    ], 
+    [
+      551, 
+      "Neal Stephenson - Diamond Age 0553380966.doc"
+    ], 
+    [
+      534, 
+      "The Design of Everyday Things"
+    ], 
+    [
+      473, 
+      "Moneyball"
+    ], 
+    [
+      590, 
+      "Microsoft Word - Document1"
     ], 
     [
       591, 
       "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash"
     ], 
     [
-      546, 
-      "Compilers: Principles, Techniques, and Tools"
+      593, 
+      "Quick Start Guide"
     ], 
     [
-      539, 
-      "II Smart Beta Not New Not Beta Still Awesome"
+      594, 
+      "AI MIT"
     ], 
     [
-      536, 
-      "Options, Futures, and Other Derivatives, Global Edition, 9/e"
+      597, 
+      "Mutlplicative effecrt"
     ], 
     [
-      500, 
-      "Operating System Concepts"
+      615, 
+      "18.S097 Applied Category Theory: Textbook"
     ], 
     [
-      519, 
-      "My books"
+      630, 
+      "arXiv:quant-ph/0101012v4 25 Sep 2001"
     ], 
     [
-      148, 
-      "Ecnomics and Language"
+      654, 
+      "letters"
     ], 
     [
-      134, 
-      "An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing)"
-    ], 
-    [
-      29, 
-      "Fashionable Nonsense"
-    ], 
-    [
-      30, 
-      "We"
-    ], 
-    [
-      474, 
-      "The Fountainhead"
-    ], 
-    [
-      167, 
-      "Modeling Bounded Rationality"
-    ], 
-    [
-      87, 
-      "1051_2"
+      697, 
+      "The Elements of Style Illustrated"
     ]
   ], 
   "library_view books view state": {
@@ -616,36 +616,40 @@
       "size": "center"
     }, 
     "column_sizes": {
-      "publisher": 0, 
-      "pubdate": 98, 
       "rating": 0, 
-      "series": 0, 
+      "pubdate": 98, 
       "tags": 0, 
+      "series": 0, 
+      "timestamp": 62, 
+      "title": 425, 
+      "publisher": 0, 
       "languages": 0, 
       "last_modified": 92, 
-      "timestamp": 62, 
       "authors": 287, 
-      "title": 425, 
       "size": 94
     }, 
     "languages_injected": true, 
     "column_positions": {
-      "publisher": 8, 
-      "pubdate": 9, 
       "rating": 5, 
+      "pubdate": 9, 
+      "title": 1, 
       "series": 7, 
+      "timestamp": 3, 
       "tags": 6, 
+      "publisher": 8, 
       "languages": 11, 
       "last_modified": 10, 
       "ondevice": 0, 
       "authors": 2, 
-      "title": 1, 
-      "timestamp": 3, 
       "size": 4
     }, 
     "sort_history": [
       [
         "last_modified", 
+        true
+      ], 
+      [
+        "size", 
         false
       ], 
       [
@@ -653,8 +657,8 @@
         true
       ], 
       [
-        "last_modified", 
-        false
+        "authors", 
+        true
       ], 
       [
         "timestamp", 

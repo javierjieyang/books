@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a7e7eea-9fbe-48ca-8ba7-9324ec84136f</dc:identifier>
+        <dc:title>Think and Grow Rich</dc:title>
+        <dc:creator opf:file-as="Hill, Napoleon" opf:role="aut">Napoleon Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1937-01-01T08:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>motivation</dc:subject>
+        <dc:subject>law of attraction</dc:subject>
+        <dc:subject>positive mental attitude</dc:subject>
+        <dc:subject>get rich</dc:subject>
+        <dc:subject>personality development</dc:subject>
+        <dc:subject>positive thinking</dc:subject>
+        <dc:subject>earn</dc:subject>
+        <dc:subject>napoleon hill</dc:subject>
+        <dc:subject>the secret</dc:subject>
+        <dc:subject>become rich</dc:subject>
+        <dc:subject>self help</dc:subject>
+        <dc:subject>power of positive thinking</dc:subject>
+        <dc:subject>rich</dc:subject>
+        <dc:subject>grow rich</dc:subject>
+        <dc:subject>think and grow rich</dc:subject>
+        <dc:subject>the science of getting rich</dc:subject>
+        <dc:subject>self improvement</dc:subject>
+        <dc:subject>and grow rich</dc:subject>
+        <meta content="{&quot;Napoleon Hill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:44.622629+00:00" name="calibre:timestamp"/>
+        <meta content="Think and Grow Rich" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

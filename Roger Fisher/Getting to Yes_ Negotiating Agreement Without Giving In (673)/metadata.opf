@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50aa3ffe-f4bf-4713-b603-2be7e04e39c1</dc:identifier>
+        <dc:title>Getting to Yes: Negotiating Agreement Without Giving In</dc:title>
+        <dc:creator opf:file-as="Fisher, Roger" opf:role="aut">Roger Fisher</dc:creator>
+        <dc:creator opf:file-as="Fisher, Roger" opf:role="aut">William L. Ury</dc:creator>
+        <dc:creator opf:file-as="Fisher, Roger" opf:role="aut">Bruce Patton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-02T23:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0051SDM5Q</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Roger Fisher&quot;: &quot;&quot;, &quot;William L. Ury&quot;: &quot;&quot;, &quot;Bruce Patton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:36.762032+00:00" name="calibre:timestamp"/>
+        <meta content="Getting to Yes: Negotiating Agreement Without Giving In" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

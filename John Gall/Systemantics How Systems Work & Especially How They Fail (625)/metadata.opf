@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a04f756-8e46-4aee-8d2b-1a3702910f97</dc:identifier>
+        <dc:title>Systemantics How Systems Work &amp; Especially How They Fail</dc:title>
+        <dc:creator opf:file-as="Gall, John" opf:role="aut">John Gall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-02-28T18:30:00+00:00</dc:date>
+        <dc:publisher>Wildwood House</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;John Gall&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:31+00:00" name="calibre:timestamp"/>
+        <meta content="Systemantics How Systems Work &amp; Especially How They Fail" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

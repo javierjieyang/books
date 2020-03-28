@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">903039cc-30c9-44ce-9946-423677632ea8</dc:identifier>
+        <dc:title>Ethnopharmacologic Search for Psychoactive Drugs Vol. 2 2017</dc:title>
+        <dc:creator opf:file-as="50, ESPD" opf:role="aut">ESPD 50</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-11T21:51:17+00:00</dc:date>
+        <dc:description>50 years of research from 1967 to 2017.</dc:description>
+        <dc:publisher>Synergetic Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:language>fin</dc:language>
+        <dc:language>guj</dc:language>
+        <dc:language>por</dc:language>
+        <dc:subject>ethnopharmacology Plant medicine Psychedelic medicine Shamanism</dc:subject>
+        <meta content="{&quot;ESPD 50&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:35.372945+00:00" name="calibre:timestamp"/>
+        <meta content="Ethnopharmacologic Search for Psychoactive Drugs Vol. 2 2017" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

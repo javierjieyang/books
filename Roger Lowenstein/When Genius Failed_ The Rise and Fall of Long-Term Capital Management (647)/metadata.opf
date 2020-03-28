@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccbc1b7d-4668-4c57-83d3-bf06545908bd</dc:identifier>
+        <dc:title>When Genius Failed: The Rise and Fall of Long-Term Capital Management</dc:title>
+        <dc:creator opf:file-as="Lowenstein, Roger" opf:role="aut">Roger Lowenstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-17T23:00:00+00:00</dc:date>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1KZC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <meta content="{&quot;Roger Lowenstein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:33.848537+00:00" name="calibre:timestamp"/>
+        <meta content="When Genius Failed: The Rise and Fall of Long-Term Capital Management" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

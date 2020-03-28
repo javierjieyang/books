@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4877899-1c76-4f61-bbf0-1ba2a7208997</dc:identifier>
+        <dc:title>Models of My Life</dc:title>
+        <dc:creator opf:file-as="Simon, Herbert Alexander" opf:role="aut">Herbert Alexander Simon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-27T18:30:00+00:00</dc:date>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.hxa7241.org/articles/content/epup-guide_hxa7241_2007_2.epub</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>test</dc:subject>
+        <meta content="{&quot;Herbert Alexander Simon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:38+00:00" name="calibre:timestamp"/>
+        <meta content="Models of My Life" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

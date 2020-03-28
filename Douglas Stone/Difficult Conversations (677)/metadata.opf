@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2c4584b-4926-48ac-a1ab-d487b02d1b3d</dc:identifier>
+        <dc:title>Difficult Conversations</dc:title>
+        <dc:creator opf:file-as="Stone, Douglas" opf:role="aut">Douglas Stone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;The 10th-anniversary edition of the &lt;i&gt;New York Times&lt;/i&gt; business bestseller—now updated with "Answers to Ten Questions People Ask"&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We attempt or avoid difficult conversations every day—whether dealing with an underperforming employee, disagreeing with a spouse, or negotiating with a client. From the Harvard Negotiation Project, the organization that brought you &lt;i&gt;Getting to Yes, Difficult Conversations&lt;/i&gt; provides a step-by-step approach to having those tough conversations with less stress and more success. you'll learn how to:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;li&gt;Decipher the underlying structure of every difficult conversation&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Start a conversation without defensiveness&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Listen for the meaning of what is not said&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Stay balanced in the face of attacks and accusations&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Move from emotion to productive problem solving&lt;/li&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Group USA, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6ca92732-3994-4b1d-b780-dd23aff326d5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Douglas Stone&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:37.110782+00:00" name="calibre:timestamp"/>
+        <meta content="Difficult Conversations" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
