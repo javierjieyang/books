@@ -549,6 +549,10 @@
   }, 
   "gui_view_history": [
     [
+      189, 
+      "The unreasonable effectiveness of mathematics in the natural sciences."
+    ], 
+    [
       537, 
       "(Springer series in operations research) Jorge Nocedal, Stephen Wright-Numerical Optimization-Springer (2006)"
     ], 
@@ -603,10 +607,6 @@
     [
       654, 
       "letters"
-    ], 
-    [
-      697, 
-      "The Elements of Style Illustrated"
     ]
   ], 
   "library_view books view state": {
@@ -645,6 +645,18 @@
     }, 
     "sort_history": [
       [
+        "authors", 
+        true
+      ], 
+      [
+        "last_modified", 
+        false
+      ], 
+      [
+        "title", 
+        false
+      ], 
+      [
         "last_modified", 
         true
       ], 
@@ -654,10 +666,6 @@
       ], 
       [
         "title", 
-        true
-      ], 
-      [
-        "authors", 
         true
       ], 
       [
