@@ -10,8 +10,9 @@
         <dc:publisher>Random House Publishing Group</dc:publisher>
         <dc:identifier opf:scheme="ISBN">978-0-440-33906-9</dc:identifier>
         <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
         <meta content="{&quot;Kurt Vonnegut&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2020-03-28T06:02:38.601884+00:00" name="calibre:timestamp"/>
+        <meta content="2020-03-28T06:02:38+00:00" name="calibre:timestamp"/>
         <meta content="Slaughterhouse-Five" name="calibre:title_sort"/>
     </metadata>
     <guide>

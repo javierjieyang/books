@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b94ca469-9231-43db-9ff2-75fc51c612fa</dc:identifier>
         <dc:title>Rationality: From AI to Zombies</dc:title>
         <dc:creator opf:file-as="Yudkowsky, Eliezer" opf:role="aut">Eliezer Yudkowsky</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-03-15T18:30:00+00:00</dc:date>
         <dc:publisher>Machine Intelligence Research Institute</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781939311153</dc:identifier>

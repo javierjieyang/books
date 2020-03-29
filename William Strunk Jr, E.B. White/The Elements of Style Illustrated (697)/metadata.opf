@@ -8,6 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>Writing</dc:subject>
+        <dc:subject>Story-telling</dc:subject>
         <meta content="{&quot;William Strunk Jr, E.B. White&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2020-03-28T06:02:38+00:00" name="calibre:timestamp"/>
         <meta content="Elements of Style Illustrated, The" name="calibre:title_sort"/>

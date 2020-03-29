@@ -13,9 +13,11 @@
         <dc:identifier opf:scheme="AMAZON">0465031463</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">204d5d90-6b82-4372-9c2f-637d8985079c</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Society</dc:subject>
         <meta content="{&quot;Sherry Turkle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="8" name="calibre:rating"/>
-        <meta content="2020-03-28T06:02:45.870938+00:00" name="calibre:timestamp"/>
+        <meta content="2020-03-28T06:02:45+00:00" name="calibre:timestamp"/>
         <meta content="Alone Together: Why We Expect More From Technology and Less From Each Other" name="calibre:title_sort"/>
     </metadata>
     <guide>

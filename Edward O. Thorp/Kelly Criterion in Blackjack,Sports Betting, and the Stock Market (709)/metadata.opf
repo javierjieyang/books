@@ -9,6 +9,8 @@
         <dc:date>2006-04-10T11:44:19+00:00</dc:date>
         <dc:identifier opf:scheme="DOI">10.1016/S1872-0978(06)01009-X</dc:identifier>
         <dc:language>en</dc:language>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Decision-Making</dc:subject>
         <meta content="{&quot;Edward O. Thorp&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2020-03-28T06:02:39+00:00" name="calibre:timestamp"/>
         <meta content="Kelly Criterion in Blackjack,Sports Betting, and the Stock Market" name="calibre:title_sort"/>

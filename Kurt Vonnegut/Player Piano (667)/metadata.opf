@@ -10,8 +10,9 @@
         <dc:publisher>Random House Publishing Group</dc:publisher>
         <dc:identifier opf:scheme="ISBN">978-0-307-56808-3</dc:identifier>
         <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
         <meta content="{&quot;Kurt Vonnegut&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2020-03-28T06:02:36.123996+00:00" name="calibre:timestamp"/>
+        <meta content="2020-03-28T06:02:36+00:00" name="calibre:timestamp"/>
         <meta content="Player Piano" name="calibre:title_sort"/>
     </metadata>
     <guide>

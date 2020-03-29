@@ -8,6 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-06-04T15:35:48+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>Data Visualization</dc:subject>
+        <dc:subject>Story-telling</dc:subject>
         <meta content="{&quot;Edward R. Tufte&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2020-03-28T06:02:28+00:00" name="calibre:timestamp"/>
         <meta content="Visual Display of Quantitative Information, The" name="calibre:title_sort"/>

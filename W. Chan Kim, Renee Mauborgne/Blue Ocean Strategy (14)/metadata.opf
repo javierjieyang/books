@@ -5,9 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">145f34e7-8bb0-4f82-8e6b-cf51051feab0</dc:identifier>
         <dc:title>Blue Ocean Strategy</dc:title>
         <dc:creator opf:file-as="W. Chan Kim, Renée Mauborgne" opf:role="aut">W. Chan Kim, Renée Mauborgne</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-06-26T07:49:59+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Strategy</dc:subject>
         <meta content="{&quot;W. Chan Kim, Renée Mauborgne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2018-03-30T06:47:44+00:00" name="calibre:timestamp"/>
         <meta content="Blue Ocean Strategy" name="calibre:title_sort"/>

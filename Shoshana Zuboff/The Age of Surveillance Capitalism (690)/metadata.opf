@@ -11,8 +11,10 @@
         <dc:publisher>PublicAffairs</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">9d4693dd-8ec6-4641-b9eb-ff81a7ffb051</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>Capitalism</dc:subject>
+        <dc:subject>Technology</dc:subject>
         <meta content="{&quot;Shoshana Zuboff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2020-03-28T06:02:38.148760+00:00" name="calibre:timestamp"/>
+        <meta content="2020-03-28T06:02:38+00:00" name="calibre:timestamp"/>
         <meta content="Age of Surveillance Capitalism, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

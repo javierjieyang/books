@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">10290a9c-eba7-4216-afa1-0ed93d5228fb</dc:identifier>
         <dc:title>Letters from the Earth</dc:title>
         <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1962-12-31T08:10:43+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Mark Twain&quot;: &quot;&quot;}" name="calibre:author_link_map"/>

@@ -549,64 +549,64 @@
   }, 
   "gui_view_history": [
     [
-      189, 
-      "The unreasonable effectiveness of mathematics in the natural sciences."
+      697, 
+      "The Elements of Style Illustrated"
     ], 
     [
-      537, 
-      "(Springer series in operations research) Jorge Nocedal, Stephen Wright-Numerical Optimization-Springer (2006)"
+      616, 
+      "The Visual Display of Quantitative Information"
     ], 
     [
-      562, 
-      "howtosavetheworld"
+      678, 
+      "Ultralearning"
     ], 
     [
-      713, 
-      "ergodicity economics.pdf"
+      690, 
+      "The Age of Surveillance Capitalism"
     ], 
     [
-      551, 
-      "Neal Stephenson - Diamond Age 0553380966.doc"
+      722, 
+      "The Art of War"
     ], 
     [
-      534, 
-      "The Design of Everyday Things"
+      626, 
+      "the-Morning-Paper-7-1517845719779"
     ], 
     [
-      473, 
-      "Moneyball"
+      631, 
+      "the-infoq-emag-morning-paper-ai-1547046265719"
     ], 
     [
-      590, 
-      "Microsoft Word - Document1"
+      622, 
+      "The Morning Paper - June 2017"
     ], 
     [
-      591, 
-      "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash"
+      621, 
+      "InfoQ-The-Morning-Paper-2"
     ], 
     [
-      593, 
-      "Quick Start Guide"
+      623, 
+      "InfoQ-The-Morning-Paper"
     ], 
     [
-      594, 
-      "AI MIT"
-    ], 
-    [
-      597, 
-      "Mutlplicative effecrt"
-    ], 
-    [
-      615, 
-      "18.S097 Applied Category Theory: Textbook"
-    ], 
-    [
-      630, 
-      "arXiv:quant-ph/0101012v4 25 Sep 2001"
+      619, 
+      "The-Morning-Paper-Q1"
     ], 
     [
       654, 
       "letters"
+    ], 
+    [
+      539, 
+      "II Smart Beta Not New Not Beta Still Awesome"
+    ], 
+    [
+      526, 
+      "parallel merged"
+    ], 
+    [
+      578, 
+      "Algorithm design manual"
     ]
   ], 
   "library_view books view state": {
@@ -618,7 +618,7 @@
     "column_sizes": {
       "rating": 0, 
       "pubdate": 98, 
-      "tags": 0, 
+      "tags": 286, 
       "series": 0, 
       "timestamp": 62, 
       "title": 425, 
@@ -630,43 +630,31 @@
     }, 
     "languages_injected": true, 
     "column_positions": {
-      "rating": 5, 
+      "rating": 6, 
       "pubdate": 9, 
       "title": 1, 
       "series": 7, 
-      "timestamp": 3, 
-      "tags": 6, 
+      "timestamp": 4, 
+      "tags": 3, 
       "publisher": 8, 
       "languages": 11, 
       "last_modified": 10, 
       "ondevice": 0, 
       "authors": 2, 
-      "size": 4
+      "size": 5
     }, 
     "sort_history": [
       [
+        "pubdate", 
+        true
+      ], 
+      [
         "authors", 
-        true
-      ], 
-      [
-        "last_modified", 
-        false
-      ], 
-      [
-        "title", 
         false
       ], 
       [
         "last_modified", 
-        true
-      ], 
-      [
-        "size", 
         false
-      ], 
-      [
-        "title", 
-        true
       ], 
       [
         "timestamp", 
@@ -675,7 +663,6 @@
     ], 
     "hidden_columns": [
       "rating", 
-      "tags", 
       "series", 
       "publisher", 
       "languages"

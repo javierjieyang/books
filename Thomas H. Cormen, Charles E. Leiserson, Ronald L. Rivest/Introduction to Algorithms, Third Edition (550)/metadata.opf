@@ -6,12 +6,14 @@
         <dc:title>Introduction to Algorithms, Third Edition</dc:title>
         <dc:creator opf:file-as="Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest &amp; Stein, Clifford" opf:role="aut">Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest</dc:creator>
         <dc:creator opf:file-as="Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest &amp; Stein, Clifford" opf:role="aut">Clifford Stein</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-08-01T20:27:29+00:00</dc:date>
         <dc:identifier opf:scheme="ISBN">9780262270830</dc:identifier>
         <dc:language>en</dc:language>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
         <meta content="{&quot;Clifford Stein&quot;: &quot;&quot;, &quot;Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-01-30T15:12:17.583167+00:00" name="calibre:timestamp"/>
+        <meta content="2019-01-30T15:12:17+00:00" name="calibre:timestamp"/>
         <meta content="Introduction to Algorithms, Third Edition" name="calibre:title_sort"/>
     </metadata>
     <guide>
