@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hate Inc.</title>
+  <id>urn:book:323ee211-3ebb-4d43-b31a-3703ad4a8e34</id>
+  <updated>2020-03-28T07:56:35Z</updated>
+  <link href="./book_674.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Hate Inc." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Taibbi/Hate%20Inc_%20%28674%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Taibbi/Hate%20Inc_%20%28674%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Taibbi/Hate%20Inc_%20%28674%29/Hate%20Inc_%20-%20Matt%20Taibbi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Taibbi/Hate%20Inc_%20%28674%29/Hate%20Inc_%20-%20Matt%20Taibbi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Matt Taibbi</name>
+    <uri>../author_0/author_424_Page_1.xml</uri>
+  </author>
+  <published>2019-07-16T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>OR Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      OR Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <b xmlns="">
+      Part tirade, part confessional from the celebrated
+      <i>Rolling Stone</i>
+      journalist,
+      <i>Hate Inc.</i>
+      reveals that what most people think of as "the
+  news" is, in fact, a twisted wing of the entertainment
+  business
+    </b>
+    <br xmlns="" />
+    <i xmlns="">Rolling Stone</i>
+    <br xmlns="" />
+    <br xmlns="" />
+  </content>
+  <link href="http://www.goodreads.com/book/title/Hate%20Inc." type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Hate%20Inc." type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Hate%20Inc.%20Matt%20Taibbi" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Hate%20Inc.&amp;field-author=Matt%20Taibbi" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Matt%20Taibbi" type="text/html" rel="related" title="Matt Taibbi on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Matt%20Taibbi" type="text/html" rel="related" title="Matt Taibbi on Wikipedia" />
+  <link href="http://www.librarything.com/author/TaibbiMatt" type="text/html" rel="related" title="Matt Taibbi on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Matt%20Taibbi" type="text/html" rel="related" title="Matt Taibbi on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Matt%20Taibbi" type="text/html" rel="related" title="Matt Taibbi on ISFDB" />
+</entry>

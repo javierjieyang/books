@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>John L. Hennessy, David A. Patterson</title>
+  <id>Calibre2opds:author:512</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_512_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="John L. Hennessy, David A. Patterson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>Computer Architecture: A Quantitative Approach</title>
+    <id>calibre:book:411</id>
+    <updated>2019-12-07T00:47:23Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20L.%20Hennessy%2C%20David%20A.%20Patterson/Computer%20Architecture_%20A%20Quantitative%20Approach%20%28411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20L.%20Hennessy%2C%20David%20A.%20Patterson/Computer%20Architecture_%20A%20Quantitative%20Approach%20%28411%29/Computer%20Architecture_%20A%20Quantitative%20Appr%20-%20John%20L.%20Hennessy%2C%20David%20A.%20Patterson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John L. Hennessy, David A. Patterson</name>
+      <uri>../author_0/author_512_Page_1.xml</uri>
+    </author>
+    <published>2011-04-15T09:59:40Z</published>
+    <category term="Computer Architecture: A Quantitative Approach" />
+    <category term="Sixth Edition (2019) 1-1527. 978-0-12-811905-1" />
+    <summary>Computer Architecture: A Quantitative Approach, Sixth Edition (2019) 1-1527. 978-0-12-811905-1</summary>
+    <link href="../book_0/book_411.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

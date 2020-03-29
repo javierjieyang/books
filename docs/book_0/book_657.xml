@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Deep Simplicity</title>
+  <id>urn:book:338bca94-be9d-49a6-b230-d91f26b7c645</id>
+  <updated>2020-03-28T07:22:40Z</updated>
+  <link href="./book_657.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Deep Simplicity" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gribbin/Deep%20Simplicity%20%28657%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gribbin/Deep%20Simplicity%20%28657%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gribbin/Deep%20Simplicity%20%28657%29/Deep%20Simplicity%20-%20John%20Gribbin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gribbin/Deep%20Simplicity%20%28657%29/Deep%20Simplicity%20-%20John%20Gribbin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>John Gribbin</name>
+    <uri>../author_0/author_406_Page_1.xml</uri>
+  </author>
+  <published>2005-03-14T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Adult</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Adult
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">'Gribbin takes us through the basics with his customary
+    talent for accessibility and clarity' Sunday Times</p>
+    <p xmlns="">The world around us can be a complex, confusing place.
+    Earthquakes happen without warning, stock markets fluctuate,
+    weather forecasters seldom seem to get it right – even
+    other people continue to baffle us. How do we make sense of it
+    all?</p>
+    <p xmlns="">In fact, John Gribbin reveals, our seemingly random universe
+    is actually built on simple laws of cause and effect that can
+    explain why, for example, just one vehicle braking can cause a
+    traffic jam; why wild storms result from a slight atmospheric
+    change; even how we evolved from the most basic materials. Like
+    a zen painting, a fractal image or the pattern on a butterfly's
+    wings, simple elements form the bedrock of a sophisticated
+    whole.</p>
+    <p xmlns="">Synthesizing chaos and complexity theory for the perplexed,
+    Deep Simplicity brilliantly illuminates the harmony underlying
+    our existence.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Deep%20Simplicity" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Deep%20Simplicity" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Deep%20Simplicity%20John%20Gribbin" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Deep%20Simplicity&amp;field-author=John%20Gribbin" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/John%20Gribbin" type="text/html" rel="related" title="John Gribbin on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/John%20Gribbin" type="text/html" rel="related" title="John Gribbin on Wikipedia" />
+  <link href="http://www.librarything.com/author/GribbinJohn" type="text/html" rel="related" title="John Gribbin on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20Gribbin" type="text/html" rel="related" title="John Gribbin on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20Gribbin" type="text/html" rel="related" title="John Gribbin on ISFDB" />
+</entry>

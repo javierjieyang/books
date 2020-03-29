@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Art of War</title>
+  <id>urn:book:364125e7-6a35-4358-8d10-f0f06326c14e</id>
+  <updated>2020-03-29T02:10:16Z</updated>
+  <link href="./book_722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Art of War" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/The%20Art%20of%20War%20-%20Sun%20Tzu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/The%20Art%20of%20War%20-%20Sun%20Tzu.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Sun Tzu</name>
+    <uri>../author_0/author_522_Page_1.xml</uri>
+  </author>
+  <published>1994-04-30T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Military art and science -- Early works to 1800" />
+  <category term="War -- Early works to 1800" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Military art and science -- Early works to 1800, War -- Early works to 1800, Lang:en
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Art%20of%20War" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Art%20of%20War" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Art%20of%20War%20Sun%20Tzu" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Art%20of%20War&amp;field-author=Sun%20Tzu" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Sun%20Tzu" type="text/html" rel="related" title="Sun Tzu on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sun%20Tzu" type="text/html" rel="related" title="Sun Tzu on Wikipedia" />
+  <link href="http://www.librarything.com/author/TzuSun" type="text/html" rel="related" title="Sun Tzu on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Sun%20Tzu" type="text/html" rel="related" title="Sun Tzu on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Sun%20Tzu" type="text/html" rel="related" title="Sun Tzu on ISFDB" />
+</entry>

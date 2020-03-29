@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marshall B. Rosenberg</title>
+  <id>Calibre2opds:author:204</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_204_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marshall B. Rosenberg" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)</title>
+    <id>calibre:book:494</id>
+    <updated>2020-03-28T07:46:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marshall B. Rosenberg</name>
+      <uri>../author_0/author_204_Page_1.xml</uri>
+    </author>
+    <published>2015-08-31T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Puddledancer Press</dcterms:publisher>
+    <category term="1. Interpersonal communication. 2. Interpersonal relations. 3. Nonviolence." />
+    <category term="Lang:en" />
+    <summary>The latest edition of the communication guide that has sold more than 1,000,000 copiesAn enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller...</summary>
+    <link href="../book_0/book_494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

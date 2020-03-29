@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest</title>
+  <id>Calibre2opds:author:303</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_303_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>Introduction to Algorithms, Third Edition</title>
+    <id>calibre:book:550</id>
+    <updated>2019-12-07T00:47:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest/Introduction%20to%20Algorithms%2C%20Third%20Edition%20%28550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest/Introduction%20to%20Algorithms%2C%20Third%20Edition%20%28550%29/Introduction%20to%20Algorithms%2C%20Third%20Edition%20-%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest/Introduction%20to%20Algorithms%2C%20Third%20Edition%20%28550%29/Introduction%20to%20Algorithms%2C%20Third%20Edition%20-%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ro.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest</name>
+      <uri>../author_0/author_303_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Clifford Stein</name>
+      <uri>../author_0/author_304_Page_1.xml</uri>
+    </author>
+    <published>2011-08-01T08:27:29Z</published>
+    <category term="Algorithms" />
+    <category term="Computer Science" />
+    <link href="../book_0/book_550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

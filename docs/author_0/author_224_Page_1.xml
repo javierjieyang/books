@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Steven Halim, Felix Halim</title>
+  <id>Calibre2opds:author:224</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_224_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Steven Halim, Felix Halim" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <entry>
+    <title>Competitive Programming</title>
+    <id>calibre:book:75</id>
+    <updated>2019-12-07T00:47:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Steven Halim, Felix Halim</name>
+      <uri>../author_0/author_224_Page_1.xml</uri>
+    </author>
+    <published>2010-08-09T00:45:31Z</published>
+    <link href="../book_0/book_75.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

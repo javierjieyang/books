@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Joy on Demand</title>
+  <id>urn:book:e44435d3-5029-45db-9c02-a7aa5d1c879e</id>
+  <updated>2020-03-28T08:01:03Z</updated>
+  <link href="./book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Joy on Demand" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/Joy%20on%20Demand%20-%20Chade-Meng%20Tan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/Joy%20on%20Demand%20-%20Chade-Meng%20Tan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/Joy%20on%20Demand%20-%20Chade-Meng%20Tan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Chade-Meng Tan</name>
+    <uri>../author_0/author_52_Page_1.xml</uri>
+  </author>
+  <published>2016-04-26T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      HarperCollins
+    </p>
+    <p>
+      <strong>Added:</strong>
+      June 1, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">A long-awaited follow-up to the New York Times bestselling
+    Search Inside Yourself shows us how to cultivate joy within the
+    context of our fast-paced lives and explains why it is critical
+    to creativity, innovation, confidence, and ultimately success
+    in every arena.</p>
+    <p xmlns="">In Joy on Demand, Chade-Meng Tan shows that you don't need
+    to meditate for hours, days, months or years to achieve lasting
+    joy—you can actually get consistent access to it in as
+    little as fifteen seconds. Explaining joy and meditation as
+    complementary things that naturally reinforce each other, Meng
+    explains how these two skills form a virtuous cycle, and once
+    put into motion, become a solid practice that can be sustained
+    in daily life.</p>
+    <p xmlns="">For many years, meditation has been taught and practiced in
+    cultures where almost all meditators practice full-time for
+    years, resulting in training programs optimized for
+    practitioners with lots of free time and not much else to do
+    but develop profound mastery over...</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Joy%20on%20Demand" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Joy%20on%20Demand" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Joy%20on%20Demand%20Chade-Meng%20Tan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Joy%20on%20Demand&amp;field-author=Chade-Meng%20Tan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Chade-Meng%20Tan" type="text/html" rel="related" title="Chade-Meng Tan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Chade-Meng%20Tan" type="text/html" rel="related" title="Chade-Meng Tan on Wikipedia" />
+  <link href="http://www.librarything.com/author/TanChade-Meng" type="text/html" rel="related" title="Chade-Meng Tan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Chade-Meng%20Tan" type="text/html" rel="related" title="Chade-Meng Tan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Chade-Meng%20Tan" type="text/html" rel="related" title="Chade-Meng Tan on ISFDB" />
+</entry>

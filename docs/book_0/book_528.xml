@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Design of Everyday Things: Revised and Expanded Edition</title>
+  <id>urn:book:05e95bf5-aaf4-4bba-8d01-0f70d2ad30b1</id>
+  <updated>2020-03-28T07:37:42Z</updated>
+  <link href="./book_528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Design of Everyday Things: Revised and Expanded Edition" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Norman, Don</name>
+    <uri>../author_0/author_280_Page_1.xml</uri>
+  </author>
+  <published>2013-11-05T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Basic Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Basic Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      October 13, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Design%20of%20Everyday%20Things%3A%20Revised%20and%20Expanded%20Edition" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Design%20of%20Everyday%20Things%3A%20Revised%20and%20Expanded%20Edition" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Design%20of%20Everyday%20Things%3A%20Revised%20and%20Expanded%20Edition%20Norman%2C%20Don" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Design%20of%20Everyday%20Things%3A%20Revised%20and%20Expanded%20Edition&amp;field-author=Norman%2C%20Don" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Norman%2C%20Don" type="text/html" rel="related" title="Norman, Don on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Norman%2C%20Don" type="text/html" rel="related" title="Norman, Don on Wikipedia" />
+  <link href="http://www.librarything.com/author/NormanDon" type="text/html" rel="related" title="Norman, Don on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Norman%2C%20Don" type="text/html" rel="related" title="Norman, Don on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Norman%2C%20Don" type="text/html" rel="related" title="Norman, Don on ISFDB" />
+</entry>

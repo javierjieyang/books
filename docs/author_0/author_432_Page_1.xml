@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Johnson, Sue</title>
+  <id>Calibre2opds:author:432</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_432_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Johnson, Sue" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>Love Sense: The Revolutionary New Science of Romantic Relationships</title>
+    <id>calibre:book:685</id>
+    <updated>2020-03-28T07:26:14Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Johnson%2C%20Sue/Love%20Sense_%20The%20Revolutionary%20New%20Science%20of%20Romantic%20Relationships%20%28685%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Johnson%2C%20Sue/Love%20Sense_%20The%20Revolutionary%20New%20Science%20of%20Romantic%20Relationships%20%28685%29/Love%20Sense_%20The%20Revolutionary%20New%20Science%20-%20Johnson%2C%20Sue.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Johnson%2C%20Sue/Love%20Sense_%20The%20Revolutionary%20New%20Science%20of%20Romantic%20Relationships%20%28685%29/Love%20Sense_%20The%20Revolutionary%20New%20Science%20-%20Johnson%2C%20Sue.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Johnson, Sue</name>
+      <uri>../author_0/author_432_Page_1.xml</uri>
+    </author>
+    <published>2013-12-31T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_685.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

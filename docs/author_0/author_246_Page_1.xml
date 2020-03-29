@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carol S. Pearson</title>
+  <id>Calibre2opds:author:246</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_246_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carol S. Pearson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>The Hero Within: Six Archetypes We Live by</title>
+    <id>calibre:book:7</id>
+    <updated>2019-12-07T00:47:19Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20by%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20by%20%287%29/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20by%20-%20Carol%20S.%20Pearson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20by%20%287%29/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20by%20-%20Carol%20S.%20Pearson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20by%20%287%29/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20by%20-%20Carol%20S.%20Pearson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Carol S. Pearson</name>
+      <uri>../author_0/author_246_Page_1.xml</uri>
+    </author>
+    <published>1986-07-31T06:30:00Z</published>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

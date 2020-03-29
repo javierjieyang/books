@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Designing Data-Intensive Applications</title>
+  <id>urn:book:4c159461-e6c3-4742-b7c6-627adbcfbfc8</id>
+  <updated>2020-03-28T11:32:28Z</updated>
+  <link href="./book_612.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Designing Data-Intensive Applications" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Martin%20Kleppmann/Designing%20Data-Intensive%20Applications%20%28612%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Martin%20Kleppmann/Designing%20Data-Intensive%20Applications%20%28612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Martin%20Kleppmann/Designing%20Data-Intensive%20Applications%20%28612%29/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Martin Kleppmann</name>
+    <uri>../author_0/author_372_Page_1.xml</uri>
+  </author>
+  <published>2017-03-01T06:01:20Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Designing%20Data-Intensive%20Applications" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Designing%20Data-Intensive%20Applications" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Designing%20Data-Intensive%20Applications%20Martin%20Kleppmann" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Designing%20Data-Intensive%20Applications&amp;field-author=Martin%20Kleppmann" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Martin%20Kleppmann" type="text/html" rel="related" title="Martin Kleppmann on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Martin%20Kleppmann" type="text/html" rel="related" title="Martin Kleppmann on Wikipedia" />
+  <link href="http://www.librarything.com/author/KleppmannMartin" type="text/html" rel="related" title="Martin Kleppmann on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Martin%20Kleppmann" type="text/html" rel="related" title="Martin Kleppmann on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Martin%20Kleppmann" type="text/html" rel="related" title="Martin Kleppmann on ISFDB" />
+</entry>

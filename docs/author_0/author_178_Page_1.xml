@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lilliana Mason</title>
+  <id>Calibre2opds:author:178</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_178_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lilliana Mason" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <entry>
+    <title>Uncivil Agreement: How Politics Became Our Identity</title>
+    <id>calibre:book:434</id>
+    <updated>2020-03-28T07:32:16Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20-%20Lilliana%20Mason.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20-%20Lilliana%20Mason.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20-%20Lilliana%20Mason.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Lilliana Mason</name>
+      <uri>../author_0/author_178_Page_1.xml</uri>
+    </author>
+    <published>2018-04-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="Political Ideologies" />
+    <category term="Political Process" />
+    <category term="Social Science" />
+    <category term="Sociology" />
+    <category term="Lang:en" />
+    <summary>Political polarization in America is at an all-time high, and the conflict has moved beyond disagreements about matters of policy. For the first time in more than twenty years, research has shown that members of both parties hold strongly unfavorable...</summary>
+    <link href="../book_0/book_434.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

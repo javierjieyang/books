@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Warren Berger</title>
+  <id>Calibre2opds:author:177</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_177_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Warren Berger" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <entry>
+    <title>A More Beautiful Question</title>
+    <id>calibre:book:433</id>
+    <updated>2020-03-28T07:01:55Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Warren Berger</name>
+      <uri>../author_0/author_177_Page_1.xml</uri>
+    </author>
+    <published>2014-01-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this groundbreaking book, journalist and innovation expert Warren Berger shows that one of the most powerful forces for igniting change in business and in our daily lives is a simple, under-appreciated tool&amp;#8212;one that has been available to us ...</summary>
+    <link href="../book_0/book_433.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

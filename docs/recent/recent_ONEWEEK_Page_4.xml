@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous week</title>
+  <id>Calibre2opds:recent:ONEWEEK</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEWEEK_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous week" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_ONEWEEK_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
+  <entry>
+    <title>Selected Letters [March 28, 2020]</title>
+    <id>calibre:book:654</id>
+    <updated>2020-03-29T01:49:43Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Von%20Neumann/Selected%20Letters%20%28654%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Von%20Neumann/Selected%20Letters%20%28654%29/Selected%20Letters%20-%20John%20Von%20Neumann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Von%20Neumann/Selected%20Letters%20%28654%29/Selected%20Letters%20-%20John%20Von%20Neumann.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Von Neumann</name>
+      <uri>../author_0/author_519_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_654.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Laws of Human Nature [March 28, 2020]</title>
+    <id>calibre:book:655</id>
+    <updated>2020-03-28T07:22:10Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Laws%20of%20Human%20Nature%20%28655%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Laws%20of%20Human%20Nature%20%28655%29/The%20Laws%20of%20Human%20Nature%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Laws%20of%20Human%20Nature%20%28655%29/The%20Laws%20of%20Human%20Nature%20-%20Robert%20Greene.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert Greene</name>
+      <uri>../author_0/author_87_Page_1.xml</uri>
+    </author>
+    <published>2018-10-23T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From the #1 New York Times-bestselling author of The 48 Laws of Power comes the definitive new book on decoding the behavior of the people around youRobert Greene is a master guide for millions of readers, distilling ancient wisdom and philosophy int...</summary>
+    <link href="../book_0/book_655.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Philosophy of Software Design [March 28, 2020]</title>
+    <id>calibre:book:656</id>
+    <updated>2020-03-28T07:39:21Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Ousterhout</name>
+      <uri>../author_0/author_405_Page_1.xml</uri>
+    </author>
+    <published>2019-01-22T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Yaknyam Press, Palo Alto, CA</dcterms:publisher>
+    <category term="software complexity" />
+    <category term="Computer Programming" />
+    <category term="interface vs. implementation" />
+    <category term="modular decomposition" />
+    <category term="abstraction" />
+    <category term="software design" />
+    <category term="Lang:en" />
+    <summary>This book addresses the topic of software design: how to decompose complex software systems into modules (such as classes and methods) that can be implemented relatively independently. The book first introduces the fundamental problem in software des...</summary>
+    <link href="../book_0/book_656.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deep Simplicity [March 28, 2020]</title>
+    <id>calibre:book:657</id>
+    <updated>2020-03-28T07:22:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gribbin/Deep%20Simplicity%20%28657%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gribbin/Deep%20Simplicity%20%28657%29/Deep%20Simplicity%20-%20John%20Gribbin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gribbin/Deep%20Simplicity%20%28657%29/Deep%20Simplicity%20-%20John%20Gribbin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Gribbin</name>
+      <uri>../author_0/author_406_Page_1.xml</uri>
+    </author>
+    <published>2005-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Adult</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>'Gribbin takes us through the basics with his customary talent for accessibility and clarity' Sunday TimesThe world around us can be a complex, confusing place. Earthquakes happen without warning, stock markets fluctuate, weather forecasters seldom s...</summary>
+    <link href="../book_0/book_657.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Indistractable [March 28, 2020]</title>
+    <id>calibre:book:658</id>
+    <updated>2020-03-28T07:16:01Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nir%20Eyal%3B/Indistractable%20%28658%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nir%20Eyal%3B/Indistractable%20%28658%29/Indistractable%20-%20Nir%20Eyal%3B.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nir%20Eyal%3B/Indistractable%20%28658%29/Indistractable%20-%20Nir%20Eyal%3B.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nir Eyal;</name>
+      <uri>../author_0/author_407_Page_1.xml</uri>
+    </author>
+    <published>2019-07-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Lightning Source Inc. (Tier 3)</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_658.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Muzero: Mastering Atari, Go, Chess and Shogi by Planning with aLearned Model [March 28, 2020]</title>
+    <id>calibre:book:638</id>
+    <updated>2020-03-28T11:32:33Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/Muzero_%20Mastering%20Atari%2C%20Go%2C%20Chess%20and%20Shogi%20by%20Planning%20with%20aLearned%20Model%20%28638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/Muzero_%20Mastering%20Atari%2C%20Go%2C%20Chess%20and%20Shogi%20by%20Planning%20with%20aLearned%20Model%20%28638%29/Muzero_%20Mastering%20Atari%2C%20Go%2C%20Chess%20and%20Sho%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>Muzero</summary>
+    <link href="../book_0/book_638.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Web Typography [March 28, 2020]</title>
+    <id>calibre:book:639</id>
+    <updated>2020-03-28T11:32:33Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Rutter/Web%20Typography%20%28639%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Rutter/Web%20Typography%20%28639%29/Web%20Typography%20-%20Richard%20Rutter.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Richard Rutter</name>
+      <uri>../author_0/author_389_Page_1.xml</uri>
+    </author>
+    <published>2017-06-13T08:39:38Z</published>
+    <category term="A handbook for designing beautiful and effective responsive typography." />
+    <summary>A handbook for designing beautiful and effective responsive typography.</summary>
+    <link href="../book_0/book_639.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of Thinking Clearly [March 28, 2020]</title>
+    <id>calibre:book:640</id>
+    <updated>2020-03-28T07:12:28Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Rolf%20Dobelli/The%20Art%20of%20Thinking%20Clearly%20%28640%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Rolf%20Dobelli/The%20Art%20of%20Thinking%20Clearly%20%28640%29/The%20Art%20of%20Thinking%20Clearly%20-%20Rolf%20Dobelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Rolf%20Dobelli/The%20Art%20of%20Thinking%20Clearly%20%28640%29/The%20Art%20of%20Thinking%20Clearly%20-%20Rolf%20Dobelli.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Rolf Dobelli</name>
+      <uri>../author_0/author_390_Page_1.xml</uri>
+    </author>
+    <published>2013-05-14T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper</dcterms:publisher>
+    <category term="Non-Fiction" />
+    <category term="Lang:en" />
+    <summary>Have you ever . . . Invested time in something that, in hindsight, just wasn't worth it? Paid too much in an eBay auction? Continued to do something you knew was bad for you? Sold stocks too late, or too early? Taken credit for success, but blamed fa...</summary>
+    <link href="../book_0/book_640.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hold Me Tight: Seven Conversations for a Lifetime of Love [March 28, 2020]</title>
+    <id>calibre:book:641</id>
+    <updated>2020-03-28T07:56:02Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20L%20-%20Dr.%20Sue%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20L%20-%20Dr.%20Sue%20Johnson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Dr. Sue Johnson</name>
+      <uri>../author_0/author_391_Page_1.xml</uri>
+    </author>
+    <published>2008-04-08T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="FAM000000" />
+    <category term="Lang:en" />
+    <summary>Heralded by the New York Times and Time magazine as the couple therapy with the highest rate of success, Emotionally Focused Therapy works because it views the love relationship as an attachment bond. This idea, once controversial, is now supported b...</summary>
+    <link href="../book_0/book_641.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tribe [March 28, 2020]</title>
+    <id>calibre:book:642</id>
+    <updated>2020-03-28T07:26:50Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sebastian%20Junger/Tribe%20%28642%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sebastian%20Junger/Tribe%20%28642%29/Tribe%20-%20Sebastian%20Junger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sebastian%20Junger/Tribe%20%28642%29/Tribe%20-%20Sebastian%20Junger.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sebastian Junger</name>
+      <uri>../author_0/author_392_Page_1.xml</uri>
+    </author>
+    <published>2016-05-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grand Central Publishing</dcterms:publisher>
+    <category term="Social Science / Violence In Society" />
+    <category term="History / Military / Iraq War (2003-2011)" />
+    <category term="History / Military / Afghan War (2001-)" />
+    <category term="Lang:en" />
+    <summary>We have a strong instinct to belong to small groups defined by clear purpose and understanding -"tribes." This tribal connection has been largely lost in modern society, but regaining it may be the key to our psychological survival. Decades before th...</summary>
+    <link href="../book_0/book_642.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>On Writing [March 28, 2020]</title>
+    <id>calibre:book:643</id>
+    <updated>2020-03-28T07:28:16Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/King%2C%20Stephen/On%20Writing%20%28643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/King%2C%20Stephen/On%20Writing%20%28643%29/On%20Writing%20-%20King%2C%20Stephen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/King%2C%20Stephen/On%20Writing%20%28643%29/On%20Writing%20-%20King%2C%20Stephen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>King, Stephen</name>
+      <uri>../author_0/author_393_Page_1.xml</uri>
+    </author>
+    <published>2000-10-03T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A memoir of the craft</summary>
+    <link href="../book_0/book_643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>It Doesn't Have to Be Crazy at Work [March 28, 2020]</title>
+    <id>calibre:book:644</id>
+    <updated>2020-03-28T07:20:13Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20-%20Jason%20Fried.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20-%20Jason%20Fried.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jason Fried</name>
+      <uri>../author_0/author_394_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>David Heinemeier Hansson</name>
+      <uri>../author_0/author_395_Page_1.xml</uri>
+    </author>
+    <published>2018-10-01T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperBusiness</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crushing It! EPB [March 28, 2020]</title>
+    <id>calibre:book:645</id>
+    <updated>2020-03-28T08:03:51Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Vaynerchuk/Crushing%20It%21%20EPB%20%28645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Vaynerchuk/Crushing%20It%21%20EPB%20%28645%29/Crushing%20It%21%20EPB%20-%20Gary%20Vaynerchuk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Vaynerchuk/Crushing%20It%21%20EPB%20%28645%29/Crushing%20It%21%20EPB%20-%20Gary%20Vaynerchuk.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gary Vaynerchuk</name>
+      <uri>../author_0/author_396_Page_1.xml</uri>
+    </author>
+    <published>2018-01-30T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Business" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_645.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>So You Want to Talk About Race [March 28, 2020]</title>
+    <id>calibre:book:646</id>
+    <updated>2020-03-28T07:38:16Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ijeoma%20Oluo/So%20You%20Want%20to%20Talk%20About%20Race%20%28646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ijeoma%20Oluo/So%20You%20Want%20to%20Talk%20About%20Race%20%28646%29/So%20You%20Want%20to%20Talk%20About%20Race%20-%20Ijeoma%20Oluo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ijeoma%20Oluo/So%20You%20Want%20to%20Talk%20About%20Race%20%28646%29/So%20You%20Want%20to%20Talk%20About%20Race%20-%20Ijeoma%20Oluo.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ijeoma Oluo</name>
+      <uri>../author_0/author_397_Page_1.xml</uri>
+    </author>
+    <published>2018-01-16T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Seal Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>When Genius Failed: The Rise and Fall of Long-Term Capital Management [March 28, 2020]</title>
+    <id>calibre:book:647</id>
+    <updated>2020-03-28T07:30:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20L%20-%20Roger%20Lowenstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20L%20-%20Roger%20Lowenstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Roger Lowenstein</name>
+      <uri>../author_0/author_398_Page_1.xml</uri>
+    </author>
+    <published>2001-01-17T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Business" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_647.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A People's History of the United States [March 28, 2020]</title>
+    <id>calibre:book:648</id>
+    <updated>2020-03-28T06:56:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/A%20People%27s%20History%20of%20the%20United%20States%20-%20Howard%20Zinn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/A%20People%27s%20History%20of%20the%20United%20States%20-%20Howard%20Zinn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Howard Zinn</name>
+      <uri>../author_0/author_399_Page_1.xml</uri>
+    </author>
+    <published>2010-01-26T10:20:52Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="History" />
+    <category term="General" />
+    <category term="United States" />
+    <category term="Political Science" />
+    <category term="Political Ideologies" />
+    <category term="Democracy" />
+    <category term="Lang:en" />
+    <summary>Since its original landmark publication in 1980, A People's History of the United States has been chronicling American history from the bottom up, throwing out the official version of history taught in schools–with its emphasis on great men in high p...</summary>
+    <link href="../book_0/book_648.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Power of Market Fundamentalism [March 28, 2020]</title>
+    <id>calibre:book:649</id>
+    <updated>2020-03-28T07:02:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Fred%20Block/The%20Power%20of%20Market%20Fundamentalism%20%28649%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Fred%20Block/The%20Power%20of%20Market%20Fundamentalism%20%28649%29/The%20Power%20of%20Market%20Fundamentalism%20-%20Fred%20Block.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Fred%20Block/The%20Power%20of%20Market%20Fundamentalism%20%28649%29/The%20Power%20of%20Market%20Fundamentalism%20-%20Fred%20Block.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Fred Block</name>
+      <uri>../author_0/author_400_Page_1.xml</uri>
+    </author>
+    <published>2014-01-10T07:52:28Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_649.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Evaluating Semantic Reprentations of Source Code [March 28, 2020]</title>
+    <id>calibre:book:632</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/Evaluating%20Semantic%20Reprentations%20of%20Source%20Code%20%28632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/Evaluating%20Semantic%20Reprentations%20of%20Source%20Code%20%28632%29/Evaluating%20Semantic%20Reprentations%20of%20Sourc%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_632.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Robust Text-to-SQL Generation with Execution-Guided Decoding [March 28, 2020]</title>
+    <id>calibre:book:635</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chenglong%20Wang%2C%20Kedar%20Tatwawadi%2C%20Marc%20Brockschmidt%2C%20Po-Sen%20Huang%2C%20Yi%20Mao%2C%20Oleksandr%20Polozov%2C%20Ri/Robust%20Text-to-SQL%20Generation%20with%20Execution-Guided%20Decoding%20%28635%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chenglong%20Wang%2C%20Kedar%20Tatwawadi%2C%20Marc%20Brockschmidt%2C%20Po-Sen%20Huang%2C%20Yi%20Mao%2C%20Oleksandr%20Polozov%2C%20Ri/Robust%20Text-to-SQL%20Generation%20with%20Execution-Guided%20Decoding%20%28635%29/Robust%20Text-to-SQL%20Generation%20with%20Executi%20-%20Chenglong%20Wang%2C%20Kedar%20Tatwawadi%2C%20Marc%20Broc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chenglong Wang, Kedar Tatwawadi, Marc Brockschmidt, Po-Sen Huang, Yi Mao, Oleksandr Polozov, Rishabh Singh</name>
+      <uri>../author_0/author_387_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_635.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Psilocybin, Magic Mushroom Grower's Guide A Handbook for Psilocybin Enthusiasts-And Or Press () [March 28, 2020]</title>
+    <id>calibre:book:636</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obscure/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20A%20Handbook%20for%20Psilocybin%20Enthusiasts-And%20Or%20Press%20%28%29%20%28636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obscure/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20A%20Handbook%20for%20Psilocybin%20Enthusiasts-And%20Or%20Press%20%28%29%20%28636%29/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20-%20O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obsc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>O. T Oss, O N Oeric, Kat, Irimias the Obscure</name>
+      <uri>../author_0/author_470_Page_1.xml</uri>
+    </author>
+    <published>1976-09-20T04:54:40Z</published>
+    <link href="../book_0/book_636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trepret: A Probabilistic Programming language for Program Induction [March 28, 2020]</title>
+    <id>calibre:book:637</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/Trepret_%20A%20Probabilistic%20Programming%20language%20for%20Program%20Induction%20%28637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/Trepret_%20A%20Probabilistic%20Programming%20language%20for%20Program%20Induction%20%28637%29/Trepret_%20A%20Probabilistic%20Programming%20langu%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_637.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Systemantics How Systems Work &amp; Especially How They Fail [March 28, 2020]</title>
+    <id>calibre:book:625</id>
+    <updated>2020-03-28T11:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gall/Systemantics%20How%20Systems%20Work%20%26%20Especially%20How%20They%20Fail%20%28625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gall/Systemantics%20How%20Systems%20Work%20%26%20Especially%20How%20They%20Fail%20%28625%29/Systemantics%20How%20Systems%20Work%20%26%20Especially%20-%20John%20Gall.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Gall</name>
+      <uri>../author_0/author_471_Page_1.xml</uri>
+    </author>
+    <published>1978-02-28T06:30:00Z</published>
+    <dcterms:publisher>Wildwood House</dcterms:publisher>
+    <link href="../book_0/book_625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Morning Paper - February 2018 [March 28, 2020]</title>
+    <id>calibre:book:626</id>
+    <updated>2020-03-28T11:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20February%202018%20%28626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20February%202018%20%28626%29/The%20Morning%20Paper%20-%20February%202018%20-%20Adrian%20Colyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Adrian Colyer</name>
+      <uri>../author_0/author_520_Page_1.xml</uri>
+    </author>
+    <published>2018-02-05T03:22:00Z</published>
+    <category term="Morning Paper - Quaterly Review" />
+    <summary>The Morning Paper - Quaterly Review [7]:</summary>
+    <link href="../book_0/book_626.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Permanent Record [March 28, 2020]</title>
+    <id>calibre:book:627</id>
+    <updated>2020-03-28T07:51:03Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20Snowden/Permanent%20Record%20%28627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20Snowden/Permanent%20Record%20%28627%29/Permanent%20Record%20-%20Edward%20Snowden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20Snowden/Permanent%20Record%20%28627%29/Permanent%20Record%20-%20Edward%20Snowden.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward Snowden</name>
+      <uri>../author_0/author_489_Page_1.xml</uri>
+    </author>
+    <published>2019-09-17T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pan Macmillan</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fundamentals of Materials Science and Engineering 5e HQ [March 28, 2020]</title>
+    <id>calibre:book:628</id>
+    <updated>2020-03-28T11:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20D.%20Callister/Fundamentals%20of%20Materials%20Science%20and%20Engineering%205e%20HQ%20%28628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20D.%20Callister/Fundamentals%20of%20Materials%20Science%20and%20Engineering%205e%20HQ%20%28628%29/Fundamentals%20of%20Materials%20Science%20and%20Engi%20-%20William%20D.%20Callister.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William D. Callister</name>
+      <uri>../author_0/author_384_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jr.</name>
+      <uri>../author_0/author_385_Page_1.xml</uri>
+    </author>
+    <published>2008-01-14T11:33:54Z</published>
+    <category term="materials science physics" />
+    <summary>materials science</summary>
+    <link href="../book_0/book_628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_ONEWEEK_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
+  <link href="../recent/recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
+</feed>

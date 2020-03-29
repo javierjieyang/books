@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Selfish Gene</title>
+  <id>urn:book:5a0dd0fd-0347-4db3-b1e7-4c6f9bc6948e</id>
+  <updated>2020-03-28T07:10:35Z</updated>
+  <link href="./book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Selfish Gene" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Richard Dawkins</name>
+    <uri>../author_0/author_34_Page_1.xml</uri>
+  </author>
+  <published>2006-05-14T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Oxford University Press</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Oxford University Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      May 20, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Selfish%20Gene" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Selfish%20Gene" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Selfish%20Gene%20Richard%20Dawkins" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Selfish%20Gene&amp;field-author=Richard%20Dawkins" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Richard%20Dawkins" type="text/html" rel="related" title="Richard Dawkins on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Richard%20Dawkins" type="text/html" rel="related" title="Richard Dawkins on Wikipedia" />
+  <link href="http://www.librarything.com/author/DawkinsRichard" type="text/html" rel="related" title="Richard Dawkins on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Richard%20Dawkins" type="text/html" rel="related" title="Richard Dawkins on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Richard%20Dawkins" type="text/html" rel="related" title="Richard Dawkins on ISFDB" />
+</entry>

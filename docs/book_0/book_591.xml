@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elements of Programming Interviews in Python The Insiders’ Guide-</title>
+  <id>urn:book:b3a1ef65-b03a-41e9-bf31-4bacf54ea45c</id>
+  <updated>2020-03-28T02:15:17Z</updated>
+  <link href="./book_591.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Elements of Programming Interviews in Python The Insiders’ Guide-" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%27%20Guide-%20%28591%29/Elements%20of%20Programming%20Interviews%20in%20Pyth%20-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%27%20Guide-%20%28591%29/Elements%20of%20Programming%20Interviews%20in%20Pyth%20-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Adnan Aziz, Tsung-Hsien Lee, Amit Prakash</name>
+    <uri>../author_0/author_480_Page_1.xml</uri>
+  </author>
+  <published>2016-02-29T06:30:00Z</published>
+  <dcterms:publisher>Createspace Independent Publishing Platform</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Createspace Independent Publishing Platform
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 1, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%E2%80%99%20Guide-" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%E2%80%99%20Guide-" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%E2%80%99%20Guide-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%E2%80%99%20Guide-&amp;field-author=Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash" type="text/html" rel="related" title="Adnan Aziz, Tsung-Hsien Lee, Amit Prakash on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash" type="text/html" rel="related" title="Adnan Aziz, Tsung-Hsien Lee, Amit Prakash on Wikipedia" />
+  <link href="http://www.librarything.com/author/AdnanAzizTsung-HsienLeeAmitPrakash" type="text/html" rel="related" title="Adnan Aziz, Tsung-Hsien Lee, Amit Prakash on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash" type="text/html" rel="related" title="Adnan Aziz, Tsung-Hsien Lee, Amit Prakash on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash" type="text/html" rel="related" title="Adnan Aziz, Tsung-Hsien Lee, Amit Prakash on ISFDB" />
+</entry>

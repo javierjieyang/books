@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Applied Category Theory</title>
+  <id>urn:book:2a00eebc-e2e5-4326-b08f-22a8c744d8a4</id>
+  <updated>2020-03-28T11:32:28Z</updated>
+  <link href="./book_615.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Applied Category Theory" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Brendan%20Fong%2C%20David%20I.%20Spivak/Applied%20Category%20Theory%20%28615%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Brendan%20Fong%2C%20David%20I.%20Spivak/Applied%20Category%20Theory%20%28615%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Brendan%20Fong%2C%20David%20I.%20Spivak/Applied%20Category%20Theory%20%28615%29/Applied%20Category%20Theory%20-%20Brendan%20Fong%2C%20David%20I.%20Spivak.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Brendan Fong, David I. Spivak</name>
+    <uri>../author_0/author_499_Page_1.xml</uri>
+  </author>
+  <published>2018-10-16T00:30:07Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <font xmlns="" face="Ubuntu, sans-serif">18.S097 Applied Category
+    Theory: Textbook</font>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Applied%20Category%20Theory" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Applied%20Category%20Theory" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Applied%20Category%20Theory%20Brendan%20Fong%2C%20David%20I.%20Spivak" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Applied%20Category%20Theory&amp;field-author=Brendan%20Fong%2C%20David%20I.%20Spivak" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Brendan%20Fong%2C%20David%20I.%20Spivak" type="text/html" rel="related" title="Brendan Fong, David I. Spivak on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Brendan%20Fong%2C%20David%20I.%20Spivak" type="text/html" rel="related" title="Brendan Fong, David I. Spivak on Wikipedia" />
+  <link href="http://www.librarything.com/author/BrendanFongDavidI.Spivak" type="text/html" rel="related" title="Brendan Fong, David I. Spivak on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Brendan%20Fong%2C%20David%20I.%20Spivak" type="text/html" rel="related" title="Brendan Fong, David I. Spivak on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Brendan%20Fong%2C%20David%20I.%20Spivak" type="text/html" rel="related" title="Brendan Fong, David I. Spivak on ISFDB" />
+</entry>

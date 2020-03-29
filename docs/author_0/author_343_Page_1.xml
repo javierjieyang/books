@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman</title>
+  <id>Calibre2opds:author:343</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_343_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Compilers: Principles, Techniques, and Tools</title>
+    <id>calibre:book:546</id>
+    <updated>1970-01-01T05:30:00Z</updated>
+    <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman/Compilers_%20Principles%2C%20Techniques%2C%20and%20Tools%20%28546%29/Compilers_%20Principles%2C%20Techniques%2C%20and%20Too%20-%20Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman/Compilers_%20Principles%2C%20Techniques%2C%20and%20Tools%20%28546%29/Compilers_%20Principles%2C%20Techniques%2C%20and%20Too%20-%20Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman</name>
+      <uri>../author_0/author_343_Page_1.xml</uri>
+    </author>
+    <published>2014-11-04T03:55:44Z</published>
+    <category term="Programming" />
+    <summary>Programming</summary>
+    <link href="../book_0/book_546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

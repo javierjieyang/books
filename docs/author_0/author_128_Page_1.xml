@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Echevarria, Ignacio</title>
+  <id>Calibre2opds:author:128</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Echevarria, Ignacio" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <entry>
+    <title>Between Parentheses: Essays, Articles and Speeches, 1998-2003</title>
+    <id>calibre:book:341</id>
+    <updated>2020-03-28T07:03:06Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Bolaño, Roberto</name>
+      <uri>../author_0/author_127_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Echevarria, Ignacio</name>
+      <uri>../author_0/author_128_Page_1.xml</uri>
+    </author>
+    <published>2012-06-01T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Norton</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_341.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

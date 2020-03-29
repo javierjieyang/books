@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Parallel Computing - IITI</title>
+  <id>urn:book:88c8277d-5e89-4bb8-8bec-bddef478b9a8</id>
+  <updated>2020-03-29T01:39:21Z</updated>
+  <link href="./book_526.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Parallel Computing - IITI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/Parallel%20Computing%20-%20IITI%20-%20Dr.%20Surya%20Prakash.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/Parallel%20Computing%20-%20IITI%20-%20Dr.%20Surya%20Prakash.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Dr. Surya Prakash</name>
+    <uri>../author_0/author_517_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      October 5, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Parallel%20Computing%20-%20IITI" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Parallel%20Computing%20-%20IITI" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Parallel%20Computing%20-%20IITI%20Dr.%20Surya%20Prakash" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Parallel%20Computing%20-%20IITI&amp;field-author=Dr.%20Surya%20Prakash" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Dr.%20Surya%20Prakash" type="text/html" rel="related" title="Dr. Surya Prakash on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Dr.%20Surya%20Prakash" type="text/html" rel="related" title="Dr. Surya Prakash on Wikipedia" />
+  <link href="http://www.librarything.com/author/PrakashSurya" type="text/html" rel="related" title="Dr. Surya Prakash on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dr.%20Surya%20Prakash" type="text/html" rel="related" title="Dr. Surya Prakash on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dr.%20Surya%20Prakash" type="text/html" rel="related" title="Dr. Surya Prakash on ISFDB" />
+</entry>

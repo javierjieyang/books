@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Song of Solomon</title>
+  <id>urn:book:50a883d3-cb4f-4dd1-869b-3ddcf421df4b</id>
+  <updated>2020-03-28T07:34:42Z</updated>
+  <link href="./book_516.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Song of Solomon" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Toni Morrison</name>
+    <uri>../author_0/author_266_Page_1.xml</uri>
+  </author>
+  <published>2004-02-26T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Knopf Doubleday Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Song%20of%20Solomon" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Song%20of%20Solomon" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Song%20of%20Solomon%20Toni%20Morrison" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Song%20of%20Solomon&amp;field-author=Toni%20Morrison" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Toni%20Morrison" type="text/html" rel="related" title="Toni Morrison on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Toni%20Morrison" type="text/html" rel="related" title="Toni Morrison on Wikipedia" />
+  <link href="http://www.librarything.com/author/MorrisonToni" type="text/html" rel="related" title="Toni Morrison on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Toni%20Morrison" type="text/html" rel="related" title="Toni Morrison on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Toni%20Morrison" type="text/html" rel="related" title="Toni Morrison on ISFDB" />
+</entry>

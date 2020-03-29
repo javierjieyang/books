@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Robert B. Cialdini Ph.D.</title>
+  <id>Calibre2opds:author:98</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_98_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Robert B. Cialdini Ph.D." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <entry>
+    <title>Influence: The Psychology of Persuasion</title>
+    <id>calibre:book:157</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20B.%20Cialdini%20Ph.D_/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20B.%20Cialdini%20Ph.D_/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Ph.D_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20B.%20Cialdini%20Ph.D_/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Ph.D_.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20B.%20Cialdini%20Ph.D_/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Ph.D_.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert B. Cialdini Ph.D.</name>
+      <uri>../author_0/author_98_Page_1.xml</uri>
+    </author>
+    <published>2009-07-29T03:36:56Z</published>
+    <link href="../book_0/book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Douglas Stone</title>
+  <id>Calibre2opds:author:426</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_426_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Douglas Stone" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <entry>
+    <title>Difficult Conversations</title>
+    <id>calibre:book:677</id>
+    <updated>2020-03-28T07:55:43Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20Stone/Difficult%20Conversations%20%28677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20Stone/Difficult%20Conversations%20%28677%29/Difficult%20Conversations%20-%20Douglas%20Stone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20Stone/Difficult%20Conversations%20%28677%29/Difficult%20Conversations%20-%20Douglas%20Stone.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Douglas Stone</name>
+      <uri>../author_0/author_426_Page_1.xml</uri>
+    </author>
+    <published>2011-03-28T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The 10th-anniversary edition of the New York Times business bestseller—now updated with "Answers to Ten Questions People Ask"We attempt or avoid difficult conversations every day—whether dealing with an underperforming employee, disagreeing with a sp...</summary>
+    <link href="../book_0/book_677.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Poor Charlie's Almanack, Expanded Third Edition</title>
+  <id>urn:book:e1ccc6e3-5a37-4274-958e-b56fd8ab9fb2</id>
+  <updated>1970-01-01T05:30:00Z</updated>
+  <link href="./book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Poor Charlie's Almanack, Expanded Third Edition" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Ed%20-%20Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Ed%20-%20Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Charles T. Munger, Peter D. Kaufman</name>
+    <uri>../author_0/author_38_Page_1.xml</uri>
+  </author>
+  <published>2012-02-06T06:12:50Z</published>
+  <category term="Investments" />
+  <category term="Decision Making" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Investments, Decision Making
+    </p>
+    <p>
+      <strong>Added:</strong>
+      May 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      July 12, 2018
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Investments, Decision Making</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition&amp;field-author=Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman" type="text/html" rel="related" title="Charles T. Munger, Peter D. Kaufman on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman" type="text/html" rel="related" title="Charles T. Munger, Peter D. Kaufman on Wikipedia" />
+  <link href="http://www.librarything.com/author/CharlesT.MungerPeterD.Kaufman" type="text/html" rel="related" title="Charles T. Munger, Peter D. Kaufman on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman" type="text/html" rel="related" title="Charles T. Munger, Peter D. Kaufman on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman" type="text/html" rel="related" title="Charles T. Munger, Peter D. Kaufman on ISFDB" />
+</entry>

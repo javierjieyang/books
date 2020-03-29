@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Napoleon Hill</title>
+  <id>Calibre2opds:author:455</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_455_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Napoleon Hill" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <entry>
+    <title>Think and Grow Rich</title>
+    <id>calibre:book:729</id>
+    <updated>2020-03-28T07:24:14Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/Think%20and%20Grow%20Rich%20-%20Napoleon%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/Think%20and%20Grow%20Rich%20-%20Napoleon%20Hill.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Napoleon Hill</name>
+      <uri>../author_0/author_455_Page_1.xml</uri>
+    </author>
+    <published>1937-01-01T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="motivation" />
+    <category term="law of attraction" />
+    <category term="positive mental attitude" />
+    <category term="get rich" />
+    <category term="personality development" />
+    <category term="positive thinking" />
+    <category term="earn" />
+    <category term="napoleon hill" />
+    <category term="the secret" />
+    <category term="become rich" />
+    <category term="self help" />
+    <category term="power of positive thinking" />
+    <category term="rich" />
+    <category term="grow rich" />
+    <category term="think and grow rich" />
+    <category term="the science of getting rich" />
+    <category term="self improvement" />
+    <category term="and grow rich" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

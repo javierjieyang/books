@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Made to Stick</title>
+  <id>urn:book:db6687ba-d276-4d63-ab95-89e4b68c53ca</id>
+  <updated>2020-03-28T07:24:21Z</updated>
+  <link href="./book_663.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Made to Stick" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chip%20Heath/Made%20to%20Stick%20%28663%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chip%20Heath/Made%20to%20Stick%20%28663%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chip%20Heath/Made%20to%20Stick%20%28663%29/Made%20to%20Stick%20-%20Chip%20Heath.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chip%20Heath/Made%20to%20Stick%20%28663%29/Made%20to%20Stick%20-%20Chip%20Heath.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Chip Heath</name>
+    <uri>../author_0/author_411_Page_1.xml</uri>
+  </author>
+  <published>2008-03-14T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Random House Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      BONUS: This edition contains an excerpt from Chip Heath and
+    Dan Heath's
+      <i>Switch</i>
+      .
+      <br />
+      <br />
+      Mark Twain once observed, "A lie can get halfway around
+    the world before the truth can even get its boots on." His
+    observation rings true: Urban legends, conspiracy theories, and
+    bogus public-health scares circulate effortlessly. Meanwhile,
+    people with important ideas--business people, teachers,
+    politicians, journalists, and others-- struggle to make their
+    ideas "stick."
+      <br />
+      <br />
+      Why do some ideas thrive while others die? And how do we
+    improve the chances of worthy ideas? In
+      <i>Made to Stick</i>
+      , accomplished educators and idea
+    collectors Chip and Dan Heath tackle head-on these vexing
+    questions. Inside, the brothers Heath reveal the anatomy of
+    ideas that stick and explain ways to make ideas stickier, such
+    as applying the "human scale principle," using the "Velcro
+    Theory of Memory," and creating "curiosity gaps."
+      <br />
+      <br />
+      In this indispensable guide, we discover that
+    sticky...
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Made%20to%20Stick" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Made%20to%20Stick" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Made%20to%20Stick%20Chip%20Heath" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Made%20to%20Stick&amp;field-author=Chip%20Heath" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Chip%20Heath" type="text/html" rel="related" title="Chip Heath on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Chip%20Heath" type="text/html" rel="related" title="Chip Heath on Wikipedia" />
+  <link href="http://www.librarything.com/author/HeathChip" type="text/html" rel="related" title="Chip Heath on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Chip%20Heath" type="text/html" rel="related" title="Chip Heath on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Chip%20Heath" type="text/html" rel="related" title="Chip Heath on ISFDB" />
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Why Honor Matters</title>
+  <id>urn:book:b9955488-01f2-4a73-9ca0-8801d04901bd</id>
+  <updated>2020-03-28T07:52:00Z</updated>
+  <link href="./book_504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Why Honor Matters" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Tamler Sommers</name>
+    <uri>../author_0/author_490_Page_1.xml</uri>
+  </author>
+  <published>2018-05-08T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Hachette Book Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Hachette Book Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Why%20Honor%20Matters" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Why%20Honor%20Matters" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Why%20Honor%20Matters%20Tamler%20Sommers" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Why%20Honor%20Matters&amp;field-author=Tamler%20Sommers" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Tamler%20Sommers" type="text/html" rel="related" title="Tamler Sommers on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Tamler%20Sommers" type="text/html" rel="related" title="Tamler Sommers on Wikipedia" />
+  <link href="http://www.librarything.com/author/SommersTamler" type="text/html" rel="related" title="Tamler Sommers on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Tamler%20Sommers" type="text/html" rel="related" title="Tamler Sommers on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Tamler%20Sommers" type="text/html" rel="related" title="Tamler Sommers on ISFDB" />
+</entry>

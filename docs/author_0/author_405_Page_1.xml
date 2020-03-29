@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>John Ousterhout</title>
+  <id>Calibre2opds:author:405</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_405_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="John Ousterhout" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>A Philosophy of Software Design</title>
+    <id>calibre:book:656</id>
+    <updated>2020-03-28T07:39:21Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Ousterhout</name>
+      <uri>../author_0/author_405_Page_1.xml</uri>
+    </author>
+    <published>2019-01-22T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Yaknyam Press, Palo Alto, CA</dcterms:publisher>
+    <category term="software complexity" />
+    <category term="Computer Programming" />
+    <category term="interface vs. implementation" />
+    <category term="modular decomposition" />
+    <category term="abstraction" />
+    <category term="software design" />
+    <category term="Lang:en" />
+    <summary>This book addresses the topic of software design: how to decompose complex software systems into modules (such as classes and methods) that can be implemented relatively independently. The book first introduces the fundamental problem in software des...</summary>
+    <link href="../book_0/book_656.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

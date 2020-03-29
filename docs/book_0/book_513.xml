@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Enigma of Anger: Essays on a Sometimes Deadly Sin</title>
+  <id>urn:book:527eef48-e76f-496d-8f4f-d226f4278fa4</id>
+  <updated>2019-12-07T00:47:21Z</updated>
+  <link href="./book_513.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Enigma of Anger: Essays on a Sometimes Deadly Sin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Garret Keizer</name>
+    <uri>../author_0/author_263_Page_1.xml</uri>
+  </author>
+  <published>2002-07-31T06:30:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">0787957283</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Enigma%20of%20Anger%3A%20Essays%20on%20a%20Sometimes%20Deadly%20Sin" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Enigma%20of%20Anger%3A%20Essays%20on%20a%20Sometimes%20Deadly%20Sin" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Enigma%20of%20Anger%3A%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20Garret%20Keizer" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Enigma%20of%20Anger%3A%20Essays%20on%20a%20Sometimes%20Deadly%20Sin&amp;field-author=Garret%20Keizer" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Garret%20Keizer" type="text/html" rel="related" title="Garret Keizer on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Garret%20Keizer" type="text/html" rel="related" title="Garret Keizer on Wikipedia" />
+  <link href="http://www.librarything.com/author/KeizerGarret" type="text/html" rel="related" title="Garret Keizer on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Garret%20Keizer" type="text/html" rel="related" title="Garret Keizer on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Garret%20Keizer" type="text/html" rel="related" title="Garret Keizer on ISFDB" />
+</entry>

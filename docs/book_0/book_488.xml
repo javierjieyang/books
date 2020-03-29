@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Contra Keynes and Cambridge Essays</title>
+  <id>urn:book:d4c35302-0ec6-48bf-82ba-ed0f2ff493ce</id>
+  <updated>2019-12-07T00:47:21Z</updated>
+  <link href="./book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Contra Keynes and Cambridge Essays" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Hayek/Contra%20Keynes%20and%20Cambridge%20Essays%20%28488%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Hayek/Contra%20Keynes%20and%20Cambridge%20Essays%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Hayek/Contra%20Keynes%20and%20Cambridge%20Essays%20%28488%29/Contra%20Keynes%20and%20Cambridge%20Essays%20-%20Friedrich%20Hayek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Hayek/Contra%20Keynes%20and%20Cambridge%20Essays%20%28488%29/Contra%20Keynes%20and%20Cambridge%20Essays%20-%20Friedrich%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Friedrich Hayek</name>
+    <uri>../author_0/author_228_Page_1.xml</uri>
+  </author>
+  <published>1995-05-15T11:47:52Z</published>
+  <dcterms:publisher>Routledge</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Routledge
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Contra%20Keynes%20and%20Cambridge%20Essays" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Contra%20Keynes%20and%20Cambridge%20Essays" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Contra%20Keynes%20and%20Cambridge%20Essays%20Friedrich%20Hayek" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Contra%20Keynes%20and%20Cambridge%20Essays&amp;field-author=Friedrich%20Hayek" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Friedrich%20Hayek" type="text/html" rel="related" title="Friedrich Hayek on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Friedrich%20Hayek" type="text/html" rel="related" title="Friedrich Hayek on Wikipedia" />
+  <link href="http://www.librarything.com/author/HayekFriedrich" type="text/html" rel="related" title="Friedrich Hayek on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Friedrich%20Hayek" type="text/html" rel="related" title="Friedrich Hayek on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Friedrich%20Hayek" type="text/html" rel="related" title="Friedrich Hayek on ISFDB" />
+</entry>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous year</title>
+  <id>Calibre2opds:recent:YEAR</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_YEAR_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous year" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_YEAR_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <entry>
+    <title>Elements of Programming Interviews in Python The Insiders’ Guide- [July 1, 2019]</title>
+    <id>calibre:book:591</id>
+    <updated>2020-03-28T02:15:17Z</updated>
+    <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%27%20Guide-%20%28591%29/Elements%20of%20Programming%20Interviews%20in%20Pyth%20-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20The%20Insiders%27%20Guide-%20%28591%29/Elements%20of%20Programming%20Interviews%20in%20Pyth%20-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Adnan Aziz, Tsung-Hsien Lee, Amit Prakash</name>
+      <uri>../author_0/author_480_Page_1.xml</uri>
+    </author>
+    <published>2016-02-29T06:30:00Z</published>
+    <dcterms:publisher>Createspace Independent Publishing Platform</dcterms:publisher>
+    <link href="../book_0/book_591.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Search for the Manchurian Candidate [June 17, 2019]</title>
+    <id>calibre:book:590</id>
+    <updated>2020-03-28T02:15:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Marks/The%20Search%20for%20the%20Manchurian%20Candidate%20%28590%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Marks/The%20Search%20for%20the%20Manchurian%20Candidate%20%28590%29/The%20Search%20for%20the%20Manchurian%20Candidate%20-%20John%20Marks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Marks/The%20Search%20for%20the%20Manchurian%20Candidate%20%28590%29/The%20Search%20for%20the%20Manchurian%20Candidate%20-%20John%20Marks.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Marks</name>
+      <uri>../author_0/author_507_Page_1.xml</uri>
+    </author>
+    <published>1991-04-09T07:17:17Z</published>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <summary>The Search for the Manchurian Candidate The CIA &amp;amp; Mind Control The Secret History of the Behavioral Sciences</summary>
+    <link href="../book_0/book_590.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Saving Capitalism From the Capitalists: Unleashing the Power of Financial Markets to Create Wealth and Spread Opportunity [June 17, 2019]</title>
+    <id>calibre:book:589</id>
+    <updated>2020-03-28T07:43:09Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/Saving%20Capitalism%20From%20the%20Capitalists_%20Un%20-%20Raghuram%20G%20Rajan%2C%20Luigi%20Zingales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/Saving%20Capitalism%20From%20the%20Capitalists_%20Un%20-%20Raghuram%20G%20Rajan%2C%20Luigi%20Zingales.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Raghuram G Rajan, Luigi Zingales</name>
+      <uri>../author_0/author_482_Page_1.xml</uri>
+    </author>
+    <published>2013-12-23T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers India</dcterms:publisher>
+    <category term="Economics" />
+    <category term="Business &amp; Economics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>For nearly two centuries, scholars and politicians have debated the future of capitalism. In India, its critics have viewed it as intrinsically unstable, seeing signs of its collapse in every fall of the Mumbai stock market. Its supporters see it as ...</summary>
+    <link href="../book_0/book_589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Metaphors We Live By [June 17, 2019]</title>
+    <id>calibre:book:588</id>
+    <updated>2020-03-28T07:25:56Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lakoff%2C%20George/Metaphors%20We%20Live%20By%20%28588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lakoff%2C%20George/Metaphors%20We%20Live%20By%20%28588%29/Metaphors%20We%20Live%20By%20-%20Lakoff%2C%20George.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lakoff%2C%20George/Metaphors%20We%20Live%20By%20%28588%29/Metaphors%20We%20Live%20By%20-%20Lakoff%2C%20George.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Lakoff, George</name>
+      <uri>../author_0/author_348_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Johnson, Mark</name>
+      <uri>../author_0/author_349_Page_1.xml</uri>
+    </author>
+    <published>1980-11-01T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press - A</dcterms:publisher>
+    <category term="METAPHORS We Live By" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Range [June 17, 2019]</title>
+    <id>calibre:book:587</id>
+    <updated>2020-03-28T07:14:58Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Epstein/Range%20%28587%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Epstein/Range%20%28587%29/Range%20-%20David%20Epstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Epstein/Range%20%28587%29/Range%20-%20David%20Epstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Epstein</name>
+      <uri>../author_0/author_347_Page_1.xml</uri>
+    </author>
+    <published>2019-05-28T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"Urgent and important. . . an essential read for bosses, parents, coaches, and anyone who cares about improving performance." &amp;#8212;Daniel H. Pink  "So much crucial and revelatory information about performance, success, and education." &amp;#8212;Susan ...</summary>
+    <link href="../book_0/book_587.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Incremental Approach To Compiler Construction [June 2, 2019]</title>
+    <id>calibre:book:586</id>
+    <updated>2020-03-29T01:16:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/An%20Incremental%20Approach%20To%20Compiler%20Construction%20%28586%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/An%20Incremental%20Approach%20To%20Compiler%20Construction%20%28586%29/An%20Incremental%20Approach%20To%20Compiler%20Constr%20-%20Arxiv.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/An%20Incremental%20Approach%20To%20Compiler%20Construction%20%28586%29/An%20Incremental%20Approach%20To%20Compiler%20Constr%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Abdulaziz Ghuloum</dcterms:publisher>
+    <summary>Making a compilerarxiv</summary>
+    <link href="../book_0/book_586.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Coders [June 2, 2019]</title>
+    <id>calibre:book:585</id>
+    <updated>2020-03-28T08:02:28Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Clive%20Thompson/Coders%20%28585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Clive%20Thompson/Coders%20%28585%29/Coders%20-%20Clive%20Thompson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Clive%20Thompson/Coders%20%28585%29/Coders%20-%20Clive%20Thompson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Clive Thompson</name>
+      <uri>../author_0/author_337_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pan Macmillan UK</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>You use software nearly every instant you're awake. And this may sound weirdly obvious, but every single one of those pieces of software was written by a programmer. Programmers are thus among the most quietly influential people on the planet. As we ...</summary>
+    <link href="../book_0/book_585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Giant Black Book of Computer Viruses [June 2, 2019]</title>
+    <id>calibre:book:584</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mark Ludwig</name>
+      <uri>../author_0/author_338_Page_1.xml</uri>
+    </author>
+    <published>2016-11-04T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>In this book you'll learn everything you wanted to know about computer viruses, ranging from the simplest 44-byte virus right on up to viruses for 32-bit Windows, Unix and the Internet. You'll learn how anti-virus programs stalk viruses and what viru...</summary>
+    <link href="../book_0/book_584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>They [June 2, 2019]</title>
+    <id>calibre:book:583</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Heinlein/They%20%28583%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Heinlein/They%20%28583%29/They%20-%20Robert%20Heinlein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Heinlein/They%20%28583%29/They%20-%20Robert%20Heinlein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert Heinlein</name>
+      <uri>../author_0/author_339_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Theoretical Neruscience [June 2, 2019]</title>
+    <id>calibre:book:582</id>
+    <updated>2019-12-07T00:47:23Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/Theoretical%20Neruscience%20-%20Larry%20Abbott%2C%20Peter%20Dayan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Larry Abbott, Peter Dayan</name>
+      <uri>../author_0/author_340_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_582.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Stumbling on to Happiness [June 2, 2019]</title>
+    <id>calibre:book:581</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20to%20Happiness%20%28581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20to%20Happiness%20%28581%29/Stumbling%20on%20to%20Happiness%20-%20Daniel%20Gilbert.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Daniel Gilbert</name>
+      <uri>../author_0/author_151_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The CodeBreakers [June 2, 2019]</title>
+    <id>calibre:book:580</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Kahn/The%20CodeBreakers%20%28580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Kahn/The%20CodeBreakers%20%28580%29/The%20CodeBreakers%20-%20David%20Kahn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Kahn</name>
+      <uri>../author_0/author_341_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_580.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>What every systems programmer should know about lockless concurrency [June 2, 2019]</title>
+    <id>calibre:book:579</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Kline/What%20every%20systems%20programmer%20should%20know%20about%20lockless%20concurrency%20%28579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Kline/What%20every%20systems%20programmer%20should%20know%20about%20lockless%20concurrency%20%28579%29/What%20every%20systems%20programmer%20should%20know%20-%20Matt%20Kline.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Matt Kline</name>
+      <uri>../author_0/author_333_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Algorithm design manual [June 2, 2019]</title>
+    <id>calibre:book:578</id>
+    <updated>2020-03-29T01:37:56Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20S.%20Skiena/Algorithm%20design%20manual%20%28578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20S.%20Skiena/Algorithm%20design%20manual%20%28578%29/Algorithm%20design%20manual%20-%20Steven%20S.%20Skiena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20S.%20Skiena/Algorithm%20design%20manual%20%28578%29/Algorithm%20design%20manual%20-%20Steven%20S.%20Skiena.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steven S. Skiena</name>
+      <uri>../author_0/author_234_Page_1.xml</uri>
+    </author>
+    <published>2008-07-03T09:10:35Z</published>
+    <link href="../book_0/book_578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Concrete Mathematics [June 2, 2019]</title>
+    <id>calibre:book:577</id>
+    <updated>2019-12-07T00:47:23Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Knuth%20Graham%20Patashnik%20-%20Simon%20Plouffe/Concrete%20Mathematics%20%28577%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Knuth%20Graham%20Patashnik%20-%20Simon%20Plouffe/Concrete%20Mathematics%20%28577%29/Concrete%20Mathematics%20-%20Knuth%20Graham%20Patashnik%20-%20Simon%20Plouffe.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Knuth Graham Patashnik - Simon Plouffe</name>
+      <uri>../author_0/author_332_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Mathematics computer science" />
+    <link href="../book_0/book_577.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Flow [June 2, 2019]</title>
+    <id>calibre:book:576</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mihaly%20Csikszentmihalyi/Flow%20%28576%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mihaly%20Csikszentmihalyi/Flow%20%28576%29/Flow%20-%20Mihaly%20Csikszentmihalyi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mihaly%20Csikszentmihalyi/Flow%20%28576%29/Flow%20-%20Mihaly%20Csikszentmihalyi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mihaly Csikszentmihalyi</name>
+      <uri>../author_0/author_144_Page_1.xml</uri>
+    </author>
+    <published>2015-03-26T06:23:16Z</published>
+    <link href="../book_0/book_576.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lectures on Macroeconomics [June 2, 2019]</title>
+    <id>calibre:book:575</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Luis%20Diego%20Barrot%20Araya/Lectures%20on%20Macroeconomics%20%28575%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Luis%20Diego%20Barrot%20Araya/Lectures%20on%20Macroeconomics%20%28575%29/Lectures%20on%20Macroeconomics%20-%20Luis%20Diego%20Barrot%20Araya.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Luis Diego Barrot Araya</name>
+      <uri>../author_0/author_330_Page_1.xml</uri>
+    </author>
+    <published>2005-10-05T05:54:36Z</published>
+    <link href="../book_0/book_575.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Father Forgets [June 2, 2019]</title>
+    <id>calibre:book:574</id>
+    <updated>2019-12-07T00:47:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Father%20Forgets%20%28574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Father%20Forgets%20%28574%29/Father%20Forgets%20-%20Unknown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Father%20Forgets%20%28574%29/Father%20Forgets%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>2007-05-03T10:07:46Z</published>
+    <category term="Essays" />
+    <link href="../book_0/book_574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Lottery [June 2, 2019]</title>
+    <id>calibre:book:573</id>
+    <updated>2020-03-28T02:45:46Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shirley%20Jackson/The%20Lottery%20%28573%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shirley%20Jackson/The%20Lottery%20%28573%29/The%20Lottery%20-%20Shirley%20Jackson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shirley%20Jackson/The%20Lottery%20%28573%29/The%20Lottery%20-%20Shirley%20Jackson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shirley%20Jackson/The%20Lottery%20%28573%29/The%20Lottery%20-%20Shirley%20Jackson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Shirley Jackson</name>
+      <uri>../author_0/author_493_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_573.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Cathedral and the Bazaar [June 2, 2019]</title>
+    <id>calibre:book:572</id>
+    <updated>2019-12-07T00:47:21Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/The%20Cathedral%20and%20the%20Bazaar%20-%20Eric%20Steven%20Raymond.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/The%20Cathedral%20and%20the%20Bazaar%20-%20Eric%20Steven%20Raymond.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Eric Steven Raymond</name>
+      <uri>../author_0/author_329_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Protocol" />
+    <category term="Analysis and Theory of Open Source Projects" />
+    <category term="Open Source Development" />
+    <category term="Hacker Culture" />
+    <link href="../book_0/book_572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Profiles of the Future [June 1, 2019]</title>
+    <id>calibre:book:571</id>
+    <updated>2020-03-28T07:07:15Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/Profiles%20of%20the%20Future%20-%20Arthur%20C.%20Clarke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/Profiles%20of%20the%20Future%20-%20Arthur%20C.%20Clarke.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arthur C. Clarke</name>
+      <uri>../author_0/author_328_Page_1.xml</uri>
+    </author>
+    <published>2011-09-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orion Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_571.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Wealth of Networks How Social Production Transforms Markets &amp; Freedom [June 1, 2019]</title>
+    <id>calibre:book:570</id>
+    <updated>2020-03-28T07:02:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yochai%20Benkler/The%20Wealth%20of%20Networks%20How%20Social%20Production%20Transforms%20Markets%20%26%20Freedom%20%28570%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yochai%20Benkler/The%20Wealth%20of%20Networks%20How%20Social%20Production%20Transforms%20Markets%20%26%20Freedom%20%28570%29/The%20Wealth%20of%20Networks%20How%20Social%20Producti%20-%20Yochai%20Benkler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yochai%20Benkler/The%20Wealth%20of%20Networks%20How%20Social%20Production%20Transforms%20Markets%20%26%20Freedom%20%28570%29/The%20Wealth%20of%20Networks%20How%20Social%20Producti%20-%20Yochai%20Benkler.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Yochai Benkler</name>
+      <uri>../author_0/author_477_Page_1.xml</uri>
+    </author>
+    <published>2006-02-28T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Yale University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_570.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Governing the Commons [June 1, 2019]</title>
+    <id>calibre:book:569</id>
+    <updated>2020-03-28T07:39:06Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elinor%20Ostrom/Governing%20the%20Commons%20%28569%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elinor%20Ostrom/Governing%20the%20Commons%20%28569%29/Governing%20the%20Commons%20-%20Elinor%20Ostrom.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elinor%20Ostrom/Governing%20the%20Commons%20%28569%29/Governing%20the%20Commons%20-%20Elinor%20Ostrom.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Elinor Ostrom</name>
+      <uri>../author_0/author_325_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_569.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Death of Ivan Ilyich and Other Stories [April 19, 2019]</title>
+    <id>calibre:book:568</id>
+    <updated>2020-03-28T08:02:50Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Leo%20Tolstoy/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20%28568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Leo%20Tolstoy/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20%28568%29/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20-%20Leo%20Tolstoy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Leo%20Tolstoy/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20%28568%29/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20-%20Leo%20Tolstoy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Leo Tolstoy</name>
+      <uri>../author_0/author_324_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Myth of Sisyphus and Other Essays [April 19, 2019]</title>
+    <id>calibre:book:567</id>
+    <updated>2020-03-28T07:04:59Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Myth%20of%20Sisyphus%20and%20Other%20Essays%20%28567%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Myth%20of%20Sisyphus%20and%20Other%20Essays%20%28567%29/The%20Myth%20of%20Sisyphus%20and%20Other%20Essays%20-%20Albert%20Camus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Myth%20of%20Sisyphus%20and%20Other%20Essays%20%28567%29/The%20Myth%20of%20Sisyphus%20and%20Other%20Essays%20-%20Albert%20Camus.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Albert Camus</name>
+      <uri>../author_0/author_323_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Epub2Go.com v1.2</summary>
+    <link href="../book_0/book_567.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

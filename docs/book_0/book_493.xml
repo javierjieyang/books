@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Homo Deus: A Brief History of Tomorrow</title>
+  <id>urn:book:8cfa0d1e-c12a-417a-abad-6a4c6065b276</id>
+  <updated>2020-03-28T07:23:20Z</updated>
+  <link href="./book_493.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Homo Deus: A Brief History of Tomorrow" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Y" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Yuval Noah Harari</name>
+    <uri>../author_0/author_203_Page_1.xml</uri>
+  </author>
+  <published>2016-09-13T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Signal</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Signal
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow%20Yuval%20Noah%20Harari" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow&amp;field-author=Yuval%20Noah%20Harari" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Wikipedia" />
+  <link href="http://www.librarything.com/author/HarariYuvalNoah" type="text/html" rel="related" title="Yuval Noah Harari on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on ISFDB" />
+</entry>

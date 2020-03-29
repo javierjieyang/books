@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>12 Rules for Life: An Antidote to Chaos</title>
+  <id>urn:book:67220c4b-ed76-4067-8663-638eaf9189b8</id>
+  <updated>2020-03-28T07:40:59Z</updated>
+  <link href="./book_652.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="12 Rules for Life: An Antidote to Chaos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jordan%20B.%20Peterson/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20%28652%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jordan%20B.%20Peterson/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20%28652%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jordan%20B.%20Peterson/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20%28652%29/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20-%20Jordan%20B.%20Peterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jordan%20B.%20Peterson/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20%28652%29/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20-%20Jordan%20B.%20Peterson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Jordan B. Peterson</name>
+    <uri>../author_0/author_403_Page_1.xml</uri>
+  </author>
+  <published>2018-01-16T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Books Ltd
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/12%20Rules%20for%20Life%3A%20An%20Antidote%20to%20Chaos" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/12%20Rules%20for%20Life%3A%20An%20Antidote%20to%20Chaos" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/12%20Rules%20for%20Life%3A%20An%20Antidote%20to%20Chaos%20Jordan%20B.%20Peterson" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=12%20Rules%20for%20Life%3A%20An%20Antidote%20to%20Chaos&amp;field-author=Jordan%20B.%20Peterson" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jordan%20B.%20Peterson" type="text/html" rel="related" title="Jordan B. Peterson on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jordan%20B.%20Peterson" type="text/html" rel="related" title="Jordan B. Peterson on Wikipedia" />
+  <link href="http://www.librarything.com/author/PetersonJordanB." type="text/html" rel="related" title="Jordan B. Peterson on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jordan%20B.%20Peterson" type="text/html" rel="related" title="Jordan B. Peterson on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jordan%20B.%20Peterson" type="text/html" rel="related" title="Jordan B. Peterson on ISFDB" />
+</entry>

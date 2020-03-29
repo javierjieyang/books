@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Edward R. Tufte</title>
+  <id>Calibre2opds:author:474</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_474_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Edward R. Tufte" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <entry>
+    <title>The Visual Display of Quantitative Information</title>
+    <id>calibre:book:616</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20R.%20Tufte/The%20Visual%20Display%20of%20Quantitative%20Information%20%28616%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20R.%20Tufte/The%20Visual%20Display%20of%20Quantitative%20Information%20%28616%29/The%20Visual%20Display%20of%20Quantitative%20Informa%20-%20Edward%20R.%20Tufte.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward R. Tufte</name>
+      <uri>../author_0/author_474_Page_1.xml</uri>
+    </author>
+    <published>2001-06-04T03:35:48Z</published>
+    <category term="Data Visualization" />
+    <category term="Story-telling" />
+    <link href="../book_0/book_616.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

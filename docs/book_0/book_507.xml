@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>How the University Works Higher Education and the Low-Wage Nation</title>
+  <id>urn:book:19cac4c1-344e-480c-b362-8630f8754277</id>
+  <updated>2019-12-07T00:47:24Z</updated>
+  <link href="./book_507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="How the University Works Higher Education and the Low-Wage Nation" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Marc Bousquet</name>
+    <uri>../author_0/author_268_Page_1.xml</uri>
+  </author>
+  <published>2008-07-31T06:30:00Z</published>
+  <dcterms:publisher>New York University Press</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      New York University Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20Marc%20Bousquet" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation&amp;field-author=Marc%20Bousquet" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Marc%20Bousquet" type="text/html" rel="related" title="Marc Bousquet on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Marc%20Bousquet" type="text/html" rel="related" title="Marc Bousquet on Wikipedia" />
+  <link href="http://www.librarything.com/author/BousquetMarc" type="text/html" rel="related" title="Marc Bousquet on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Marc%20Bousquet" type="text/html" rel="related" title="Marc Bousquet on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Marc%20Bousquet" type="text/html" rel="related" title="Marc Bousquet on ISFDB" />
+</entry>

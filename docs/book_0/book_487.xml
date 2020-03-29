@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Passions of the Renaissance</title>
+  <id>urn:book:ae6c9150-62ac-435e-a76b-4378779d2075</id>
+  <updated>2020-03-28T07:41:51Z</updated>
+  <link href="./book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Passions of the Renaissance" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../author_0/author_219_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Phillippe Aries, Georges Duby, Arthur Goldhammer" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/Passions%20of%20the%20Renaissance%20%28487%29/Passions%20of%20the%20Renaissance%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/Passions%20of%20the%20Renaissance%20%28487%29/Passions%20of%20the%20Renaissance%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/Passions%20of%20the%20Renaissance%20%28487%29/Passions%20of%20the%20Renaissance%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Phillippe Aries, Georges Duby, Arthur Goldhammer</name>
+    <uri>../author_0/author_219_Page_1.xml</uri>
+  </author>
+  <published>1989-08-27T06:30:00Z</published>
+  <dcterms:publisher>Belknap Press of Harvard University Press</dcterms:publisher>
+  <category term="History of Private Life" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the History of Private Life series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Belknap Press of Harvard University Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Passions%20of%20the%20Renaissance" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Passions%20of%20the%20Renaissance" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Passions%20of%20the%20Renaissance%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Passions%20of%20the%20Renaissance&amp;field-author=Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer" type="text/html" rel="related" title="Phillippe Aries, Georges Duby, Arthur Goldhammer on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer" type="text/html" rel="related" title="Phillippe Aries, Georges Duby, Arthur Goldhammer on Wikipedia" />
+  <link href="http://www.librarything.com/author/PhillippeAriesGeorgesDubyArthurGoldhammer" type="text/html" rel="related" title="Phillippe Aries, Georges Duby, Arthur Goldhammer on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer" type="text/html" rel="related" title="Phillippe Aries, Georges Duby, Arthur Goldhammer on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer" type="text/html" rel="related" title="Phillippe Aries, Georges Duby, Arthur Goldhammer on ISFDB" />
+</entry>

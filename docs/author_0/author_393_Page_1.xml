@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>King, Stephen</title>
+  <id>Calibre2opds:author:393</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_393_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="King, Stephen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <entry>
+    <title>On Writing</title>
+    <id>calibre:book:643</id>
+    <updated>2020-03-28T07:28:16Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/King%2C%20Stephen/On%20Writing%20%28643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/King%2C%20Stephen/On%20Writing%20%28643%29/On%20Writing%20-%20King%2C%20Stephen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/King%2C%20Stephen/On%20Writing%20%28643%29/On%20Writing%20-%20King%2C%20Stephen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>King, Stephen</name>
+      <uri>../author_0/author_393_Page_1.xml</uri>
+    </author>
+    <published>2000-10-03T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A memoir of the craft</summary>
+    <link href="../book_0/book_643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

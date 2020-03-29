@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Howard Zinn</title>
+  <id>Calibre2opds:author:399</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_399_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Howard Zinn" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <entry>
+    <title>A People's History of the United States ****</title>
+    <id>calibre:book:648</id>
+    <updated>2020-03-28T06:56:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/A%20People%27s%20History%20of%20the%20United%20States%20-%20Howard%20Zinn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/A%20People%27s%20History%20of%20the%20United%20States%20-%20Howard%20Zinn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Howard Zinn</name>
+      <uri>../author_0/author_399_Page_1.xml</uri>
+    </author>
+    <published>2010-01-26T10:20:52Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="History" />
+    <category term="General" />
+    <category term="United States" />
+    <category term="Political Science" />
+    <category term="Political Ideologies" />
+    <category term="Democracy" />
+    <category term="Lang:en" />
+    <summary>Since its original landmark publication in 1980, A People's History of the United States has been chronicling American history from the bottom up, throwing out the official version of history taught in schools–with its emphasis on great men in high p...</summary>
+    <link href="../book_0/book_648.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

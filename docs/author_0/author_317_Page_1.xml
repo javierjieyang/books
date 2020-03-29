@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kurt Vonnegut</title>
+  <id>Calibre2opds:author:317</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_317_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kurt Vonnegut" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <entry>
+    <title>Mother night</title>
+    <id>calibre:book:561</id>
+    <updated>2020-03-28T08:03:58Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Mother%20night%20%28561%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Mother%20night%20%28561%29/Mother%20night%20-%20Kurt%20Vonnegut.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Mother%20night%20%28561%29/Mother%20night%20-%20Kurt%20Vonnegut.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kurt Vonnegut</name>
+      <uri>../author_0/author_317_Page_1.xml</uri>
+    </author>
+    <published>1966-10-14T05:30:00Z</published>
+    <dcterms:publisher>Harper &amp; Row</dcterms:publisher>
+    <category term="Fiction" />
+    <link href="../book_0/book_561.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Player Piano</title>
+    <id>calibre:book:667</id>
+    <updated>2020-03-28T08:04:04Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Player%20Piano%20%28667%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Player%20Piano%20%28667%29/Player%20Piano%20-%20Kurt%20Vonnegut.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Player%20Piano%20%28667%29/Player%20Piano%20-%20Kurt%20Vonnegut.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kurt Vonnegut</name>
+      <uri>../author_0/author_317_Page_1.xml</uri>
+    </author>
+    <published>1979-12-31T06:30:00Z</published>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Fiction" />
+    <link href="../book_0/book_667.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Slaughterhouse-Five</title>
+    <id>calibre:book:696</id>
+    <updated>2020-03-28T08:03:45Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/Slaughterhouse-Five%20-%20Kurt%20Vonnegut.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/Slaughterhouse-Five%20-%20Kurt%20Vonnegut.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kurt Vonnegut</name>
+      <uri>../author_0/author_317_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T06:30:00Z</published>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Fiction" />
+    <link href="../book_0/book_696.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

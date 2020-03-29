@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Strangers to ourselves: discovering the adaptive unconscious</title>
+  <id>urn:book:be868505-30aa-4187-aedd-759f18e48192</id>
+  <updated>2019-12-07T00:47:27Z</updated>
+  <link href="./book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Strangers to ourselves: discovering the adaptive unconscious" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/Strangers%20to%20ourselves_%20discovering%20the%20ad%20-%20Timothy%20D%20Wilson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/Strangers%20to%20ourselves_%20discovering%20the%20ad%20-%20Timothy%20D%20Wilson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/Strangers%20to%20ourselves_%20discovering%20the%20ad%20-%20Timothy%20D%20Wilson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Timothy D Wilson</name>
+    <uri>../author_0/author_31_Page_1.xml</uri>
+  </author>
+  <published>2004-08-03T01:52:10Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      May 13, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Strangers%20to%20ourselves%3A%20discovering%20the%20adaptive%20unconscious" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Strangers%20to%20ourselves%3A%20discovering%20the%20adaptive%20unconscious" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Strangers%20to%20ourselves%3A%20discovering%20the%20adaptive%20unconscious%20Timothy%20D%20Wilson" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Strangers%20to%20ourselves%3A%20discovering%20the%20adaptive%20unconscious&amp;field-author=Timothy%20D%20Wilson" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Timothy%20D%20Wilson" type="text/html" rel="related" title="Timothy D Wilson on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Timothy%20D%20Wilson" type="text/html" rel="related" title="Timothy D Wilson on Wikipedia" />
+  <link href="http://www.librarything.com/author/WilsonTimothyD" type="text/html" rel="related" title="Timothy D Wilson on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Timothy%20D%20Wilson" type="text/html" rel="related" title="Timothy D Wilson on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Timothy%20D%20Wilson" type="text/html" rel="related" title="Timothy D Wilson on ISFDB" />
+</entry>

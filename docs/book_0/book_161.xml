@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Bird by Bird</title>
+  <id>urn:book:03b30493-e801-4c61-a832-c4fbd02c55fc</id>
+  <updated>2019-12-07T00:47:23Z</updated>
+  <link href="./book_161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Bird by Bird" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lamott/Bird%20by%20Bird%20%28161%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lamott/Bird%20by%20Bird%20%28161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lamott/Bird%20by%20Bird%20%28161%29/Bird%20by%20Bird%20-%20Lamott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Lamott/Bird%20by%20Bird%20%28161%29/Bird%20by%20Bird%20-%20Lamott.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Lamott</name>
+    <uri>../author_0/author_209_Page_1.xml</uri>
+  </author>
+  <published>2009-08-20T04:47:36Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 12, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Bird%20by%20Bird" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Bird%20by%20Bird" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Bird%20by%20Bird%20Lamott" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Bird%20by%20Bird&amp;field-author=Lamott" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Lamott" type="text/html" rel="related" title="Lamott on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Lamott" type="text/html" rel="related" title="Lamott on Wikipedia" />
+  <link href="http://www.librarything.com/author/Lamott" type="text/html" rel="related" title="Lamott on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lamott" type="text/html" rel="related" title="Lamott on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lamott" type="text/html" rel="related" title="Lamott on ISFDB" />
+</entry>

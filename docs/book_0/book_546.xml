@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Compilers: Principles, Techniques, and Tools</title>
+  <id>urn:book:750a2ce5-1d4e-428b-b64d-c3625df65b82</id>
+  <updated>1970-01-01T05:30:00Z</updated>
+  <link href="./book_546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Compilers: Principles, Techniques, and Tools" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman/Compilers_%20Principles%2C%20Techniques%2C%20and%20Tools%20%28546%29/Compilers_%20Principles%2C%20Techniques%2C%20and%20Too%20-%20Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman/Compilers_%20Principles%2C%20Techniques%2C%20and%20Tools%20%28546%29/Compilers_%20Principles%2C%20Techniques%2C%20and%20Too%20-%20Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman</name>
+    <uri>../author_0/author_343_Page_1.xml</uri>
+  </author>
+  <published>2014-11-04T03:55:44Z</published>
+  <category term="Programming" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Programming
+    </p>
+    <p>
+      <strong>Added:</strong>
+      January 27, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Programming</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Compilers%3A%20Principles%2C%20Techniques%2C%20and%20Tools" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Compilers%3A%20Principles%2C%20Techniques%2C%20and%20Tools" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Compilers%3A%20Principles%2C%20Techniques%2C%20and%20Tools%20Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Compilers%3A%20Principles%2C%20Techniques%2C%20and%20Tools&amp;field-author=Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman" type="text/html" rel="related" title="Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman" type="text/html" rel="related" title="Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman on Wikipedia" />
+  <link href="http://www.librarything.com/author/AlfredV.AhoMonicaS.LamRaviSethiJeffreyD.Ullman" type="text/html" rel="related" title="Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman" type="text/html" rel="related" title="Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman" type="text/html" rel="related" title="Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman on ISFDB" />
+</entry>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alone Together: Why We Expect More From Technology and Less From Each Other</title>
+  <id>urn:book:bc218eea-9601-446e-8339-1db58f4ae49d</id>
+  <updated>2020-03-28T08:03:17Z</updated>
+  <link href="./book_738.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Alone Together: Why We Expect More From Technology and Less From Each Other" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Te%20-%20Sherry%20Turkle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Te%20-%20Sherry%20Turkle.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Sherry Turkle</name>
+    <uri>../author_0/author_465_Page_1.xml</uri>
+  </author>
+  <published>2011-01-11T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Basic Books</dcterms:publisher>
+  <category term="Technology" />
+  <category term="Society" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Technology, Society, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Basic Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Consider Facebook—it’s human contact, only
+    easier to engage with and easier to avoid. Developing
+    technology promises closeness. Sometimes it delivers, but much
+    of our modern life leaves us less connected with people and
+    more connected to simulations of them.</p>
+    <p xmlns="">
+      In
+      <em>Alone Together</em>
+      , MIT technology and society professor
+    Sherry Turkle explores the power of our new tools and toys to
+    dramatically alter our social lives. It’s a nuanced
+    exploration of what we are looking for—and
+    sacrificing—in a world of electronic companions and
+    social networking tools, and an argument that, despite the
+    hand-waving of today’s self-described prophets of the
+    future, it will be the next generation who will chart the path
+    between isolation and connectivity.
+    </p>
+    <p xmlns="">**</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Alone%20Together%3A%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Alone%20Together%3A%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Alone%20Together%3A%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20Sherry%20Turkle" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Alone%20Together%3A%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other&amp;field-author=Sherry%20Turkle" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Sherry%20Turkle" type="text/html" rel="related" title="Sherry Turkle on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sherry%20Turkle" type="text/html" rel="related" title="Sherry Turkle on Wikipedia" />
+  <link href="http://www.librarything.com/author/TurkleSherry" type="text/html" rel="related" title="Sherry Turkle on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Sherry%20Turkle" type="text/html" rel="related" title="Sherry Turkle on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Sherry%20Turkle" type="text/html" rel="related" title="Sherry Turkle on ISFDB" />
+</entry>

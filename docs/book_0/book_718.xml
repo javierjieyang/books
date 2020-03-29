@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gold : as an investment</title>
+  <id>urn:book:ecc1ea73-975e-4b6f-8d48-8fb25d761a0d</id>
+  <updated>2020-03-28T11:32:41Z</updated>
+  <link href="./book_718.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Gold : as an investment" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Reuben%20Gregg%20Brewer/Gold%20_%20as%20an%20investment%20%28718%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Reuben%20Gregg%20Brewer/Gold%20_%20as%20an%20investment%20%28718%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Reuben%20Gregg%20Brewer/Gold%20_%20as%20an%20investment%20%28718%29/Gold%20_%20as%20an%20investment%20-%20Reuben%20Gregg%20Brewer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Reuben Gregg Brewer</name>
+    <uri>../author_0/author_501_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Gold%20%3A%20as%20an%20investment" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Gold%20%3A%20as%20an%20investment" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Gold%20%3A%20as%20an%20investment%20Reuben%20Gregg%20Brewer" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Gold%20%3A%20as%20an%20investment&amp;field-author=Reuben%20Gregg%20Brewer" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Reuben%20Gregg%20Brewer" type="text/html" rel="related" title="Reuben Gregg Brewer on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Reuben%20Gregg%20Brewer" type="text/html" rel="related" title="Reuben Gregg Brewer on Wikipedia" />
+  <link href="http://www.librarything.com/author/BrewerReubenGregg" type="text/html" rel="related" title="Reuben Gregg Brewer on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Reuben%20Gregg%20Brewer" type="text/html" rel="related" title="Reuben Gregg Brewer on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Reuben%20Gregg%20Brewer" type="text/html" rel="related" title="Reuben Gregg Brewer on ISFDB" />
+</entry>

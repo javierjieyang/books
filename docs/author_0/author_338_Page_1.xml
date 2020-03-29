@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mark Ludwig</title>
+  <id>Calibre2opds:author:338</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_338_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mark Ludwig" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>The Giant Black Book of Computer Viruses</title>
+    <id>calibre:book:584</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mark Ludwig</name>
+      <uri>../author_0/author_338_Page_1.xml</uri>
+    </author>
+    <published>2016-11-04T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>In this book you'll learn everything you wanted to know about computer viruses, ranging from the simplest 44-byte virus right on up to viruses for 32-bit Windows, Unix and the Internet. You'll learn how anti-virus programs stalk viruses and what viru...</summary>
+    <link href="../book_0/book_584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

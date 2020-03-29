@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Henry Hazlitt</title>
+  <id>Calibre2opds:author:433</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_433_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Henry Hazlitt" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <entry>
+    <title>Economics in One Lesson</title>
+    <id>calibre:book:686</id>
+    <updated>2020-03-28T07:23:51Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Henry%20Hazlitt/Economics%20in%20One%20Lesson%20%28686%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Henry%20Hazlitt/Economics%20in%20One%20Lesson%20%28686%29/Economics%20in%20One%20Lesson%20-%20Henry%20Hazlitt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Henry%20Hazlitt/Economics%20in%20One%20Lesson%20%28686%29/Economics%20in%20One%20Lesson%20-%20Henry%20Hazlitt.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Henry Hazlitt</name>
+      <uri>../author_0/author_433_Page_1.xml</uri>
+    </author>
+    <published>2010-08-10T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A million copy seller, Henry Hazlitt's Economics in One Lesson is a classic economic primer. But it is also much more, having become a fundamental influence on modern "libertarian" economics of the type espoused by Ron Paul and others.Considered amon...</summary>
+    <link href="../book_0/book_686.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann</title>
+  <id>Calibre2opds:author:452</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_452_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>Cypherpunks: Freedom and the Future of the Internet</title>
+    <id>calibre:book:727</id>
+    <updated>2020-03-28T07:26:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20-%20Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Mull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20-%20Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Mull.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann</name>
+      <uri>../author_0/author_452_Page_1.xml</uri>
+    </author>
+    <published>2012-11-25T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>OR Books</dcterms:publisher>
+    <category term="Bisac Code 1: POL039000" />
+    <category term="Lang:en" />
+    <summary>The harassment of WikiLeaks and other Internet activists, together with attempts to introduce anti-file sharing legislation such as SOPA and ACTA, indicate that the politics of the Internet have reached a crossroads. In one direction lies a future th...</summary>
+    <link href="../book_0/book_727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

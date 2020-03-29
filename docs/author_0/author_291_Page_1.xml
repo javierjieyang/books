@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tahl Raz</title>
+  <id>Calibre2opds:author:291</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_291_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tahl Raz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time</title>
+    <id>calibre:book:542</id>
+    <updated>2020-03-28T07:17:15Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20-%20Keith%20Ferrazzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20-%20Keith%20Ferrazzi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Keith Ferrazzi</name>
+      <uri>../author_0/author_290_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Tahl Raz</name>
+      <uri>../author_0/author_291_Page_1.xml</uri>
+    </author>
+    <published>2014-06-02T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

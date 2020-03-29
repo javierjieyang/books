@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Atomic Habits: Tiny Changes, Remarkable Results</title>
+  <id>urn:book:fecb8833-f393-4a5b-adff-4214be2e9a34</id>
+  <updated>2020-03-28T07:07:52Z</updated>
+  <link href="./book_659.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Atomic Habits: Tiny Changes, Remarkable Results" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Clear/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Results%20%28659%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Clear/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Results%20%28659%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Clear/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Results%20%28659%29/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Re%20-%20James%20Clear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Clear/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Results%20%28659%29/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Re%20-%20James%20Clear.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>James Clear</name>
+    <uri>../author_0/author_408_Page_1.xml</uri>
+  </author>
+  <published>2018-10-16T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <b xmlns="">
+      <i>Tiny Changes, Remarkable Results</i>
+    </b>
+    <br xmlns="" />
+    <i xmlns="">Atomic Habits</i>
+    <br xmlns="" />
+    <br xmlns="" />
+  </content>
+  <link href="http://www.goodreads.com/book/title/Atomic%20Habits%3A%20Tiny%20Changes%2C%20Remarkable%20Results" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Atomic%20Habits%3A%20Tiny%20Changes%2C%20Remarkable%20Results" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Atomic%20Habits%3A%20Tiny%20Changes%2C%20Remarkable%20Results%20James%20Clear" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Atomic%20Habits%3A%20Tiny%20Changes%2C%20Remarkable%20Results&amp;field-author=James%20Clear" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Clear" type="text/html" rel="related" title="James Clear on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/James%20Clear" type="text/html" rel="related" title="James Clear on Wikipedia" />
+  <link href="http://www.librarything.com/author/ClearJames" type="text/html" rel="related" title="James Clear on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Clear" type="text/html" rel="related" title="James Clear on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Clear" type="text/html" rel="related" title="James Clear on ISFDB" />
+</entry>

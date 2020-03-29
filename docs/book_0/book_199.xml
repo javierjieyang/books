@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Courage to Be Disliked</title>
+  <id>urn:book:68287c57-03b5-48c7-9f63-5ca9f4f1168c</id>
+  <updated>2020-03-28T07:28:23Z</updated>
+  <link href="./book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Courage to Be Disliked" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with I" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Ichiro Kishimi, Fumitake Koga</name>
+    <uri>../author_0/author_513_Page_1.xml</uri>
+  </author>
+  <published>2018-01-03T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Atria Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Atria Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 12, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <i xmlns="">The Courage to Be Disliked</i>
+    <br xmlns="" />
+    <i xmlns="">The Courage to Be Disliked</i>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Courage%20to%20Be%20Disliked" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Courage%20to%20Be%20Disliked" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Courage%20to%20Be%20Disliked%20Ichiro%20Kishimi%2C%20Fumitake%20Koga" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Courage%20to%20Be%20Disliked&amp;field-author=Ichiro%20Kishimi%2C%20Fumitake%20Koga" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Ichiro%20Kishimi%2C%20Fumitake%20Koga" type="text/html" rel="related" title="Ichiro Kishimi, Fumitake Koga on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Ichiro%20Kishimi%2C%20Fumitake%20Koga" type="text/html" rel="related" title="Ichiro Kishimi, Fumitake Koga on Wikipedia" />
+  <link href="http://www.librarything.com/author/IchiroKishimiFumitakeKoga" type="text/html" rel="related" title="Ichiro Kishimi, Fumitake Koga on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ichiro%20Kishimi%2C%20Fumitake%20Koga" type="text/html" rel="related" title="Ichiro Kishimi, Fumitake Koga on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ichiro%20Kishimi%2C%20Fumitake%20Koga" type="text/html" rel="related" title="Ichiro Kishimi, Fumitake Koga on ISFDB" />
+</entry>

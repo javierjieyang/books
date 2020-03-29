@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Art of Seduction</title>
+  <id>urn:book:ecbfe086-ae19-4992-b562-5aa61689579e</id>
+  <updated>2020-03-28T07:22:24Z</updated>
+  <link href="./book_102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Art of Seduction" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Robert Greene</name>
+    <uri>../author_0/author_87_Page_1.xml</uri>
+  </author>
+  <published>2010-12-12T09:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin USA, Inc.</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin USA, Inc.
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 2, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      This mesmerizing exploration of the most subtle, elusive,
+    and effective form of power is a masterful analysis of
+    civilization's greatest seducers, from Cleopatra to JFK, as
+    well as the classic literature of seduction from Freud to
+    Kierkegaard and Ovid to Casanova. Robert Greene once again
+    identifies the rules of a timeless, amoral game and explores
+    how to cast a spell, break down resistance, and, ultimately,
+    compel a target to surrender. Presenting the timeless profiles
+    of each type of seducer and the twenty-four maneuvers that will
+    guide you step by step in the game of seduction,
+      <i>The Art of Seduction</i>
+      is an indispensable primer of
+    persuasion that reveals the timeless power of this age-old
+    art.
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Art%20of%20Seduction" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Art%20of%20Seduction" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Art%20of%20Seduction%20Robert%20Greene" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Art%20of%20Seduction&amp;field-author=Robert%20Greene" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Robert%20Greene" type="text/html" rel="related" title="Robert Greene on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Robert%20Greene" type="text/html" rel="related" title="Robert Greene on Wikipedia" />
+  <link href="http://www.librarything.com/author/GreeneRobert" type="text/html" rel="related" title="Robert Greene on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Robert%20Greene" type="text/html" rel="related" title="Robert Greene on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Robert%20Greene" type="text/html" rel="related" title="Robert Greene on ISFDB" />
+</entry>

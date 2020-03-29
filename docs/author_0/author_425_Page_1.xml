@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gary Chapman</title>
+  <id>Calibre2opds:author:425</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_425_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gary Chapman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <entry>
+    <title>The 5 Love Languages: The Secret to Love That Lasts</title>
+    <id>calibre:book:676</id>
+    <updated>2020-03-28T07:06:10Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20T%20-%20Gary%20Chapman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20T%20-%20Gary%20Chapman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gary Chapman</name>
+      <uri>../author_0/author_425_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Moody Publishers</dcterms:publisher>
+    <category term="General" />
+    <category term="Religion" />
+    <category term="Family" />
+    <category term="Christian Life" />
+    <category term="Love &amp; Romance" />
+    <category term="Love" />
+    <category term="Interpersonal Communication" />
+    <category term="Religion - Christian Life" />
+    <category term="Marriage &amp; relationships" />
+    <category term="Christian Life - Inspirational - Protestant Self Help" />
+    <category term="Christian Life - Love &amp; Marriage" />
+    <category term="Marriage" />
+    <category term="Communication in marriage" />
+    <category term="Religion - Relationships" />
+    <category term="Love &amp; Marriage" />
+    <category term="Family &amp; Relationships" />
+    <category term="Lang:en" />
+    <summary>EDITORIAL REVIEW: Marriage should be based on love, right? But does it seem as though you and your spouse are speaking two different languages? *New York Times* bestselling author Dr. Gary Chapman guides couples in identifying, understanding, and spe...</summary>
+    <link href="../book_0/book_676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

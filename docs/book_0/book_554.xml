@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Short-Cut Math</title>
+  <id>urn:book:3f2a42a6-acd6-4639-833c-02ce547dacd8</id>
+  <updated>2020-03-28T07:28:00Z</updated>
+  <link href="./book_554.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Short-Cut Math" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gerard%20W.%20Kelly/Short-Cut%20Math%20%28554%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gerard%20W.%20Kelly/Short-Cut%20Math%20%28554%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gerard%20W.%20Kelly/Short-Cut%20Math%20%28554%29/Short-Cut%20Math%20-%20Gerard%20W.%20Kelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gerard%20W.%20Kelly/Short-Cut%20Math%20%28554%29/Short-Cut%20Math%20-%20Gerard%20W.%20Kelly.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Gerard W. Kelly</name>
+    <uri>../author_0/author_311_Page_1.xml</uri>
+  </author>
+  <published>2012-07-17T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Dover Publications</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Dover Publications
+    </p>
+    <p>
+      <strong>Added:</strong>
+      February 7, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Short-Cut%20Math" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Short-Cut%20Math" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Short-Cut%20Math%20Gerard%20W.%20Kelly" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Short-Cut%20Math&amp;field-author=Gerard%20W.%20Kelly" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Gerard%20W.%20Kelly" type="text/html" rel="related" title="Gerard W. Kelly on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Gerard%20W.%20Kelly" type="text/html" rel="related" title="Gerard W. Kelly on Wikipedia" />
+  <link href="http://www.librarything.com/author/KellyGerardW." type="text/html" rel="related" title="Gerard W. Kelly on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gerard%20W.%20Kelly" type="text/html" rel="related" title="Gerard W. Kelly on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gerard%20W.%20Kelly" type="text/html" rel="related" title="Gerard W. Kelly on ISFDB" />
+</entry>

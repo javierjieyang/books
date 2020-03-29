@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Stumbling on Happiness</title>
+  <id>urn:book:78cd72f1-6909-4481-a50b-f37ef7defbe0</id>
+  <updated>2020-03-28T07:20:39Z</updated>
+  <link href="./book_404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Stumbling on Happiness" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Daniel Gilbert</name>
+    <uri>../author_0/author_151_Page_1.xml</uri>
+  </author>
+  <published>2006-05-02T07:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Knopf Doubleday Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 29, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Stumbling%20on%20Happiness" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Stumbling%20on%20Happiness" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Stumbling%20on%20Happiness%20Daniel%20Gilbert" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Stumbling%20on%20Happiness&amp;field-author=Daniel%20Gilbert" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Daniel%20Gilbert" type="text/html" rel="related" title="Daniel Gilbert on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Daniel%20Gilbert" type="text/html" rel="related" title="Daniel Gilbert on Wikipedia" />
+  <link href="http://www.librarything.com/author/GilbertDaniel" type="text/html" rel="related" title="Daniel Gilbert on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Daniel%20Gilbert" type="text/html" rel="related" title="Daniel Gilbert on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Daniel%20Gilbert" type="text/html" rel="related" title="Daniel Gilbert on ISFDB" />
+</entry>

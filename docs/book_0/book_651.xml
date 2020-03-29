@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tryptamine Palace</title>
+  <id>urn:book:7c51b30b-907b-4452-b438-d44e1ee04648</id>
+  <updated>2020-03-28T07:38:41Z</updated>
+  <link href="./book_651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tryptamine Palace" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Oroc/Tryptamine%20Palace%20%28651%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Oroc/Tryptamine%20Palace%20%28651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Oroc/Tryptamine%20Palace%20%28651%29/Tryptamine%20Palace%20-%20James%20Oroc.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Oroc/Tryptamine%20Palace%20%28651%29/Tryptamine%20Palace%20-%20James%20Oroc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>James Oroc</name>
+    <uri>../author_0/author_402_Page_1.xml</uri>
+  </author>
+  <published>2009-11-10T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Park Street Press</dcterms:publisher>
+  <category term="Entheogens" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Entheogens, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Park Street Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Tryptamine%20Palace" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Tryptamine%20Palace" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Tryptamine%20Palace%20James%20Oroc" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Tryptamine%20Palace&amp;field-author=James%20Oroc" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Oroc" type="text/html" rel="related" title="James Oroc on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/James%20Oroc" type="text/html" rel="related" title="James Oroc on Wikipedia" />
+  <link href="http://www.librarything.com/author/OrocJames" type="text/html" rel="related" title="James Oroc on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Oroc" type="text/html" rel="related" title="James Oroc on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Oroc" type="text/html" rel="related" title="James Oroc on ISFDB" />
+</entry>

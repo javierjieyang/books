@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Scott Young</title>
+  <id>Calibre2opds:author:427</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_427_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Scott Young" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <entry>
+    <title>Ultralearning</title>
+    <id>calibre:book:678</id>
+    <updated>2020-03-29T02:12:10Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Young/Ultralearning%20%28678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Young/Ultralearning%20%28678%29/Ultralearning%20-%20Scott%20Young.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Young/Ultralearning%20%28678%29/Ultralearning%20-%20Scott%20Young.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott Young</name>
+      <uri>../author_0/author_427_Page_1.xml</uri>
+    </author>
+    <published>2019-08-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperBusiness</dcterms:publisher>
+    <category term="Learning" />
+    <category term="Self-Help" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_678.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

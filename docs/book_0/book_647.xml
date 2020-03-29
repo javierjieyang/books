@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>When Genius Failed: The Rise and Fall of Long-Term Capital Management</title>
+  <id>urn:book:ccbc1b7d-4668-4c57-83d3-bf06545908bd</id>
+  <updated>2020-03-28T07:30:38Z</updated>
+  <link href="./book_647.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="When Genius Failed: The Rise and Fall of Long-Term Capital Management" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20L%20-%20Roger%20Lowenstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20L%20-%20Roger%20Lowenstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Roger Lowenstein</name>
+    <uri>../author_0/author_398_Page_1.xml</uri>
+  </author>
+  <published>2001-01-17T11:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House</dcterms:publisher>
+  <category term="Business" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Business, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Random House
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/When%20Genius%20Failed%3A%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/When%20Genius%20Failed%3A%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/When%20Genius%20Failed%3A%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20Roger%20Lowenstein" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=When%20Genius%20Failed%3A%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management&amp;field-author=Roger%20Lowenstein" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Roger%20Lowenstein" type="text/html" rel="related" title="Roger Lowenstein on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Roger%20Lowenstein" type="text/html" rel="related" title="Roger Lowenstein on Wikipedia" />
+  <link href="http://www.librarything.com/author/LowensteinRoger" type="text/html" rel="related" title="Roger Lowenstein on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Roger%20Lowenstein" type="text/html" rel="related" title="Roger Lowenstein on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Roger%20Lowenstein" type="text/html" rel="related" title="Roger Lowenstein on ISFDB" />
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Liar's Poker</title>
+  <id>urn:book:cae309b9-c571-4bfa-a122-de1d4158c294</id>
+  <updated>2020-03-28T07:29:43Z</updated>
+  <link href="./book_556.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Liar's Poker" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Liar%27s%20Poker%20%28556%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Liar%27s%20Poker%20%28556%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Liar%27s%20Poker%20%28556%29/Liar%27s%20Poker%20-%20Michael%20Lewis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Liar%27s%20Poker%20%28556%29/Liar%27s%20Poker%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Michael Lewis</name>
+    <uri>../author_0/author_312_Page_1.xml</uri>
+  </author>
+  <published>2011-03-28T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      February 7, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Liar%27s%20Poker" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Liar%27s%20Poker" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Liar%27s%20Poker%20Michael%20Lewis" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Liar%27s%20Poker&amp;field-author=Michael%20Lewis" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Michael%20Lewis" type="text/html" rel="related" title="Michael Lewis on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Michael%20Lewis" type="text/html" rel="related" title="Michael Lewis on Wikipedia" />
+  <link href="http://www.librarything.com/author/LewisMichael" type="text/html" rel="related" title="Michael Lewis on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michael%20Lewis" type="text/html" rel="related" title="Michael Lewis on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michael%20Lewis" type="text/html" rel="related" title="Michael Lewis on ISFDB" />
+</entry>

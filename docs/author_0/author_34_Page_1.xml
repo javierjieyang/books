@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Richard Dawkins</title>
+  <id>Calibre2opds:author:34</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Richard Dawkins" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <entry>
+    <title>The Blind Watchmaker</title>
+    <id>calibre:book:660</id>
+    <updated>2020-03-28T07:10:10Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Blind%20Watchmaker%20%28660%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Blind%20Watchmaker%20%28660%29/The%20Blind%20Watchmaker%20-%20Richard%20Dawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Blind%20Watchmaker%20%28660%29/The%20Blind%20Watchmaker%20-%20Richard%20Dawkins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Richard Dawkins</name>
+      <uri>../author_0/author_34_Page_1.xml</uri>
+    </author>
+    <published>2015-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Richard Dawkins's classic remains the definitive argument for our modern understanding of evolution.The Blind Watchmaker is the seminal text for understanding evolution today. In the eighteenth century, theologian William Paley developed a famous met...</summary>
+    <link href="../book_0/book_660.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Selfish Gene</title>
+    <id>calibre:book:38</id>
+    <updated>2020-03-28T07:10:35Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Richard Dawkins</name>
+      <uri>../author_0/author_34_Page_1.xml</uri>
+    </author>
+    <published>2006-05-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

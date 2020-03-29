@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nassim Nicholas Taleb</title>
+  <id>Calibre2opds:author:19</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Nassim Nicholas Taleb" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <entry>
+    <title>Antifragile: Things That Gain from Disorder</title>
+    <id>calibre:book:26</id>
+    <updated>2020-03-28T07:57:41Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/Antifragile_%20Things%20That%20Gain%20from%20Disorde%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/Antifragile_%20Things%20That%20Gain%20from%20Disorde%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/Antifragile_%20Things%20That%20Gain%20from%20Disorde%20-%20Nassim%20Nicholas%20Taleb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2012-11-26T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Bed of Procrustes</title>
+    <id>calibre:book:681</id>
+    <updated>2020-03-28T07:59:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/The%20Bed%20of%20Procrustes%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/The%20Bed%20of%20Procrustes%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-11-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dynamic Hedging: Managing Vanilla and Exotic Options</title>
+    <id>calibre:book:702</id>
+    <updated>2020-03-28T08:01:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exot%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exot%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2007-10-06T10:54:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_702.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fooled by Randomness</title>
+    <id>calibre:book:19</id>
+    <updated>2020-03-28T08:00:44Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/Fooled%20by%20Randomness%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/Fooled%20by%20Randomness%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/Fooled%20by%20Randomness%20-%20Nassim%20Nicholas%20Taleb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2008-10-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Skin in the Game</title>
+    <id>calibre:book:31</id>
+    <updated>2020-03-28T08:00:17Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/Skin%20in%20the%20Game%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/Skin%20in%20the%20Game%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/Skin%20in%20the%20Game%20-%20Nassim%20Nicholas%20Taleb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2018-02-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From the New York Times bestselling author of The Black Swan, a bold new work that challenges many of our long-held beliefs about risk and reward, politics and religion, finance and personal responsibility  In his most provocative and practical book ...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Statistical Consequences of fat tails</title>
+    <id>calibre:book:710</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Statistical%20Consequences%20of%20fat%20tails%20%28710%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Statistical%20Consequences%20of%20fat%20tails%20%28710%29/Statistical%20Consequences%20of%20fat%20tails%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_710.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

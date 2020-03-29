@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Raghuram G Rajan, Luigi Zingales</title>
+  <id>Calibre2opds:author:482</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_482_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Raghuram G Rajan, Luigi Zingales" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <entry>
+    <title>Saving Capitalism From the Capitalists: Unleashing the Power of Financial Markets to Create Wealth and Spread Opportunity</title>
+    <id>calibre:book:589</id>
+    <updated>2020-03-28T07:43:09Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/Saving%20Capitalism%20From%20the%20Capitalists_%20Un%20-%20Raghuram%20G%20Rajan%2C%20Luigi%20Zingales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/Saving%20Capitalism%20From%20the%20Capitalists_%20Un%20-%20Raghuram%20G%20Rajan%2C%20Luigi%20Zingales.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Raghuram G Rajan, Luigi Zingales</name>
+      <uri>../author_0/author_482_Page_1.xml</uri>
+    </author>
+    <published>2013-12-23T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers India</dcterms:publisher>
+    <category term="Economics" />
+    <category term="Business &amp; Economics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>For nearly two centuries, scholars and politicians have debated the future of capitalism. In India, its critics have viewed it as intrinsically unstable, seeing signs of its collapse in every fall of the Mumbai stock market. Its supporters see it as ...</summary>
+    <link href="../book_0/book_589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

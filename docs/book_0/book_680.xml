@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Power of Your Subconscious Mind</title>
+  <id>urn:book:abd2070a-6cf6-450c-b85a-4602e0d0797a</id>
+  <updated>2020-03-28T07:36:32Z</updated>
+  <link href="./book_680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Power of Your Subconscious Mind" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/The%20Power%20of%20Your%20Subconscious%20Mind%20-%20Murphy%2C%20Joseph.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/The%20Power%20of%20Your%20Subconscious%20Mind%20-%20Murphy%2C%20Joseph.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Murphy, Joseph</name>
+    <uri>../author_0/author_429_Page_1.xml</uri>
+  </author>
+  <published>2010-03-20T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Wilder Publications</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Wilder Publications
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Power%20of%20Your%20Subconscious%20Mind" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Power%20of%20Your%20Subconscious%20Mind" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Power%20of%20Your%20Subconscious%20Mind%20Murphy%2C%20Joseph" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Power%20of%20Your%20Subconscious%20Mind&amp;field-author=Murphy%2C%20Joseph" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Murphy%2C%20Joseph" type="text/html" rel="related" title="Murphy, Joseph on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Murphy%2C%20Joseph" type="text/html" rel="related" title="Murphy, Joseph on Wikipedia" />
+  <link href="http://www.librarything.com/author/MurphyJoseph" type="text/html" rel="related" title="Murphy, Joseph on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Murphy%2C%20Joseph" type="text/html" rel="related" title="Murphy, Joseph on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Murphy%2C%20Joseph" type="text/html" rel="related" title="Murphy, Joseph on ISFDB" />
+</entry>

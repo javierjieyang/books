@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Michael Lewis</title>
+  <id>Calibre2opds:author:312</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_312_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Michael Lewis" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>The Big Short: Inside the Doomsday Machine ***</title>
+    <id>calibre:book:555</id>
+    <updated>2020-03-28T07:29:57Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20%28555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20%28555%29/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20-%20Michael%20Lewis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20%28555%29/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>2009-11-02T05:00:00Z</published>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Financial crises" />
+    <category term="Contemporary Economic Situations And Conditions" />
+    <category term="c 2000 to c 2010" />
+    <category term="Economics: Professional &amp; General" />
+    <category term="Finance" />
+    <category term="Financial crises &amp; disasters" />
+    <category term="Economics" />
+    <category term="21st century" />
+    <category term="General" />
+    <category term="United States" />
+    <category term="Economic Conditions" />
+    <category term="Business &amp; Economics" />
+    <category term="Global Financial Crisis; 2008-2009" />
+    <category term="Economic History" />
+    <category term="Business" />
+    <category term="History" />
+    <summary>EDITORIAL REVIEW:
+
+The #1 New York Times bestseller: a brilliant account—character-rich and darkly humorous—of how the U.S. economy was driven over the cliff.  When the crash of the U. S. stock market became public knowledge in the fall of 2008, it w...</summary>
+    <link href="../book_0/book_555.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Liar's Poker</title>
+    <id>calibre:book:556</id>
+    <updated>2020-03-28T07:29:43Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Liar%27s%20Poker%20%28556%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Liar%27s%20Poker%20%28556%29/Liar%27s%20Poker%20-%20Michael%20Lewis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Liar%27s%20Poker%20%28556%29/Liar%27s%20Poker%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>2011-03-28T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_556.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Moneyball</title>
+    <id>calibre:book:473</id>
+    <updated>2020-03-28T07:29:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>2004-03-17T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_473.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

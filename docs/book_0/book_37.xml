@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The society of mind</title>
+  <id>urn:book:bdfe3082-381f-47bb-a2f5-fb082bb6027f</id>
+  <updated>2019-12-07T00:47:24Z</updated>
+  <link href="./book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The society of mind" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/The%20society%20of%20mind%20-%20Marvin%20Minsky.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Marvin Minsky</name>
+    <uri>../author_0/author_231_Page_1.xml</uri>
+  </author>
+  <published>1988-12-14T02:29:55Z</published>
+  <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Simon &amp; Schuster
+    </p>
+    <p>
+      <strong>Added:</strong>
+      May 15, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20society%20of%20mind" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20society%20of%20mind" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20society%20of%20mind%20Marvin%20Minsky" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20society%20of%20mind&amp;field-author=Marvin%20Minsky" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Marvin%20Minsky" type="text/html" rel="related" title="Marvin Minsky on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Marvin%20Minsky" type="text/html" rel="related" title="Marvin Minsky on Wikipedia" />
+  <link href="http://www.librarything.com/author/MinskyMarvin" type="text/html" rel="related" title="Marvin Minsky on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Marvin%20Minsky" type="text/html" rel="related" title="Marvin Minsky on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Marvin%20Minsky" type="text/html" rel="related" title="Marvin Minsky on ISFDB" />
+</entry>

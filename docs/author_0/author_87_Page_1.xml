@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Robert Greene</title>
+  <id>Calibre2opds:author:87</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_87_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Robert Greene" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <entry>
+    <title>The Art of Seduction</title>
+    <id>calibre:book:102</id>
+    <updated>2020-03-28T07:22:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert Greene</name>
+      <uri>../author_0/author_87_Page_1.xml</uri>
+    </author>
+    <published>2010-12-12T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>This mesmerizing exploration of the most subtle, elusive, and effective form of power is a masterful analysis of civilization's greatest seducers, from Cleopatra to JFK, as well as the classic literature of seduction from Freud to Kierkegaard and Ovi...</summary>
+    <link href="../book_0/book_102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Laws of Human Nature</title>
+    <id>calibre:book:655</id>
+    <updated>2020-03-28T07:22:10Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Laws%20of%20Human%20Nature%20%28655%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Laws%20of%20Human%20Nature%20%28655%29/The%20Laws%20of%20Human%20Nature%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene/The%20Laws%20of%20Human%20Nature%20%28655%29/The%20Laws%20of%20Human%20Nature%20-%20Robert%20Greene.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert Greene</name>
+      <uri>../author_0/author_87_Page_1.xml</uri>
+    </author>
+    <published>2018-10-23T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From the #1 New York Times-bestselling author of The 48 Laws of Power comes the definitive new book on decoding the behavior of the people around youRobert Greene is a master guide for millions of readers, distilling ancient wisdom and philosophy int...</summary>
+    <link href="../book_0/book_655.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

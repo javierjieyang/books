@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tools of Titans</title>
+  <id>urn:book:d38b4a50-e2c4-4eba-a386-8c762de0b138</id>
+  <updated>2020-03-28T07:19:19Z</updated>
+  <link href="./book_466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tools of Titans" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Timothy Ferriss</name>
+    <uri>../author_0/author_192_Page_1.xml</uri>
+  </author>
+  <published>2016-10-25T06:21:22Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Houghton Mifflin Harcourt</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Houghton Mifflin Harcourt
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 16, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      <b>The latest groundbreaking tome from Tim Ferriss, the #1</b>
+      <i>
+        <b>New York Times</b>
+      </i>
+      <b>best-selling author of</b>
+      <i>
+        <b>The 4-Hour Workweek</b>
+      </i>
+      <b>.</b>
+      <br />
+      <br />
+      <b>From the author:</b>
+      <br />
+      <br />
+      "For the last two years, I've interviewed nearly two hundred
+    world-class performers for my podcast,
+      <i>The Tim Ferriss Show.</i>
+      The guests range from super celebs
+    (Jamie Foxx, Arnold Schwarzenegger, etc.) and athletes (icons
+    of powerlifting, gymnastics, surfing, etc.) to legendary
+    Special Operations commanders and black-market biochemists. For
+    most of my guests, it's the first time they've agreed to a
+    two-to-three-hour interview, and the show is on the cusp of
+    passing 1 million downloads.
+      <br />
+      <br />
+      "This book contains the distilled tools, tactics, and 'inside
+    baseball' you won't find anywhere else. It also includes new
+    tips from past guests, and life lessons from new 'guests' you
+    haven't met.
+      <br />
+      <br />
+      "What makes the show different is a relentless focus on...
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Tools%20of%20Titans" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Tools%20of%20Titans" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Tools%20of%20Titans%20Timothy%20Ferriss" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Tools%20of%20Titans&amp;field-author=Timothy%20Ferriss" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Timothy%20Ferriss" type="text/html" rel="related" title="Timothy Ferriss on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Timothy%20Ferriss" type="text/html" rel="related" title="Timothy Ferriss on Wikipedia" />
+  <link href="http://www.librarything.com/author/FerrissTimothy" type="text/html" rel="related" title="Timothy Ferriss on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Timothy%20Ferriss" type="text/html" rel="related" title="Timothy Ferriss on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Timothy%20Ferriss" type="text/html" rel="related" title="Timothy Ferriss on ISFDB" />
+</entry>

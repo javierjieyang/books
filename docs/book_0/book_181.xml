@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Algorithm Design Manual</title>
+  <id>urn:book:4dbc540a-3c2f-4a22-a134-e5b6d71183ea</id>
+  <updated>2019-12-07T00:47:27Z</updated>
+  <link href="./book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Algorithm Design Manual" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20S.%20Skiena/The%20Algorithm%20Design%20Manual%20%28181%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20S.%20Skiena/The%20Algorithm%20Design%20Manual%20%28181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20S.%20Skiena/The%20Algorithm%20Design%20Manual%20%28181%29/The%20Algorithm%20Design%20Manual%20-%20Steven%20S.%20Skiena.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Steven S. Skiena</name>
+    <uri>../author_0/author_234_Page_1.xml</uri>
+  </author>
+  <published>2008-04-08T05:27:34Z</published>
+  <dcterms:publisher>Verlag London</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Verlag London
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 12, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Algorithm%20Design%20Manual" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Algorithm%20Design%20Manual" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Algorithm%20Design%20Manual%20Steven%20S.%20Skiena" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Algorithm%20Design%20Manual&amp;field-author=Steven%20S.%20Skiena" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Steven%20S.%20Skiena" type="text/html" rel="related" title="Steven S. Skiena on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Steven%20S.%20Skiena" type="text/html" rel="related" title="Steven S. Skiena on Wikipedia" />
+  <link href="http://www.librarything.com/author/SkienaStevenS." type="text/html" rel="related" title="Steven S. Skiena on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Steven%20S.%20Skiena" type="text/html" rel="related" title="Steven S. Skiena on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Steven%20S.%20Skiena" type="text/html" rel="related" title="Steven S. Skiena on ISFDB" />
+</entry>
