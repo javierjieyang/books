@@ -10,12 +10,19 @@ mv docs/_search docs/search
 
 echo "fixing link"
 
-echo "backing up Calibre Library"
 echo "updating git ignore"
 find .  -size +100M -prune '.git' | sed 's|^\./||g' | cat >> .gitignore
+
+echo "moving big files to dropbox"
 find .  -size +100M -prune '.git' -exec cp --no-clobber --parents -t ~/Dropbox/big_books "{}" +
-echo "uploading books to github..."
+
+
+echo "Staging Changes"
 git add .
+
+echo "making commit"
 git commit -m "backing up"
+
+echo "Pushing to github"
 git push
 echo "Calibre backup done"
