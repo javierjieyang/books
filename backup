@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 echo "Building Catalogue"
 rm -rf docs
 /home/rjn/Apps/calibre2opds/run.sh
@@ -12,18 +10,19 @@ mv docs/_search docs/search
 echo "fixing link"
 sed -i 's/\_search/\.\/search/g' docs/index.html
 
-echo "fixing footer"
+echo "fixing footer in search"
 sed -i '/<footer>/,/<\/footer>/{//!d}' docs/search/search.html
 
-echo "fixing html Titles"
-python3 process_html.py
+
+echo "transforming HTML"
+jupyter nbconvert --execute --clear-output transform_html.ipynb
+
 
 echo "updating git ignore"
 find .  -size +100M -prune '.git' | sed 's|^\./||g' | cat >> .gitignore
 
 echo "moving big files to dropbox"
 find .  -size +100M -prune '.git' -exec cp --no-clobber --parents -t ~/Dropbox/big_books "{}" +
-
 
 echo "Staging Changes"
 git add .
