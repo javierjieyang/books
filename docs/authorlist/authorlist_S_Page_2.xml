@@ -69,6 +69,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Stephen Wolfram</title>
+    <id>Calibre2opds:author:560</id>
+    <content type="text">A New Kind of Science</content>
+    <link href="../author_0/author_560_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Scott Young</title>
     <id>Calibre2opds:author:427</id>
     <content type="text">Ultralearning</content>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a8514eb-b0c5-47f4-a5ba-b4abba8f1871</dc:identifier>
+        <dc:title>A New Kind of Science</dc:title>
+        <dc:creator opf:file-as="Wolfram, Stephen" opf:role="aut">Stephen Wolfram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-02T18:30:00+00:00</dc:date>
+        <dc:publisher>Wolfram Media</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Stephen Wolfram&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2002-04-04T11:04:18.958000+00:00" name="calibre:timestamp"/>
+        <meta content="New Kind of Science, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

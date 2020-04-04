@@ -128,6 +128,20 @@
     <link href="../book_0/book_542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>A New Kind of Science</title>
+    <id>calibre:book:767</id>
+    <updated>2020-04-04T04:34:49Z</updated>
+    <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Wolfram/A%20New%20Kind%20of%20Science%20%28767%29/A%20New%20Kind%20of%20Science%20-%20Stephen%20Wolfram.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Stephen Wolfram</name>
+      <uri>../author_0/author_560_Page_1.xml</uri>
+    </author>
+    <published>2002-04-02T06:30:00Z</published>
+    <dcterms:publisher>Wolfram Media</dcterms:publisher>
+    <link href="../book_0/book_767.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Nietzsche: The Birth of Tragedy and Other Writings (Cambridge Texts in the History of Philosophy)</title>
     <id>calibre:book:392</id>
     <updated>2019-12-07T00:47:21Z</updated>

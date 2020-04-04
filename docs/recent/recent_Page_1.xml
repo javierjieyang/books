@@ -62,7 +62,7 @@
   <entry>
     <title>More than one year</title>
     <id>Calibre2opds:recent:MORE</id>
-    <content type="text">224 books</content>
+    <content type="text">225 books</content>
     <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

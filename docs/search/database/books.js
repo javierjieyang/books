@@ -1,6 +1,6 @@
 function getBooks () {
  // bkId, bkTitle, bkUrl, bkThumbnailUrl
- // 405 elements
+ // 406 elements
  return [
   ['747','Nightmare Abbey','../book_0/book_747.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg'],
   ['582','Theoretical Neruscience','../book_0/book_582.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/c2o_thumbnail.jpg'],
@@ -406,6 +406,7 @@ function getBooks () {
   ['552','The_22_Immutable_Laws_of_Ma.pdf','../book_0/book_552.html','https://raw.githubusercontent.com/arjunbazinga/books/master/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/c2o_thumbnail.jpg'],
   ['573','The Lottery','../book_0/book_573.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Shirley%20Jackson/The%20Lottery%20%28573%29/c2o_thumbnail.jpg'],
   ['537','Numerical Optimization','../book_0/book_537.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/c2o_thumbnail.jpg'],
+  ['767','A New Kind of Science','../book_0/book_767.html','../default_image.jpg'],
   ['37','The society of mind','../book_0/book_37.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/c2o_thumbnail.jpg']
  ];
 }
