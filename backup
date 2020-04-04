@@ -1,16 +1,14 @@
 #!/bin/bash
 
 
-# Building the Catalogue
 
 echo "Building Catalogue"
-./home/rjn/Apps/calibre2opds/run.sh
+/home/rjn/Apps/calibre2opds/run.sh
 
 echo "renaming _search to search"
 mv docs/_search docs/search
 
 echo "fixing link"
-
 
 echo "backing up Calibre Library"
 echo "updating git ignore"
