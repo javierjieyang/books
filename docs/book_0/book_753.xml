@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>A bend in the river</title>
   <id>urn:book:39af76fc-1047-4c45-9c5a-4205a7046072</id>
-  <updated>2020-04-04T01:39:36Z</updated>
+  <updated>2020-04-04T03:11:27Z</updated>
   <link href="./book_753.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A bend in the river" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
@@ -11,6 +11,7 @@
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>V. S. Naipaul</name>
     <uri>../author_0/author_533_Page_1.xml</uri>

@@ -166,7 +166,7 @@
   <entry>
     <title>Books starting with P</title>
     <id>Calibre2opds:allbooks:P</id>
-    <content type="text">33 books</content>
+    <content type="text">32 books</content>
     <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

@@ -30,7 +30,7 @@
   <entry>
     <title>Recent additions</title>
     <id>Calibre2opds:recent</id>
-    <content type="text">405 most recent books</content>
+    <content type="text">404 most recent books</content>
     <link href="./recent/recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -38,7 +38,7 @@
   <entry>
     <title>All books</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 405 books</content>
+    <content type="text">Alphabetical index of the 404 books</content>
     <link href="./allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

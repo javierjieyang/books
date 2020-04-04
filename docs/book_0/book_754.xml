@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>One Hundred Years of Solitude</title>
   <id>urn:book:ae193773-5d65-4be0-945d-d71e0c17a0b9</id>
-  <updated>2020-04-04T01:39:37Z</updated>
+  <updated>2020-04-04T03:11:45Z</updated>
   <link href="./book_754.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="One Hundred Years of Solitude" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
@@ -11,6 +11,7 @@
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/One%20Hundred%20Years%20of%20Solitude%20-%20Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/One%20Hundred%20Years%20of%20Solitude%20-%20Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Gabriel García Márquez ,Gregory Rabassa</name>
     <uri>../author_0/author_551_Page_1.xml</uri>

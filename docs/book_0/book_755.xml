@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Lord of the Flies</title>
   <id>urn:book:04082313-2e26-4951-9746-d60f3af83377</id>
-  <updated>2020-04-04T01:39:37Z</updated>
+  <updated>2020-04-04T03:11:25Z</updated>
   <link href="./book_755.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Lord of the Flies" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
@@ -11,6 +11,7 @@
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/Lord%20of%20the%20Flies%20-%20William%20Golding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/Lord%20of%20the%20Flies%20-%20William%20Golding.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>William Golding</name>
     <uri>../author_0/author_536_Page_1.xml</uri>

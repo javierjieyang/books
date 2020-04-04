@@ -1,6 +1,6 @@
 function getBooks () {
  // bkId, bkTitle, bkUrl, bkThumbnailUrl
- // 405 elements
+ // 404 elements
  return [
   ['747','Nightmare Abbey','../book_0/book_747.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg'],
   ['582','Theoretical Neruscience','../book_0/book_582.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/c2o_thumbnail.jpg'],
@@ -179,7 +179,7 @@ function getBooks () {
   ['8','Doing Good Better: How Effective Altruism Can Help You Make a Difference','../book_0/book_8.html','https://raw.githubusercontent.com/arjunbazinga/books/master/William%20MacAskill/Doing%20Good%20Better_%20How%20Effective%20Altruism%20Can%20Help%20You%20Make%20a%20Difference%20%288%29/c2o_thumbnail.jpg'],
   ['432','Future Shock','../book_0/book_432.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Alvin%20Toffler/Future%20Shock%20%28432%29/c2o_thumbnail.jpg'],
   ['403','Kluge','../book_0/book_403.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Marcus/Kluge%20%28403%29/c2o_thumbnail.jpg'],
-  ['749','Ringside : A History of Professional Wrestling in America','../book_0/book_749.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Beekman%2C%20Scott_/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/c2o_thumbnail.jpg'],
+  ['749','Ringside : A History of Professional Wrestling in America','../book_0/book_749.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Scott.%20Beekman/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/c2o_thumbnail.jpg'],
   ['407','"Yellow Kid" Weil','../book_0/book_407.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Joseph%20R%20Weil%20%2C%20William%20T%20Brannon/_Yellow%20Kid_%20Weil%20%28407%29/c2o_thumbnail.jpg'],
   ['356','Nazi Literature in the Americas','../book_0/book_356.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/c2o_thumbnail.jpg'],
   ['750','Money','../book_0/book_750.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/c2o_thumbnail.jpg'],
@@ -405,7 +405,6 @@ function getBooks () {
   ['552','The_22_Immutable_Laws_of_Ma.pdf','../book_0/book_552.html','https://raw.githubusercontent.com/arjunbazinga/books/master/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/c2o_thumbnail.jpg'],
   ['573','The Lottery','../book_0/book_573.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Shirley%20Jackson/The%20Lottery%20%28573%29/c2o_thumbnail.jpg'],
   ['537','Numerical Optimization','../book_0/book_537.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/c2o_thumbnail.jpg'],
-  ['756','The Periodic Table','../book_0/book_756.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28756%29/c2o_thumbnail.jpg'],
   ['37','The society of mind','../book_0/book_37.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/c2o_thumbnail.jpg']
  ];
 }

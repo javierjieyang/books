@@ -16,9 +16,10 @@
   <entry>
     <title>Herzog</title>
     <id>calibre:book:758</id>
-    <updated>2020-04-04T01:39:37Z</updated>
+    <updated>2020-04-04T03:11:40Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Saul Bellow</name>
       <uri>../author_0/author_539_Page_1.xml</uri>

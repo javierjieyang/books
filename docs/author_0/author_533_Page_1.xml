@@ -16,9 +16,10 @@
   <entry>
     <title>A bend in the river ****</title>
     <id>calibre:book:753</id>
-    <updated>2020-04-04T01:39:36Z</updated>
+    <updated>2020-04-04T03:11:27Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>V. S. Naipaul</name>
       <uri>../author_0/author_533_Page_1.xml</uri>

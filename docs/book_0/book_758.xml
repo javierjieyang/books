@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Herzog</title>
   <id>urn:book:fb957c69-5e17-43a5-a518-b5f0d8659e27</id>
-  <updated>2020-04-04T01:39:37Z</updated>
+  <updated>2020-04-04T03:11:40Z</updated>
   <link href="./book_758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Herzog" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
@@ -11,6 +11,7 @@
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Saul Bellow</name>
     <uri>../author_0/author_539_Page_1.xml</uri>

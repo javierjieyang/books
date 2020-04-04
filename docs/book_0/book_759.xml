@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>The Prime of Miss Jean Brodie</title>
   <id>urn:book:4b5699ff-8afe-41ec-930c-206ebe375f30</id>
-  <updated>2020-04-04T01:39:37Z</updated>
+  <updated>2020-04-04T03:11:42Z</updated>
   <link href="./book_759.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Prime of Miss Jean Brodie" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
@@ -11,6 +11,7 @@
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Muriel Spark</name>
     <uri>../author_0/author_549_Page_1.xml</uri>

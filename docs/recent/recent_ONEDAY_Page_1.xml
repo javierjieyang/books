@@ -15,9 +15,10 @@
   <entry>
     <title>Evelyn Waugh [April 4, 2020]</title>
     <id>calibre:book:765</id>
-    <updated>2020-04-04T01:39:39Z</updated>
+    <updated>2020-04-04T03:11:49Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/Evelyn%20Waugh%20-%20Scoop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/Evelyn%20Waugh%20-%20Scoop.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Scoop</name>
       <uri>../author_0/author_545_Page_1.xml</uri>
@@ -30,9 +31,10 @@
   <entry>
     <title>The Plague [April 4, 2020]</title>
     <id>calibre:book:761</id>
-    <updated>2020-04-04T01:39:38Z</updated>
+    <updated>2020-04-04T03:11:38Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Albert Camus</name>
       <uri>../author_0/author_323_Page_1.xml</uri>
@@ -46,9 +48,10 @@
   <entry>
     <title>Men Without Women: Stories [April 4, 2020]</title>
     <id>calibre:book:763</id>
-    <updated>2020-04-04T01:39:38Z</updated>
+    <updated>2020-04-04T03:11:48Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/Men%20Without%20Women_%20Stories%20-%20Haruki%20Murakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/Men%20Without%20Women_%20Stories%20-%20Haruki%20Murakami.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Haruki Murakami</name>
       <uri>../author_0/author_543_Page_1.xml</uri>
@@ -75,9 +78,10 @@
   <entry>
     <title>One Hundred Years of Solitude [April 4, 2020]</title>
     <id>calibre:book:754</id>
-    <updated>2020-04-04T01:39:37Z</updated>
+    <updated>2020-04-04T03:11:45Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/One%20Hundred%20Years%20of%20Solitude%20-%20Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/One%20Hundred%20Years%20of%20Solitude%20-%20Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Gabriel García Márquez ,Gregory Rabassa</name>
       <uri>../author_0/author_551_Page_1.xml</uri>
@@ -91,9 +95,10 @@
   <entry>
     <title>Lord of the Flies [April 4, 2020]</title>
     <id>calibre:book:755</id>
-    <updated>2020-04-04T01:39:37Z</updated>
+    <updated>2020-04-04T03:11:25Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/Lord%20of%20the%20Flies%20-%20William%20Golding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/Lord%20of%20the%20Flies%20-%20William%20Golding.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>William Golding</name>
       <uri>../author_0/author_536_Page_1.xml</uri>
@@ -104,20 +109,6 @@
     <category term="Lang:en" />
     <summary>14.5 Million copies sold to dateThe classic, startling, and perennially bestselling portrait of human nature-now available as a Premium Edition with a stunning new cover and re-set, easy-to-read text.</summary>
     <link href="../book_0/book_755.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>The Periodic Table [April 4, 2020]</title>
-    <id>calibre:book:756</id>
-    <updated>2020-04-04T01:39:37Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28756%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28756%29/The%20Periodic%20Table%20-%20Primo%20Levi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
-    <author>
-      <name>Primo Levi</name>
-      <uri>../author_0/author_530_Page_1.xml</uri>
-    </author>
-    <published>1995-03-31T06:30:00Z</published>
-    <dcterms:publisher>Schocken</dcterms:publisher>
-    <link href="../book_0/book_756.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Lanark - A Life in Four Books [April 4, 2020]</title>
@@ -135,9 +126,10 @@
   <entry>
     <title>Herzog [April 4, 2020]</title>
     <id>calibre:book:758</id>
-    <updated>2020-04-04T01:39:37Z</updated>
+    <updated>2020-04-04T03:11:40Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Saul Bellow</name>
       <uri>../author_0/author_539_Page_1.xml</uri>
@@ -152,9 +144,10 @@
   <entry>
     <title>The Prime of Miss Jean Brodie [April 4, 2020]</title>
     <id>calibre:book:759</id>
-    <updated>2020-04-04T01:39:37Z</updated>
+    <updated>2020-04-04T03:11:42Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Muriel Spark</name>
       <uri>../author_0/author_549_Page_1.xml</uri>
@@ -218,11 +211,11 @@
     <title>Ringside : A History of Professional Wrestling in America [April 4, 2020]</title>
     <id>calibre:book:749</id>
     <updated>2020-04-04T01:39:36Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Beekman%2C%20Scott_/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Beekman%2C%20Scott_/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/Ringside%20_%20A%20History%20of%20Professional%20Wrest%20-%20Beekman%2C%20Scott_.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott.%20Beekman/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott.%20Beekman/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/Ringside%20_%20A%20History%20of%20Professional%20Wrest%20-%20Scott.%20Beekman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
-      <name>Beekman, Scott.</name>
-      <uri>../author_0/author_528_Page_1.xml</uri>
+      <name>Scott. Beekman</name>
+      <uri>../author_0/author_556_Page_1.xml</uri>
     </author>
     <published>2009-03-04T07:18:13Z</published>
     <link href="../book_0/book_749.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
@@ -243,24 +236,27 @@
   <entry>
     <title>The Periodic Table [April 4, 2020]</title>
     <id>calibre:book:751</id>
-    <updated>2020-04-04T01:39:36Z</updated>
+    <updated>2020-04-04T03:11:24Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/The%20Periodic%20Table%20-%20Primo%20Levi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/The%20Periodic%20Table%20-%20Primo%20Levi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Primo Levi</name>
       <uri>../author_0/author_530_Page_1.xml</uri>
     </author>
     <published>1983-12-31T06:30:00Z</published>
     <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Schocken</dcterms:publisher>
     <category term="Lang:en" />
     <link href="../book_0/book_751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>A bend in the river [April 4, 2020]</title>
     <id>calibre:book:753</id>
-    <updated>2020-04-04T01:39:36Z</updated>
+    <updated>2020-04-04T03:11:27Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>V. S. Naipaul</name>
       <uri>../author_0/author_533_Page_1.xml</uri>

@@ -16,9 +16,10 @@
   <entry>
     <title>Evelyn Waugh</title>
     <id>calibre:book:765</id>
-    <updated>2020-04-04T01:39:39Z</updated>
+    <updated>2020-04-04T03:11:49Z</updated>
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/Evelyn%20Waugh%20-%20Scoop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/Evelyn%20Waugh%20-%20Scoop.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Scoop</name>
       <uri>../author_0/author_545_Page_1.xml</uri>

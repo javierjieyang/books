@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>The Plague</title>
   <id>urn:book:89ac4318-2f42-4135-a613-9caae96a2ca5</id>
-  <updated>2020-04-04T01:39:38Z</updated>
+  <updated>2020-04-04T03:11:38Z</updated>
   <link href="./book_761.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Plague" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
@@ -11,6 +11,7 @@
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Albert Camus</name>
     <uri>../author_0/author_323_Page_1.xml</uri>

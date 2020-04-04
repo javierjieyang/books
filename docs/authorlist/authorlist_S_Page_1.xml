@@ -30,6 +30,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Scott. Beekman</title>
+    <id>Calibre2opds:author:556</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_556_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Saul Bellow</title>
     <id>Calibre2opds:author:539</id>
     <content type="text">Herzog</content>
@@ -202,14 +210,6 @@
     <id>Calibre2opds:author:487</id>
     <content type="text">The Pillow Book</content>
     <link href="../author_0/author_487_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Steven S. Skiena</title>
-    <id>Calibre2opds:author:234</id>
-    <content type="text">2 books</content>
-    <link href="../author_0/author_234_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

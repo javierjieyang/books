@@ -22,7 +22,7 @@
   <entry>
     <title>Authors starting with B</title>
     <id>Calibre2opds:authorlist:B</id>
-    <content type="text">12 authors</content>
+    <content type="text">11 authors</content>
     <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -150,7 +150,7 @@
   <entry>
     <title>Authors starting with S</title>
     <id>Calibre2opds:authorlist:S</id>
-    <content type="text">33 authors</content>
+    <content type="text">34 authors</content>
     <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
