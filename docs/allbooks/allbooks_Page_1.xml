@@ -150,7 +150,7 @@
   <entry>
     <title>Books starting with N</title>
     <id>Calibre2opds:allbooks:N</id>
-    <content type="text">10 books</content>
+    <content type="text">11 books</content>
     <link href="../allbooks/allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

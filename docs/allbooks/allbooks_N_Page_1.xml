@@ -33,6 +33,24 @@
     <link href="../book_0/book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>The Namesake</title>
+    <id>calibre:book:766</id>
+    <updated>2020-04-04T03:26:03Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jhumpa%20Lahiri/The%20Namesake%20%28766%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jhumpa%20Lahiri/The%20Namesake%20%28766%29/The%20Namesake%20-%20Jhumpa%20Lahiri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jhumpa%20Lahiri/The%20Namesake%20%28766%29/The%20Namesake%20-%20Jhumpa%20Lahiri.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jhumpa Lahiri</name>
+      <uri>../author_0/author_557_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Jhumpa Lahiri's Interpreter of Maladies established this young writer as one the most brilliant of her generation. Her stories are one of the very few debut works &amp;#8212; and only a handful of collections &amp;#8212; to have won the Pulitzer Prize for fi...</summary>
+    <link href="../book_0/book_766.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Nature of Technology</title>
     <id>calibre:book:662</id>
     <updated>2020-03-28T06:59:49Z</updated>

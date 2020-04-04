@@ -657,10 +657,6 @@
         false
       ], 
       [
-        "last_modified", 
-        false
-      ], 
-      [
         "timestamp", 
         false
       ]

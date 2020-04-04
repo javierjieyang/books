@@ -1,6 +1,6 @@
 function getBooks () {
  // bkId, bkTitle, bkUrl, bkThumbnailUrl
- // 404 elements
+ // 405 elements
  return [
   ['747','Nightmare Abbey','../book_0/book_747.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg'],
   ['582','Theoretical Neruscience','../book_0/book_582.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/c2o_thumbnail.jpg'],
@@ -92,6 +92,7 @@ function getBooks () {
   ['530','10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story','../book_0/book_530.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Harris%2C%20Dan/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20Head%2C%20Reduced%20Stress%20Without%20Losing%20My%20Edge%2C%20and%20Found%20%28530%29/c2o_thumbnail.jpg'],
   ['391','Thinking in Bets','../book_0/book_391.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/c2o_thumbnail.jpg'],
   ['737','For Men Only, Revised and Updated Edition: A Straightforward Guide to the Inner Lives of Women','../book_0/book_737.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20A%20Straightforward%20Guide%20to%20the%20Inner%20Lives%20of%20Women%20%28737%29/c2o_thumbnail.jpg'],
+  ['766','The Namesake','../book_0/book_766.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Jhumpa%20Lahiri/The%20Namesake%20%28766%29/c2o_thumbnail.jpg'],
   ['27','The Wealth of Nations: An Inquiry Into the Nature & Causes of the Wealth of Nations','../book_0/book_27.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/c2o_thumbnail.jpg'],
   ['713','Ergodicity Economics','../book_0/book_713.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters%2C%20Alexander%20Adamou/Ergodicity%20Economics%20%28713%29/c2o_thumbnail.jpg'],
   ['200','The Diary of Anne Frank','../book_0/book_200.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/c2o_thumbnail.jpg'],

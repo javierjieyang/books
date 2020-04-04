@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">707ad238-4b77-4125-ae92-0f7bf160fa42</dc:identifier>
+        <dc:title>The Namesake</dc:title>
+        <dc:creator opf:file-as="Lahiri, Jhumpa" opf:role="aut">Jhumpa Lahiri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Jhumpa Lahiri's Interpreter of Maladies established this young writer as one the most brilliant of her generation. Her stories are one of the very few debut works &amp;#8212; and only a handful of collections &amp;#8212; to have won the Pulitzer Prize for fiction. Among the many other awards and honors it received were the New Yorker Debut of the Year award, the PEN/Hemingway Award, and the highest critical praise for its grace, acuity, and compassion in detailing lives transported from India to America. In The Namesake, Lahiri enriches the themes that made her collection an international bestseller: the immigrant experience, the clash of cultures, the conflicts of assimilation, and, most poignantly, the tangled ties between generations. Here again Lahiri displays her deft touch for the perfect detail &amp;#8212; the fleeting moment, the turn of phrase &amp;#8212; that opens whole worlds of emotion.&lt;p&gt;The Namesake takes the Ganguli family from their tradition-bound life in Calcutta through...</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="URNUUID0618733965">0618733965</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jhumpa Lahiri&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-04T09:55:56.963197+00:00" name="calibre:timestamp"/>
+        <meta content="Namesake, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
