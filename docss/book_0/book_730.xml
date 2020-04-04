@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>A People's History of the World: From the Stone Age to the New Millennium</title>
+  <id>urn:book:469d93f6-dac8-4111-86e1-a4f75f98632e</id>
+  <updated>2020-03-28T07:23:59Z</updated>
+  <link href="./book_730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A People's History of the World: From the Stone Age to the New Millennium" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/A%20People%27s%20History%20of%20the%20World_%20From%20the%20-%20Harman%2C%20Chris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/A%20People%27s%20History%20of%20the%20World_%20From%20the%20-%20Harman%2C%20Chris.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Harman, Chris</name>
+    <uri>../author_0/author_456_Page_1.xml</uri>
+  </author>
+  <published>2008-04-16T10:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Verso Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Verso Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/A%20People%27s%20History%20of%20the%20World%3A%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/A%20People%27s%20History%20of%20the%20World%3A%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/A%20People%27s%20History%20of%20the%20World%3A%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20Harman%2C%20Chris" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=A%20People%27s%20History%20of%20the%20World%3A%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium&amp;field-author=Harman%2C%20Chris" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Harman%2C%20Chris" type="text/html" rel="related" title="Harman, Chris on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Harman%2C%20Chris" type="text/html" rel="related" title="Harman, Chris on Wikipedia" />
+  <link href="http://www.librarything.com/author/HarmanChris" type="text/html" rel="related" title="Harman, Chris on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Harman%2C%20Chris" type="text/html" rel="related" title="Harman, Chris on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Harman%2C%20Chris" type="text/html" rel="related" title="Harman, Chris on ISFDB" />
+</entry>

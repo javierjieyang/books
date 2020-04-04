@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Survival of the Prettiest: The Science of Beauty</title>
+  <id>urn:book:5be1a4c9-8103-43ee-9ba3-ec4a5459f22b</id>
+  <updated>2020-03-28T07:15:31Z</updated>
+  <link href="./book_459.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Survival of the Prettiest: The Science of Beauty" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Nancy Etcoff</name>
+    <uri>../author_0/author_188_Page_1.xml</uri>
+  </author>
+  <published>2011-02-01T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Knopf Doubleday Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 3, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Survival%20of%20the%20Prettiest%3A%20The%20Science%20of%20Beauty" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Survival%20of%20the%20Prettiest%3A%20The%20Science%20of%20Beauty" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Survival%20of%20the%20Prettiest%3A%20The%20Science%20of%20Beauty%20Nancy%20Etcoff" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Survival%20of%20the%20Prettiest%3A%20The%20Science%20of%20Beauty&amp;field-author=Nancy%20Etcoff" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Nancy%20Etcoff" type="text/html" rel="related" title="Nancy Etcoff on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Nancy%20Etcoff" type="text/html" rel="related" title="Nancy Etcoff on Wikipedia" />
+  <link href="http://www.librarything.com/author/EtcoffNancy" type="text/html" rel="related" title="Nancy Etcoff on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Nancy%20Etcoff" type="text/html" rel="related" title="Nancy Etcoff on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Nancy%20Etcoff" type="text/html" rel="related" title="Nancy Etcoff on ISFDB" />
+</entry>

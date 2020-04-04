@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The 48 Laws of Power</title>
+  <id>urn:book:07e8bac0-f61a-4552-bef6-2c836ca638f2</id>
+  <updated>2020-03-28T07:14:21Z</updated>
+  <link href="./book_101.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The 48 Laws of Power" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/The%2048%20Laws%20of%20Power%20-%20Robert%20Greene%3B%20Joost%20Elffers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/The%2048%20Laws%20of%20Power%20-%20Robert%20Greene%3B%20Joost%20Elffers.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/The%2048%20Laws%20of%20Power%20-%20Robert%20Greene%3B%20Joost%20Elffers.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Robert Greene; Joost Elffers</name>
+    <uri>../author_0/author_86_Page_1.xml</uri>
+  </author>
+  <published>2000-09-07T06:04:58Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Group</dcterms:publisher>
+  <category term="Self-Help" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Self-Help, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      June 30, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">THE BESTSELLING BOOK FOR THOSE WHO WANT
+    POWER, WATCH POWER, OR WANT TO ARM THEMSELVES AGAINST POWER . .
+    .A moral, cunning, ruthless, and instructive, this piercing
+    work distills three thousand years of the history of power into
+    forty-eight well-explicated laws. As attention-grabbing in its
+    design as it is in its content, this bold volume outlines the
+    laws of power in their unvarnished essence, synthesizing the
+    philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and
+    other great thinkers. Some laws require prudence ("Law 1: Never
+    Outshine the Master"), some stealth ("Law 3: Conceal Your
+    Intentions"), and some the total absence of mercy ("Law 15:
+    Crush Your Enemy Totally") but like it or not, all have
+    applications in real-life situations. Illustrated through the
+    tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum,
+    and other famous figures who have wielded -- or been victimized
+    by -- power, these laws will fascinate any reader interested in
+    gaining, observing, or defending against ultimate control.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%2048%20Laws%20of%20Power" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%2048%20Laws%20of%20Power" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%2048%20Laws%20of%20Power%20Robert%20Greene%3B%20Joost%20Elffers" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%2048%20Laws%20of%20Power&amp;field-author=Robert%20Greene%3B%20Joost%20Elffers" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Robert%20Greene%3B%20Joost%20Elffers" type="text/html" rel="related" title="Robert Greene; Joost Elffers on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Robert%20Greene%3B%20Joost%20Elffers" type="text/html" rel="related" title="Robert Greene; Joost Elffers on Wikipedia" />
+  <link href="http://www.librarything.com/author/ElffersRobertGreene%3BJoost" type="text/html" rel="related" title="Robert Greene; Joost Elffers on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Robert%20Greene%3B%20Joost%20Elffers" type="text/html" rel="related" title="Robert Greene; Joost Elffers on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Robert%20Greene%3B%20Joost%20Elffers" type="text/html" rel="related" title="Robert Greene; Joost Elffers on ISFDB" />
+</entry>

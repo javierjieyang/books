@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Animal Spirits</title>
+  <id>urn:book:7fb1582a-9e66-4c3d-a5f6-fc6e81a6c3f5</id>
+  <updated>2020-03-28T06:57:39Z</updated>
+  <link href="./book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Animal Spirits" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/Animal%20Spirits%20-%20Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/Animal%20Spirits%20-%20Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/Animal%20Spirits%20-%20Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Robert J. Shiller, George A. Akerlof</name>
+    <uri>../author_0/author_504_Page_1.xml</uri>
+  </author>
+  <published>2010-02-20T11:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Princeton University Press</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Princeton University Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 8, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Animal%20Spirits" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Animal%20Spirits" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Animal%20Spirits%20Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Animal%20Spirits&amp;field-author=Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof" type="text/html" rel="related" title="Robert J. Shiller, George A. Akerlof on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof" type="text/html" rel="related" title="Robert J. Shiller, George A. Akerlof on Wikipedia" />
+  <link href="http://www.librarything.com/author/RobertJ.ShillerGeorgeA.Akerlof" type="text/html" rel="related" title="Robert J. Shiller, George A. Akerlof on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof" type="text/html" rel="related" title="Robert J. Shiller, George A. Akerlof on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof" type="text/html" rel="related" title="Robert J. Shiller, George A. Akerlof on ISFDB" />
+</entry>

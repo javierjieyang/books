@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Adam Smith</title>
+  <id>Calibre2opds:author:478</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_478_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Adam Smith" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>The Wealth of Nations: An Inquiry Into the Nature &amp; Causes of the Wealth of Nations</title>
+    <id>calibre:book:27</id>
+    <updated>2019-12-07T00:47:19Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Adam Smith</name>
+      <uri>../author_0/author_478_Page_1.xml</uri>
+    </author>
+    <published>1998-10-26T04:13:13Z</published>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

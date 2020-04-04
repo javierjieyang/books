@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Andrew Ross Sorkin</title>
+  <id>Calibre2opds:author:313</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_313_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Andrew Ross Sorkin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves ****</title>
+    <id>calibre:book:557</id>
+    <updated>2020-03-28T07:52:44Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20W%20-%20Andrew%20Ross%20Sorkin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20W%20-%20Andrew%20Ross%20Sorkin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20W%20-%20Andrew%20Ross%20Sorkin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Andrew Ross Sorkin</name>
+      <uri>../author_0/author_313_Page_1.xml</uri>
+    </author>
+    <published>2010-09-07T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group</dcterms:publisher>
+    <category term="General" />
+    <category term="United States" />
+    <category term="History" />
+    <category term="Business &amp; Economics" />
+    <category term="Economics" />
+    <category term="Finance" />
+    <category term="Economic History" />
+    <category term="Financial crises" />
+    <category term="Economic Conditions" />
+    <category term="Global Financial Crisis; 2008-2009" />
+    <category term="21st century" />
+    <category term="Banks and banking" />
+    <category term="Financial crises - United States - History - 21st century" />
+    <category term="Lang:en" />
+    <summary>A brilliantly reported true-life thriller that goes behind the scenes of the financial crisis on Wall Street and in Washington. In one of the most gripping financial narratives in decades, Andrew Ross Sorkin-a New York Times columnist and one of the ...</summary>
+    <link href="../book_0/book_557.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

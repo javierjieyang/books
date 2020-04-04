@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Aldous Leonard Huxley</title>
+  <id>Calibre2opds:author:30</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Aldous Leonard Huxley" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Brave New World</title>
+    <id>calibre:book:33</id>
+    <updated>2020-03-28T07:25:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/Brave%20New%20World%20-%20Aldous%20Leonard%20Huxley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/Brave%20New%20World%20-%20Aldous%20Leonard%20Huxley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/Brave%20New%20World%20-%20Aldous%20Leonard%20Huxley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Aldous Leonard Huxley</name>
+      <uri>../author_0/author_30_Page_1.xml</uri>
+    </author>
+    <published>2010-08-04T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Post Apocalypse" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

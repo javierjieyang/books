@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marcus Tullius Cicero</title>
+  <id>Calibre2opds:author:240</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_240_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marcus Tullius Cicero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>De Oratore</title>
+    <id>calibre:book:405</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/De%20Oratore%20-%20Marcus%20Tullius%20Cicero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/De%20Oratore%20-%20Marcus%20Tullius%20Cicero.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/De%20Oratore%20-%20Marcus%20Tullius%20Cicero.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marcus Tullius Cicero</name>
+      <uri>../author_0/author_240_Page_1.xml</uri>
+    </author>
+    <published>1996-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harvard University Press</dcterms:publisher>
+    <category term="Language Arts &amp; Disciplines" />
+    <category term="Public Speaking" />
+    <category term="Lang:en" />
+    <summary>Cicero (Marcus Tullius, 106-43 BCE), Roman lawyer, orator, politician and philosopher, of whom we know more than of any other Roman, lived through the stirring era which saw the rise, dictatorship, and death of Julius Caesar in a tottering republic. ...</summary>
+    <link href="../book_0/book_405.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

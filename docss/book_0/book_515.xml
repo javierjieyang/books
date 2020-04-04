@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tao Te Ching</title>
+  <id>urn:book:ca464b5a-43c4-4494-8ec3-455951063f54</id>
+  <updated>2020-03-28T07:33:58Z</updated>
+  <link href="./book_515.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tao Te Ching" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Stephen Mitchell</name>
+    <uri>../author_0/author_265_Page_1.xml</uri>
+  </author>
+  <published>1988-07-31T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      HarperCollins
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Lao-tzu's Tao Te Ching, or Book of the Way, is the classic
+    manual on the art of living, and one of the wonders of the
+    world. In eighty-one brief chapters, the Tao Te Ching looks at
+    the basic predicament of being alive and gives advice that
+    imparts balance and perspective, a serene and generous spirit.
+    This book is about wisdom in action. It teaches how to work for
+    the good with the effortless skill that comes from being in
+    accord with the Tao (the basic principle of the universe) and
+    applies equally to good government and sexual love; to child
+    rearing, business, and ecology.</p>
+    <p xmlns="">Stephen Mitchell's bestselling version has been widely
+    acclaimed as a gift to contemporary culture.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Tao%20Te%20Ching" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Tao%20Te%20Ching" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Tao%20Te%20Ching%20Stephen%20Mitchell" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Tao%20Te%20Ching&amp;field-author=Stephen%20Mitchell" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20Mitchell" type="text/html" rel="related" title="Stephen Mitchell on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Stephen%20Mitchell" type="text/html" rel="related" title="Stephen Mitchell on Wikipedia" />
+  <link href="http://www.librarything.com/author/MitchellStephen" type="text/html" rel="related" title="Stephen Mitchell on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20Mitchell" type="text/html" rel="related" title="Stephen Mitchell on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20Mitchell" type="text/html" rel="related" title="Stephen Mitchell on ISFDB" />
+</entry>

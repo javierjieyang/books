@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Wealth of Nations: An Inquiry Into the Nature &amp; Causes of the Wealth of Nations</title>
+  <id>urn:book:892bd931-b621-47ce-9014-028e38a4ddf1</id>
+  <updated>2019-12-07T00:47:19Z</updated>
+  <link href="./book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Wealth of Nations: An Inquiry Into the Nature &amp; Causes of the Wealth of Nations" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Adam Smith</name>
+    <uri>../author_0/author_478_Page_1.xml</uri>
+  </author>
+  <published>1998-10-26T04:13:13Z</published>
+  <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      University of Chicago Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      May 6, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Wealth%20of%20Nations%3A%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Wealth%20of%20Nations%3A%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Wealth%20of%20Nations%3A%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20Adam%20Smith" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Wealth%20of%20Nations%3A%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations&amp;field-author=Adam%20Smith" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Adam%20Smith" type="text/html" rel="related" title="Adam Smith on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Adam%20Smith" type="text/html" rel="related" title="Adam Smith on Wikipedia" />
+  <link href="http://www.librarything.com/author/SmithAdam" type="text/html" rel="related" title="Adam Smith on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Adam%20Smith" type="text/html" rel="related" title="Adam Smith on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Adam%20Smith" type="text/html" rel="related" title="Adam Smith on ISFDB" />
+</entry>

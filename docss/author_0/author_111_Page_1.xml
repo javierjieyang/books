@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Thomas Hobbes</title>
+  <id>Calibre2opds:author:111</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_111_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Thomas Hobbes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>Leviathan</title>
+    <id>calibre:book:194</id>
+    <updated>2019-12-07T00:47:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28194%29/Leviathan%20-%20Thomas%20Hobbes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28194%29/Leviathan%20-%20Thomas%20Hobbes.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28194%29/Leviathan%20-%20Thomas%20Hobbes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas Hobbes</name>
+      <uri>../author_0/author_111_Page_1.xml</uri>
+    </author>
+    <published>2006-01-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>A&amp;C Black</dcterms:publisher>
+    <category term="Philosophy" />
+    <category term="Political" />
+    <category term="Political Science" />
+    <category term="History &amp; Theory" />
+    <category term="Lang:en" />
+    <summary>By a deep and careful analysis of the text, enabling a new printing history of Leviathan to be constructed, this edition demonstrates that the traditional picture is substantially wrong. Both the Bear and Ornaments editions contain corrections and ch...</summary>
+    <link href="../book_0/book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Leviathan</title>
+    <id>calibre:book:195</id>
+    <updated>2020-03-28T07:25:05Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28195%29/Leviathan%20-%20Thomas%20Hobbes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28195%29/Leviathan%20-%20Thomas%20Hobbes.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Hobbes/Leviathan%20%28195%29/Leviathan%20-%20Thomas%20Hobbes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas Hobbes</name>
+      <uri>../author_0/author_111_Page_1.xml</uri>
+    </author>
+    <published>2002-04-30T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Political science -- Early works to 1800" />
+    <category term="State" />
+    <category term="The -- Early works to 1800" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

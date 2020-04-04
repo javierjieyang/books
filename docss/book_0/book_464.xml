@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gödel, Escher, Bach: An Eternal Golden Braid</title>
+  <id>urn:book:92610e36-4a5e-4d94-af4e-7367d4dd3bcc</id>
+  <updated>2020-03-28T07:24:48Z</updated>
+  <link href="./book_464.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Gödel, Escher, Bach: An Eternal Golden Braid" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20R.%20Hofstadter/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20%28464%29/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Bra%20-%20Douglas%20R.%20Hofstadter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20R.%20Hofstadter/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20%28464%29/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Bra%20-%20Douglas%20R.%20Hofstadter.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20R.%20Hofstadter/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20%28464%29/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Bra%20-%20Douglas%20R.%20Hofstadter.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Douglas R. Hofstadter</name>
+    <uri>../author_0/author_227_Page_1.xml</uri>
+  </author>
+  <published>1999-04-08T06:30:00Z</published>
+  <dcterms:publisher>Basic Books</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Basic Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 16, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/G%C3%B6del%2C%20Escher%2C%20Bach%3A%20An%20Eternal%20Golden%20Braid" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/G%C3%B6del%2C%20Escher%2C%20Bach%3A%20An%20Eternal%20Golden%20Braid" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/G%C3%B6del%2C%20Escher%2C%20Bach%3A%20An%20Eternal%20Golden%20Braid%20Douglas%20R.%20Hofstadter" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=G%C3%B6del%2C%20Escher%2C%20Bach%3A%20An%20Eternal%20Golden%20Braid&amp;field-author=Douglas%20R.%20Hofstadter" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Douglas%20R.%20Hofstadter" type="text/html" rel="related" title="Douglas R. Hofstadter on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Douglas%20R.%20Hofstadter" type="text/html" rel="related" title="Douglas R. Hofstadter on Wikipedia" />
+  <link href="http://www.librarything.com/author/HofstadterDouglasR." type="text/html" rel="related" title="Douglas R. Hofstadter on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Douglas%20R.%20Hofstadter" type="text/html" rel="related" title="Douglas R. Hofstadter on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Douglas%20R.%20Hofstadter" type="text/html" rel="related" title="Douglas R. Hofstadter on ISFDB" />
+</entry>

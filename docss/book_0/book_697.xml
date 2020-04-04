@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Elements of Style Illustrated</title>
+  <id>urn:book:d5d541cb-0d32-4d2e-9a41-9191ff4801a5</id>
+  <updated>2020-03-29T02:43:51Z</updated>
+  <link href="./book_697.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Elements of Style Illustrated" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/The%20Elements%20of%20Style%20Illustrated%20-%20William%20Strunk%20Jr%2C%20E.B.%20White.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/The%20Elements%20of%20Style%20Illustrated%20-%20William%20Strunk%20Jr%2C%20E.B.%20White.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>William Strunk Jr, E.B. White</name>
+    <uri>../author_0/author_469_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <category term="Writing" />
+  <category term="Story-telling" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Writing, Story-telling
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Elements%20of%20Style%20Illustrated" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Elements%20of%20Style%20Illustrated" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Elements%20of%20Style%20Illustrated%20William%20Strunk%20Jr%2C%20E.B.%20White" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Elements%20of%20Style%20Illustrated&amp;field-author=William%20Strunk%20Jr%2C%20E.B.%20White" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Strunk%20Jr%2C%20E.B.%20White" type="text/html" rel="related" title="William Strunk Jr, E.B. White on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/William%20Strunk%20Jr%2C%20E.B.%20White" type="text/html" rel="related" title="William Strunk Jr, E.B. White on Wikipedia" />
+  <link href="http://www.librarything.com/author/WilliamStrunkJrE.B.White" type="text/html" rel="related" title="William Strunk Jr, E.B. White on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Strunk%20Jr%2C%20E.B.%20White" type="text/html" rel="related" title="William Strunk Jr, E.B. White on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Strunk%20Jr%2C%20E.B.%20White" type="text/html" rel="related" title="William Strunk Jr, E.B. White on ISFDB" />
+</entry>

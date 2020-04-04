@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Models of My Life</title>
+  <id>urn:book:f4877899-1c76-4f61-bbf0-1ba2a7208997</id>
+  <updated>2020-03-28T07:51:46Z</updated>
+  <link href="./book_694.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Models of My Life" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herbert%20Alexander%20Simon/Models%20of%20My%20Life%20%28694%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herbert%20Alexander%20Simon/Models%20of%20My%20Life%20%28694%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herbert%20Alexander%20Simon/Models%20of%20My%20Life%20%28694%29/Models%20of%20My%20Life%20-%20Herbert%20Alexander%20Simon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herbert%20Alexander%20Simon/Models%20of%20My%20Life%20%28694%29/Models%20of%20My%20Life%20-%20Herbert%20Alexander%20Simon.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Herbert Alexander Simon</name>
+    <uri>../author_0/author_468_Page_1.xml</uri>
+  </author>
+  <published>1996-12-27T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>MIT Press</dcterms:publisher>
+  <category term="test" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      test, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      MIT Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Models%20of%20My%20Life" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Models%20of%20My%20Life" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Models%20of%20My%20Life%20Herbert%20Alexander%20Simon" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Models%20of%20My%20Life&amp;field-author=Herbert%20Alexander%20Simon" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Herbert%20Alexander%20Simon" type="text/html" rel="related" title="Herbert Alexander Simon on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Herbert%20Alexander%20Simon" type="text/html" rel="related" title="Herbert Alexander Simon on Wikipedia" />
+  <link href="http://www.librarything.com/author/SimonHerbertAlexander" type="text/html" rel="related" title="Herbert Alexander Simon on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Herbert%20Alexander%20Simon" type="text/html" rel="related" title="Herbert Alexander Simon on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Herbert%20Alexander%20Simon" type="text/html" rel="related" title="Herbert Alexander Simon on ISFDB" />
+</entry>

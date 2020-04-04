@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Money</title>
+  <id>urn:book:f66da68b-9493-45cb-9f57-71478d375318</id>
+  <updated>2020-04-04T01:39:36Z</updated>
+  <link href="./book_750.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Money" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/Money%20-%20Amis%20Martin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Amis Martin</name>
+    <uri>../author_0/author_553_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 4, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      April 4, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Money" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Money" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Money%20Amis%20Martin" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Money&amp;field-author=Amis%20Martin" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Amis%20Martin" type="text/html" rel="related" title="Amis Martin on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Amis%20Martin" type="text/html" rel="related" title="Amis Martin on Wikipedia" />
+  <link href="http://www.librarything.com/author/MartinAmis" type="text/html" rel="related" title="Amis Martin on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Amis%20Martin" type="text/html" rel="related" title="Amis Martin on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Amis%20Martin" type="text/html" rel="related" title="Amis Martin on ISFDB" />
+</entry>

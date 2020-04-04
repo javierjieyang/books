@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Men Without Women</title>
+  <id>urn:book:9d1fe2b2-588e-4510-8f91-40f3df53a60d</id>
+  <updated>2020-04-04T01:39:38Z</updated>
+  <link href="./book_764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Men Without Women" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ernest%20Hemingway/Men%20Without%20Women%20%28764%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ernest%20Hemingway/Men%20Without%20Women%20%28764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ernest%20Hemingway/Men%20Without%20Women%20%28764%29/Men%20Without%20Women%20-%20Ernest%20Hemingway.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Ernest Hemingway</name>
+    <uri>../author_0/author_546_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 4, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      April 4, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Men%20Without%20Women" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Men%20Without%20Women" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Men%20Without%20Women%20Ernest%20Hemingway" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Men%20Without%20Women&amp;field-author=Ernest%20Hemingway" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Ernest%20Hemingway" type="text/html" rel="related" title="Ernest Hemingway on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Ernest%20Hemingway" type="text/html" rel="related" title="Ernest Hemingway on Wikipedia" />
+  <link href="http://www.librarything.com/author/HemingwayErnest" type="text/html" rel="related" title="Ernest Hemingway on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ernest%20Hemingway" type="text/html" rel="related" title="Ernest Hemingway on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ernest%20Hemingway" type="text/html" rel="related" title="Ernest Hemingway on ISFDB" />
+</entry>

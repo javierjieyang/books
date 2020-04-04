@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Giant Black Book of Computer Viruses</title>
+  <id>urn:book:3d825110-1bc9-4990-b8c7-0de9b440dcb8</id>
+  <updated>2019-12-07T00:47:24Z</updated>
+  <link href="./book_584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Giant Black Book of Computer Viruses" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Mark Ludwig</name>
+    <uri>../author_0/author_338_Page_1.xml</uri>
+  </author>
+  <published>2016-11-04T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Added:</strong>
+      June 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      June 2, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">In this book you'll learn everything you
+    wanted to know about computer viruses, ranging from the
+    simplest 44-byte virus right on up to viruses for 32-bit
+    Windows, Unix and the Internet. You'll learn how anti-virus
+    programs stalk viruses and what viruses do to evade these
+    digital policemen, including stealth techniques and
+    poly-morphism. Next, you'll take a fascinating trip to the
+    frontiers of science and learn about genetic viruses. Will such
+    viruses take over the world, or will they become the tools of
+    choice for the information warriors of the 21st century?
+    Finally, you'll learn about payloads for viruses, not just
+    destructive code, but also how to use a virus to compromise the
+    security of a computer, and the possibility of beneficial
+    viruses.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Giant%20Black%20Book%20of%20Computer%20Viruses" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Giant%20Black%20Book%20of%20Computer%20Viruses" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20Mark%20Ludwig" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Giant%20Black%20Book%20of%20Computer%20Viruses&amp;field-author=Mark%20Ludwig" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Mark%20Ludwig" type="text/html" rel="related" title="Mark Ludwig on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Mark%20Ludwig" type="text/html" rel="related" title="Mark Ludwig on Wikipedia" />
+  <link href="http://www.librarything.com/author/LudwigMark" type="text/html" rel="related" title="Mark Ludwig on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Mark%20Ludwig" type="text/html" rel="related" title="Mark Ludwig on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Mark%20Ludwig" type="text/html" rel="related" title="Mark Ludwig on ISFDB" />
+</entry>

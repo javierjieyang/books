@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Man and Superman: A Comedy and a Philosophy</title>
+  <id>urn:book:af5f1adb-19e1-41a7-a478-a46eae8d275b</id>
+  <updated>2020-03-28T07:48:23Z</updated>
+  <link href="./book_596.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Man and Superman: A Comedy and a Philosophy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosoph%20-%20Bernard%20Shaw.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosoph%20-%20Bernard%20Shaw.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Bernard Shaw</name>
+    <uri>../author_0/author_359_Page_1.xml</uri>
+  </author>
+  <published>2006-03-21T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Man-woman relationships -- Drama" />
+  <category term="English drama" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Man-woman relationships -- Drama, English drama, Lang:en
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 6, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Man%20and%20Superman%3A%20A%20Comedy%20and%20a%20Philosophy" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Man%20and%20Superman%3A%20A%20Comedy%20and%20a%20Philosophy" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Man%20and%20Superman%3A%20A%20Comedy%20and%20a%20Philosophy%20Bernard%20Shaw" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Man%20and%20Superman%3A%20A%20Comedy%20and%20a%20Philosophy&amp;field-author=Bernard%20Shaw" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Bernard%20Shaw" type="text/html" rel="related" title="Bernard Shaw on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Bernard%20Shaw" type="text/html" rel="related" title="Bernard Shaw on Wikipedia" />
+  <link href="http://www.librarything.com/author/ShawBernard" type="text/html" rel="related" title="Bernard Shaw on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Bernard%20Shaw" type="text/html" rel="related" title="Bernard Shaw on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Bernard%20Shaw" type="text/html" rel="related" title="Bernard Shaw on ISFDB" />
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>HBR Guide to Persuasive Presentations</title>
+  <id>urn:book:5c5d7606-eef7-422d-b751-81bad16c0377</id>
+  <updated>2020-03-28T07:13:31Z</updated>
+  <link href="./book_682.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="HBR Guide to Persuasive Presentations" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/HBR%20Guide%20to%20Persuasive%20Presentations%20-%20Nancy%20Duarte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/HBR%20Guide%20to%20Persuasive%20Presentations%20-%20Nancy%20Duarte.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Nancy Duarte</name>
+    <uri>../author_0/author_430_Page_1.xml</uri>
+  </author>
+  <published>2012-09-18T07:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Harvard Business Review Press</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Harvard Business Review Press
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/HBR%20Guide%20to%20Persuasive%20Presentations" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/HBR%20Guide%20to%20Persuasive%20Presentations" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/HBR%20Guide%20to%20Persuasive%20Presentations%20Nancy%20Duarte" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=HBR%20Guide%20to%20Persuasive%20Presentations&amp;field-author=Nancy%20Duarte" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Nancy%20Duarte" type="text/html" rel="related" title="Nancy Duarte on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Nancy%20Duarte" type="text/html" rel="related" title="Nancy Duarte on Wikipedia" />
+  <link href="http://www.librarything.com/author/DuarteNancy" type="text/html" rel="related" title="Nancy Duarte on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Nancy%20Duarte" type="text/html" rel="related" title="Nancy Duarte on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Nancy%20Duarte" type="text/html" rel="related" title="Nancy Duarte on ISFDB" />
+</entry>

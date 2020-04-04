@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Misbehavior of Markets</title>
+  <id>urn:book:f9a475b7-b351-4e75-8096-4b2d6d9fb181</id>
+  <updated>2020-03-28T07:31:30Z</updated>
+  <link href="./book_739.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Misbehavior of Markets" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Benoit%20Mandelbrot/The%20Misbehavior%20of%20Markets%20%28739%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Benoit%20Mandelbrot/The%20Misbehavior%20of%20Markets%20%28739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Benoit%20Mandelbrot/The%20Misbehavior%20of%20Markets%20%28739%29/The%20Misbehavior%20of%20Markets%20-%20Benoit%20Mandelbrot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Benoit%20Mandelbrot/The%20Misbehavior%20of%20Markets%20%28739%29/The%20Misbehavior%20of%20Markets%20-%20Benoit%20Mandelbrot.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Benoit Mandelbrot</name>
+    <uri>../author_0/author_466_Page_1.xml</uri>
+  </author>
+  <published>2011-02-23T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Basic Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Basic Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">From the inventor/founder of fractal geometry, the
+    award-winning book that turns modern financial theory on its
+    head.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Misbehavior%20of%20Markets" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Misbehavior%20of%20Markets" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Misbehavior%20of%20Markets%20Benoit%20Mandelbrot" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Misbehavior%20of%20Markets&amp;field-author=Benoit%20Mandelbrot" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Benoit%20Mandelbrot" type="text/html" rel="related" title="Benoit Mandelbrot on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Benoit%20Mandelbrot" type="text/html" rel="related" title="Benoit Mandelbrot on Wikipedia" />
+  <link href="http://www.librarything.com/author/MandelbrotBenoit" type="text/html" rel="related" title="Benoit Mandelbrot on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Benoit%20Mandelbrot" type="text/html" rel="related" title="Benoit Mandelbrot on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Benoit%20Mandelbrot" type="text/html" rel="related" title="Benoit Mandelbrot on ISFDB" />
+</entry>

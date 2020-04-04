@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Timothy Leary</title>
+  <id>Calibre2opds:author:55</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Timothy Leary" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead (1964)</title>
+    <id>calibre:book:65</id>
+    <updated>2020-03-28T07:29:07Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Leary</name>
+      <uri>../author_0/author_55_Page_1.xml</uri>
+    </author>
+    <published>2015-05-13T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Progressive Press</dcterms:publisher>
+    <category term="Timothy Leary" />
+    <category term="Lang:en" />
+    <summary>Timothy Leary The Psychedelic Experience</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

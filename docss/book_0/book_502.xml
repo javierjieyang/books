@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Design Thinking</title>
+  <id>urn:book:2f6c9e3e-eed4-4246-aa0a-2f1ef1db8d80</id>
+  <updated>2020-03-28T07:08:46Z</updated>
+  <link href="./book_502.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Design Thinking" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Nigel Cross</name>
+    <uri>../author_0/author_253_Page_1.xml</uri>
+  </author>
+  <published>2011-08-14T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Berg Publishers</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Berg Publishers
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 28, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      Design thinking is the core creative process for any
+    designer; this book explores and explains this apparently
+    mysterious "design ability". Focusing on what designers do when
+    they design,
+      <i>Design Thinking</i>
+      is structured around a series of
+    in-depth case studies of outstanding and expert designers at
+    work, interwoven with overviews and analyses. The range covered
+    reflects the breadth of Design, from hardware to software
+    product design, from architecture to Formula One design. The
+    book offers new insights and understanding of design thinking,
+    based on evidence from observation and investigation of design
+    practice.
+      <i>Design Thinking</i>
+      is the distillation of the work of one
+    of Design's most influential thinkers. Nigel Cross goes to the
+    heart of what it means to think and work as a designer. The
+    book is an ideal guide for anyone who wants to be a designer or
+    to know how good designers work in the field of contemporary
+    Design.
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Design%20Thinking" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Design%20Thinking" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Design%20Thinking%20Nigel%20Cross" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Design%20Thinking&amp;field-author=Nigel%20Cross" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Nigel%20Cross" type="text/html" rel="related" title="Nigel Cross on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Nigel%20Cross" type="text/html" rel="related" title="Nigel Cross on Wikipedia" />
+  <link href="http://www.librarything.com/author/CrossNigel" type="text/html" rel="related" title="Nigel Cross on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Nigel%20Cross" type="text/html" rel="related" title="Nigel Cross on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Nigel%20Cross" type="text/html" rel="related" title="Nigel Cross on ISFDB" />
+</entry>

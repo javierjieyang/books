@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elena Ferrante</title>
+  <id>Calibre2opds:author:179</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_179_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Elena Ferrante" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <entry>
+    <title>The Neapolitan Novels Boxed Set</title>
+    <id>calibre:book:435</id>
+    <updated>2020-03-28T07:18:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Elena Ferrante</name>
+      <uri>../author_0/author_179_Page_1.xml</uri>
+    </author>
+    <published>2015-08-05T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Europa</dcterms:publisher>
+    <category term="Novel" />
+    <category term="Lang:en" />
+    <summary>"Nothing quite like this has ever been published before," proclaimed The Guardian about the Neapolitan novels in 2014. Against the backdrop of a Naples that is as seductive as it is perilous and a world undergoing epochal change, Elena Ferrante tells...</summary>
+    <link href="../book_0/book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

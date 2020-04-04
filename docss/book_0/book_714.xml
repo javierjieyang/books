@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The ergodicity problem in economics</title>
+  <id>urn:book:6a491d2c-bdf3-4e13-9812-fae035f546b9</id>
+  <updated>2020-03-28T11:32:40Z</updated>
+  <link href="./book_714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The ergodicity problem in economics" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with O" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters/The%20ergodicity%20problem%20in%20economics%20%28714%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters/The%20ergodicity%20problem%20in%20economics%20%28714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters/The%20ergodicity%20problem%20in%20economics%20%28714%29/The%20ergodicity%20problem%20in%20economics%20-%20Ole%20Peters.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Ole Peters</name>
+    <uri>../author_0/author_447_Page_1.xml</uri>
+  </author>
+  <published>2019-12-05T01:36:36Z</published>
+  <dcterms:publisher>Springer US</dcterms:publisher>
+  <category term="Nature Physics" />
+  <category term="doi:10.1038/s41567-019-0732-0" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Nature Physics, doi:10.1038/s41567-019-0732-0
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Springer US
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Nature Physics, doi:10.1038/s41567-019-0732-0</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20ergodicity%20problem%20in%20economics" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20ergodicity%20problem%20in%20economics" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20ergodicity%20problem%20in%20economics%20Ole%20Peters" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20ergodicity%20problem%20in%20economics&amp;field-author=Ole%20Peters" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Ole%20Peters" type="text/html" rel="related" title="Ole Peters on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Ole%20Peters" type="text/html" rel="related" title="Ole Peters on Wikipedia" />
+  <link href="http://www.librarything.com/author/PetersOle" type="text/html" rel="related" title="Ole Peters on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ole%20Peters" type="text/html" rel="related" title="Ole Peters on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ole%20Peters" type="text/html" rel="related" title="Ole Peters on ISFDB" />
+</entry>

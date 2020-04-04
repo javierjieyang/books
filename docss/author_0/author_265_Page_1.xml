@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Stephen Mitchell</title>
+  <id>Calibre2opds:author:265</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_265_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Stephen Mitchell" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <entry>
+    <title>Tao Te Ching</title>
+    <id>calibre:book:515</id>
+    <updated>2020-03-28T07:33:58Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Stephen Mitchell</name>
+      <uri>../author_0/author_265_Page_1.xml</uri>
+    </author>
+    <published>1988-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Lao-tzu's Tao Te Ching, or Book of the Way, is the classic manual on the art of living, and one of the wonders of the world. In eighty-one brief chapters, the Tao Te Ching looks at the basic predicament of being alive and gives advice that imparts ba...</summary>
+    <link href="../book_0/book_515.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

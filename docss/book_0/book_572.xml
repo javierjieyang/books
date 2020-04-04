@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Cathedral and the Bazaar</title>
+  <id>urn:book:b4b22d29-8058-4cdc-94fb-f875899778b2</id>
+  <updated>2019-12-07T00:47:21Z</updated>
+  <link href="./book_572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Cathedral and the Bazaar" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/The%20Cathedral%20and%20the%20Bazaar%20-%20Eric%20Steven%20Raymond.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/The%20Cathedral%20and%20the%20Bazaar%20-%20Eric%20Steven%20Raymond.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Eric Steven Raymond</name>
+    <uri>../author_0/author_329_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <category term="Protocol" />
+  <category term="Analysis and Theory of Open Source Projects" />
+  <category term="Open Source Development" />
+  <category term="Hacker Culture" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Protocol, Analysis and Theory of Open Source Projects, Open Source Development, Hacker Culture
+    </p>
+    <p>
+      <strong>Added:</strong>
+      June 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      June 2, 2019
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Cathedral%20and%20the%20Bazaar" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Cathedral%20and%20the%20Bazaar" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Cathedral%20and%20the%20Bazaar%20Eric%20Steven%20Raymond" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Cathedral%20and%20the%20Bazaar&amp;field-author=Eric%20Steven%20Raymond" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Eric%20Steven%20Raymond" type="text/html" rel="related" title="Eric Steven Raymond on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Eric%20Steven%20Raymond" type="text/html" rel="related" title="Eric Steven Raymond on Wikipedia" />
+  <link href="http://www.librarything.com/author/RaymondEricSteven" type="text/html" rel="related" title="Eric Steven Raymond on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Eric%20Steven%20Raymond" type="text/html" rel="related" title="Eric Steven Raymond on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Eric%20Steven%20Raymond" type="text/html" rel="related" title="Eric Steven Raymond on ISFDB" />
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Letters From a Stoic</title>
+  <id>urn:book:ef7f34dc-71e9-4029-9b1a-850df679a4f6</id>
+  <updated>2020-03-28T07:48:13Z</updated>
+  <link href="./book_437.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Letters From a Stoic" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Seneca/Letters%20From%20a%20Stoic%20%28437%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Seneca/Letters%20From%20a%20Stoic%20%28437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Seneca/Letters%20From%20a%20Stoic%20%28437%29/Letters%20From%20a%20Stoic%20-%20Seneca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Seneca/Letters%20From%20a%20Stoic%20%28437%29/Letters%20From%20a%20Stoic%20-%20Seneca.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Seneca/Letters%20From%20a%20Stoic%20%28437%29/Letters%20From%20a%20Stoic%20-%20Seneca.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Seneca</name>
+    <uri>../author_0/author_181_Page_1.xml</uri>
+  </author>
+  <published>1969-11-10T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 2, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Letters%20From%20a%20Stoic" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Letters%20From%20a%20Stoic" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Letters%20From%20a%20Stoic%20Seneca" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Letters%20From%20a%20Stoic&amp;field-author=Seneca" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Seneca" type="text/html" rel="related" title="Seneca on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Seneca" type="text/html" rel="related" title="Seneca on Wikipedia" />
+  <link href="http://www.librarything.com/author/Seneca" type="text/html" rel="related" title="Seneca on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Seneca" type="text/html" rel="related" title="Seneca on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Seneca" type="text/html" rel="related" title="Seneca on ISFDB" />
+</entry>

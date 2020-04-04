@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elliot Aronson</title>
+  <id>Calibre2opds:author:165</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_165_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Elliot Aronson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <entry>
+    <title>When Prophecy Fails</title>
+    <id>calibre:book:414</id>
+    <updated>2020-03-28T07:19:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/When%20Prophecy%20Fails%20-%20Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/When%20Prophecy%20Fails%20-%20Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/When%20Prophecy%20Fails%20-%20Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Leon Festinger, Stanley Schachter, Henry W. Riecken</name>
+      <uri>../author_0/author_510_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elliot Aronson</name>
+      <uri>../author_0/author_165_Page_1.xml</uri>
+    </author>
+    <published>2010-11-11T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pinter &amp; Martin</dcterms:publisher>
+    <category term="PSY031000" />
+    <category term="Lang:en" />
+    <summary>In 1954 Leon Festinger, a brilliant young experimental social psychologist in the process of inventing a new theory of human behavior - the theory of cognitive dissonance - and two of his colleagues, Henry Riecken and Stanley Schachter, infiltrated a...</summary>
+    <link href="../book_0/book_414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Deadliest Enemy: Our War Against Killer Germs</title>
+  <id>urn:book:631cb7da-de0b-4994-b8f0-37e890a7eef2</id>
+  <updated>2020-03-28T07:32:31Z</updated>
+  <link href="./book_728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Deadliest Enemy: Our War Against Killer Germs" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Michael T. Osterholm, Mark Olshaker</name>
+    <uri>../author_0/author_479_Page_1.xml</uri>
+  </author>
+  <published>2017-03-14T07:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+  <category term="Medical / Infectious Diseases" />
+  <category term="Medical / Epidemiology" />
+  <category term="Medical / Public Health" />
+  <category term="Science / Life Sciences / Biology" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Medical / Infectious Diseases, Medical / Epidemiology, Medical / Public Health, Science / Life Sciences / Biology, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Little, Brown and Company
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">A world-leading epidemiologist shares his stories from the
+    front lines of our war on infectious diseases and explains how
+    to prepare for epidemics that can challenge world order.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Deadliest%20Enemy%3A%20Our%20War%20Against%20Killer%20Germs" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Deadliest%20Enemy%3A%20Our%20War%20Against%20Killer%20Germs" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Deadliest%20Enemy%3A%20Our%20War%20Against%20Killer%20Germs%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Deadliest%20Enemy%3A%20Our%20War%20Against%20Killer%20Germs&amp;field-author=Michael%20T.%20Osterholm%2C%20Mark%20Olshaker" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker" type="text/html" rel="related" title="Michael T. Osterholm, Mark Olshaker on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker" type="text/html" rel="related" title="Michael T. Osterholm, Mark Olshaker on Wikipedia" />
+  <link href="http://www.librarything.com/author/MichaelT.OsterholmMarkOlshaker" type="text/html" rel="related" title="Michael T. Osterholm, Mark Olshaker on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michael%20T.%20Osterholm%2C%20Mark%20Olshaker" type="text/html" rel="related" title="Michael T. Osterholm, Mark Olshaker on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michael%20T.%20Osterholm%2C%20Mark%20Olshaker" type="text/html" rel="related" title="Michael T. Osterholm, Mark Olshaker on ISFDB" />
+</entry>

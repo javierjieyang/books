@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Secrets of Sand Hill Road</title>
+  <id>urn:book:4a155a11-e83a-4379-b8ec-6b66505772a5</id>
+  <updated>2020-03-28T07:28:49Z</updated>
+  <link href="./book_670.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Secrets of Sand Hill Road" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/Secrets%20of%20Sand%20Hill%20Road%20-%20Scott%20Kupor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/Secrets%20of%20Sand%20Hill%20Road%20-%20Scott%20Kupor.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Scott Kupor</name>
+    <uri>../author_0/author_417_Page_1.xml</uri>
+  </author>
+  <published>2019-06-04T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <b xmlns="">What are venture capitalists saying about your startup behind
+  closed doors? And what can you do to influence that
+  conversation?</b>
+    <br xmlns="" />
+    <br xmlns="" />
+    <i xmlns="">Secrets of Sand Hill Road</i>
+    <br xmlns="" />
+    <b xmlns="">*</b>
+    <br xmlns="" />
+    <b xmlns="">*</b>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Secrets%20of%20Sand%20Hill%20Road" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Secrets%20of%20Sand%20Hill%20Road" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Secrets%20of%20Sand%20Hill%20Road%20Scott%20Kupor" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Secrets%20of%20Sand%20Hill%20Road&amp;field-author=Scott%20Kupor" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Scott%20Kupor" type="text/html" rel="related" title="Scott Kupor on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Scott%20Kupor" type="text/html" rel="related" title="Scott Kupor on Wikipedia" />
+  <link href="http://www.librarything.com/author/KuporScott" type="text/html" rel="related" title="Scott Kupor on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Scott%20Kupor" type="text/html" rel="related" title="Scott Kupor on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Scott%20Kupor" type="text/html" rel="related" title="Scott Kupor on ISFDB" />
+</entry>

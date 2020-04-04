@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Phishing for Phools</title>
+  <id>urn:book:77c99b1c-953b-48cf-868f-53828c2d3430</id>
+  <updated>2019-12-07T00:47:26Z</updated>
+  <link href="./book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Phishing for Phools" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/Phishing%20for%20Phools%20-%20Robert%20J.%20Shiller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/Phishing%20for%20Phools%20-%20Robert%20J.%20Shiller.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/Phishing%20for%20Phools%20-%20Robert%20J.%20Shiller.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Robert J. Shiller</name>
+    <uri>../author_0/author_210_Page_1.xml</uri>
+  </author>
+  <published>2015-06-19T05:24:46Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 8, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Phishing%20for%20Phools" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Phishing%20for%20Phools" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Phishing%20for%20Phools%20Robert%20J.%20Shiller" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Phishing%20for%20Phools&amp;field-author=Robert%20J.%20Shiller" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Robert%20J.%20Shiller" type="text/html" rel="related" title="Robert J. Shiller on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Robert%20J.%20Shiller" type="text/html" rel="related" title="Robert J. Shiller on Wikipedia" />
+  <link href="http://www.librarything.com/author/ShillerRobertJ." type="text/html" rel="related" title="Robert J. Shiller on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Robert%20J.%20Shiller" type="text/html" rel="related" title="Robert J. Shiller on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Robert%20J.%20Shiller" type="text/html" rel="related" title="Robert J. Shiller on ISFDB" />
+</entry>

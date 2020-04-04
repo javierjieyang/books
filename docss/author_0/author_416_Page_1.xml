@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Edward O. Thorp</title>
+  <id>Calibre2opds:author:416</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_416_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Edward O. Thorp" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <entry>
+    <title>Kelly Criterion in Blackjack,Sports Betting, and the Stock Market</title>
+    <id>calibre:book:709</id>
+    <updated>2020-03-28T11:32:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20O.%20Thorp/Kelly%20Criterion%20in%20Blackjack%2CSports%20Betting%2C%20and%20the%20Stock%20Market%20%28709%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20O.%20Thorp/Kelly%20Criterion%20in%20Blackjack%2CSports%20Betting%2C%20and%20the%20Stock%20Market%20%28709%29/Kelly%20Criterion%20in%20Blackjack%2CSports%20Bettin%20-%20Edward%20O.%20Thorp.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward O. Thorp</name>
+      <uri>../author_0/author_416_Page_1.xml</uri>
+    </author>
+    <published>2006-04-10T11:44:19Z</published>
+    <category term="Statistics" />
+    <category term="Decision-Making" />
+    <link href="../book_0/book_709.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Man for All Markets</title>
+    <id>calibre:book:669</id>
+    <updated>2020-03-28T08:02:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20O.%20Thorp/A%20Man%20for%20All%20Markets%20%28669%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20O.%20Thorp/A%20Man%20for%20All%20Markets%20%28669%29/A%20Man%20for%20All%20Markets%20-%20Edward%20O.%20Thorp.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20O.%20Thorp/A%20Man%20for%20All%20Markets%20%28669%29/A%20Man%20for%20All%20Markets%20-%20Edward%20O.%20Thorp.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward O. Thorp</name>
+      <uri>../author_0/author_416_Page_1.xml</uri>
+    </author>
+    <published>2017-01-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Finance" />
+    <category term="Lang:en" />
+    <summary>The incredible true story of the card-counting mathematics professor who taught the world how to beat the dealer and, as the first of the great quantitative investors, ushered in a revolution on Wall Street. A child of the Great Depression, legendary...</summary>
+    <link href="../book_0/book_669.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -3,6 +3,7 @@
 
 
 echo "Building Catalogue"
+rm -rf docs
 /home/rjn/Apps/calibre2opds/run.sh
 
 echo "renaming _search to search"

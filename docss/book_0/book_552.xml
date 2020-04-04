@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The_22_Immutable_Laws_of_Ma.pdf</title>
+  <id>urn:book:44166303-c36a-4a6f-abac-396571372786</id>
+  <updated>2019-12-07T00:47:27Z</updated>
+  <link href="./book_552.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The_22_Immutable_Laws_of_Ma.pdf" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/The_22_Immutable_Laws_of_Ma.pdf%20-%20The%20Saint.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/The_22_Immutable_Laws_of_Ma.pdf%20-%20The%20Saint.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>The Saint</name>
+    <uri>../author_0/author_306_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      January 30, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      January 30, 2019
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The_22_Immutable_Laws_of_Ma.pdf" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The_22_Immutable_Laws_of_Ma.pdf" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The_22_Immutable_Laws_of_Ma.pdf%20The%20Saint" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The_22_Immutable_Laws_of_Ma.pdf&amp;field-author=The%20Saint" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/The%20Saint" type="text/html" rel="related" title="The Saint on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Saint" type="text/html" rel="related" title="The Saint on Wikipedia" />
+  <link href="http://www.librarything.com/author/SaintThe" type="text/html" rel="related" title="The Saint on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=The%20Saint" type="text/html" rel="related" title="The Saint on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?The%20Saint" type="text/html" rel="related" title="The Saint on ISFDB" />
+</entry>

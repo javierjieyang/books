@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Becoming a Supple Leopard</title>
+  <id>urn:book:26b76afb-45d5-4155-bdda-f7c19a7f4ceb</id>
+  <updated>2020-03-28T07:55:00Z</updated>
+  <link href="./book_700.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Becoming a Supple Leopard" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/Becoming%20a%20Supple%20Leopard%20-%20Kelly%20Starrett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/Becoming%20a%20Supple%20Leopard%20-%20Kelly%20Starrett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Kelly Starrett</name>
+    <uri>../author_0/author_444_Page_1.xml</uri>
+  </author>
+  <published>2015-03-14T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Victory Belt Publishing Inc.</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Victory Belt Publishing Inc.
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Becoming%20a%20Supple%20Leopard" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Becoming%20a%20Supple%20Leopard" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Becoming%20a%20Supple%20Leopard%20Kelly%20Starrett" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Becoming%20a%20Supple%20Leopard&amp;field-author=Kelly%20Starrett" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Kelly%20Starrett" type="text/html" rel="related" title="Kelly Starrett on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Kelly%20Starrett" type="text/html" rel="related" title="Kelly Starrett on Wikipedia" />
+  <link href="http://www.librarything.com/author/StarrettKelly" type="text/html" rel="related" title="Kelly Starrett on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Kelly%20Starrett" type="text/html" rel="related" title="Kelly Starrett on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Kelly%20Starrett" type="text/html" rel="related" title="Kelly Starrett on ISFDB" />
+</entry>

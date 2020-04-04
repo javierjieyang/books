@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Everything Store: Jeff Bezos and the Age of Amazon</title>
+  <id>urn:book:1379e9c2-786d-4f14-881a-197246b364dd</id>
+  <updated>2020-03-28T07:55:25Z</updated>
+  <link href="./book_463.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Everything Store: Jeff Bezos and the Age of Amazon" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20A%20-%20Stone%2C%20Brad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20A%20-%20Stone%2C%20Brad.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20A%20-%20Stone%2C%20Brad.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Stone, Brad</name>
+    <uri>../author_0/author_191_Page_1.xml</uri>
+  </author>
+  <published>2013-10-14T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Little, Brown and Company
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 10, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Everything%20Store%3A%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Everything%20Store%3A%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Everything%20Store%3A%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20Stone%2C%20Brad" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Everything%20Store%3A%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon&amp;field-author=Stone%2C%20Brad" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stone%2C%20Brad" type="text/html" rel="related" title="Stone, Brad on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Stone%2C%20Brad" type="text/html" rel="related" title="Stone, Brad on Wikipedia" />
+  <link href="http://www.librarything.com/author/StoneBrad" type="text/html" rel="related" title="Stone, Brad on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stone%2C%20Brad" type="text/html" rel="related" title="Stone, Brad on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stone%2C%20Brad" type="text/html" rel="related" title="Stone, Brad on ISFDB" />
+</entry>

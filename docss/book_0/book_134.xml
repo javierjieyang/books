@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing)</title>
+  <id>urn:book:abfdf002-74ac-4009-81b9-89efb05216ac</id>
+  <updated>2019-12-07T00:47:21Z</updated>
+  <link href="./book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing)" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/An%20Introduction%20To%20Statistical%20Learning%20wi%20-%20Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hasti.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/An%20Introduction%20To%20Statistical%20Learning%20wi%20-%20Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hasti.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani</name>
+    <uri>../author_0/author_247_Page_1.xml</uri>
+  </author>
+  <published>2015-10-30T01:55:15Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 12, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29&amp;field-author=Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani" type="text/html" rel="related" title="Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani" type="text/html" rel="related" title="Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani on Wikipedia" />
+  <link href="http://www.librarything.com/author/GarethJamesDanielaWittenTrevorHastieRobertTibshirani" type="text/html" rel="related" title="Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani" type="text/html" rel="related" title="Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani" type="text/html" rel="related" title="Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani on ISFDB" />
+</entry>

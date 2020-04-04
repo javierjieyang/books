@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with T</title>
+  <id>Calibre2opds:allbooks:T</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Trip</title>
+    <id>calibre:book:64</id>
+    <updated>2020-03-28T07:30:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tao%20Lin/Trip%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Tao Lin</name>
+      <uri>../author_0/author_54_Page_1.xml</uri>
+    </author>
+    <published>2018-05-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Part memoir, part history, part journalistic expos&amp;eacute;, Trip is a look at psychedelic drugs, literature, and alienation from one of the twenty-first century's most innovative novelists&amp;#8212;The Electric Kool-Aid Acid Test for a new generation. A...</summary>
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tropic of Cancer</title>
+    <id>calibre:book:564</id>
+    <updated>2020-03-28T07:33:28Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Miller%2C%20Henry/Tropic%20of%20Cancer%20%28564%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Miller%2C%20Henry/Tropic%20of%20Cancer%20%28564%29/Tropic%20of%20Cancer%20-%20Miller%2C%20Henry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Miller%2C%20Henry/Tropic%20of%20Cancer%20%28564%29/Tropic%20of%20Cancer%20-%20Miller%2C%20Henry.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Miller, Henry</name>
+      <uri>../author_0/author_319_Page_1.xml</uri>
+    </author>
+    <published>1961-10-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grove Press</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Romance" />
+    <category term="Brooklyn (New York" />
+    <category term="General" />
+    <category term="Literary" />
+    <category term="Erotic stories" />
+    <category term="Erotic Fiction" />
+    <category term="Americans" />
+    <category term="Bohemianism" />
+    <category term="Authorship" />
+    <category term="Paris (France)" />
+    <category term="N.Y.)" />
+    <category term="Sex Customs" />
+    <category term="Lang:en" />
+    <summary>Amazon.com ReviewNo punches are pulled in Henry Miller's most famous work. Still pretty rough going for even our jaded sensibilities, but Tropic of Cancer is an unforgettable novel of self-confession. Maybe the most honest book ever written, this aut...</summary>
+    <link href="../book_0/book_564.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tryptamine Palace</title>
+    <id>calibre:book:651</id>
+    <updated>2020-03-28T07:38:41Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Oroc/Tryptamine%20Palace%20%28651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Oroc/Tryptamine%20Palace%20%28651%29/Tryptamine%20Palace%20-%20James%20Oroc.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Oroc/Tryptamine%20Palace%20%28651%29/Tryptamine%20Palace%20-%20James%20Oroc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Oroc</name>
+      <uri>../author_0/author_402_Page_1.xml</uri>
+    </author>
+    <published>2009-11-10T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Park Street Press</dcterms:publisher>
+    <category term="Entheogens" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Turing's Cathedral</title>
+    <id>calibre:book:458</id>
+    <updated>2020-03-28T07:14:26Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/Turing%27s%20Cathedral%20-%20George%20Dyson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/Turing%27s%20Cathedral%20-%20George%20Dyson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/Turing%27s%20Cathedral%20-%20George%20Dyson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>George Dyson</name>
+      <uri>../author_0/author_187_Page_1.xml</uri>
+    </author>
+    <published>2012-03-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"It is possible to invent a single machine which can be used to compute any computable sequence," twenty-four-year-old Alan Turing announced in 1936. In Turing's Cathedral, George Dyson focuses on a small group of men and women, led by John von Neuma...</summary>
+    <link href="../book_0/book_458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

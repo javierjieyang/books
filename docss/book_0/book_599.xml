@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Human Use of Human Beings Cybernetics &amp; Society</title>
+  <id>urn:book:14e59b87-8317-483d-9e79-48fb2691ef54</id>
+  <updated>2020-03-06T09:42:49Z</updated>
+  <link href="./book_599.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Human Use of Human Beings Cybernetics &amp; Society" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society%20%28599%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society%20%28599%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society%20%28599%29/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20-%20Norbert%20Wiener.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Norbert Wiener</name>
+    <uri>../author_0/author_476_Page_1.xml</uri>
+  </author>
+  <published>1990-09-22T11:27:03Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 6, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society%20Norbert%20Wiener" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society&amp;field-author=Norbert%20Wiener" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Norbert%20Wiener" type="text/html" rel="related" title="Norbert Wiener on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Norbert%20Wiener" type="text/html" rel="related" title="Norbert Wiener on Wikipedia" />
+  <link href="http://www.librarything.com/author/WienerNorbert" type="text/html" rel="related" title="Norbert Wiener on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Norbert%20Wiener" type="text/html" rel="related" title="Norbert Wiener on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Norbert%20Wiener" type="text/html" rel="related" title="Norbert Wiener on ISFDB" />
+</entry>

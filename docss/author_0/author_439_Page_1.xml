@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Michal Zalewski</title>
+  <id>Calibre2opds:author:439</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_439_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Michal Zalewski" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Silence on the Wire</title>
+    <id>calibre:book:693</id>
+    <updated>2020-03-28T07:33:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/Silence%20on%20the%20Wire%20-%20Michal%20Zalewski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/Silence%20on%20the%20Wire%20-%20Michal%20Zalewski.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michal Zalewski</name>
+      <uri>../author_0/author_439_Page_1.xml</uri>
+    </author>
+    <published>2005-04-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>No Starch Press</dcterms:publisher>
+    <category term="COMPUTERS / Security / General" />
+    <category term="Lang:en" />
+    <summary>Author Michal Zalewski is respected in the hacking and security communities for his\n intelligence, curiosity and creativity, and this book is truly unlike anything else.\n Silence on the Wire is no humdrum white paper or how-to manual for protecting...</summary>
+    <link href="../book_0/book_693.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

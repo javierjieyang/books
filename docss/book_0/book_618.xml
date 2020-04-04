@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ethical , Professional Standards,  Quantative Methods</title>
+  <id>urn:book:90ecaf8b-9bcf-4b9d-b543-62c87529de70</id>
+  <updated>2020-03-28T11:32:29Z</updated>
+  <link href="./book_618.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ethical , Professional Standards,  Quantative Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../author_0/author_521_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="CFA Institute" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/CFA%20Institute/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20%28618%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/CFA%20Institute/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20%28618%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/CFA%20Institute/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20%28618%29/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantat%20-%20CFA%20Institute.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>CFA Institute</name>
+    <uri>../author_0/author_521_Page_1.xml</uri>
+  </author>
+  <published>2019-04-17T06:38:33Z</published>
+  <category term="CFA Level 1" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the CFA Level 1 series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20CFA%20Institute" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods&amp;field-author=CFA%20Institute" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/CFA%20Institute" type="text/html" rel="related" title="CFA Institute on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/CFA%20Institute" type="text/html" rel="related" title="CFA Institute on Wikipedia" />
+  <link href="http://www.librarything.com/author/CFAInstitute" type="text/html" rel="related" title="CFA Institute on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=CFA%20Institute" type="text/html" rel="related" title="CFA Institute on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?CFA%20Institute" type="text/html" rel="related" title="CFA Institute on ISFDB" />
+</entry>

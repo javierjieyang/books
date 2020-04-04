@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with G</title>
+  <id>Calibre2opds:allbooks:G</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with G" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Get a Financial Life</title>
+    <id>calibre:book:527</id>
+    <updated>2020-03-28T07:28:50Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Beth%20Kobliner/Get%20a%20Financial%20Life%20%28527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Beth%20Kobliner/Get%20a%20Financial%20Life%20%28527%29/Get%20a%20Financial%20Life%20-%20Beth%20Kobliner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Beth%20Kobliner/Get%20a%20Financial%20Life%20%28527%29/Get%20a%20Financial%20Life%20-%20Beth%20Kobliner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Beth Kobliner</name>
+      <uri>../author_0/author_279_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Touchstone</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A completely revised and updated fourth edition of the New York Times bestseller, designed to guide younger adults through the world of personal finance.More than ever before, people in their twenties and thirties need help getting their financial li...</summary>
+    <link href="../book_0/book_527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Getting Things Done</title>
+    <id>calibre:book:155</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David Allen</name>
+      <uri>../author_0/author_97_Page_1.xml</uri>
+    </author>
+    <published>2004-04-06T11:50:48Z</published>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Getting to Yes: Negotiating Agreement Without Giving In</title>
+    <id>calibre:book:673</id>
+    <updated>2020-03-28T07:19:58Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Fisher/Getting%20to%20Yes_%20Negotiating%20Agreement%20Without%20Giving%20In%20%28673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Fisher/Getting%20to%20Yes_%20Negotiating%20Agreement%20Without%20Giving%20In%20%28673%29/Getting%20to%20Yes_%20Negotiating%20Agreement%20With%20-%20Roger%20Fisher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Fisher/Getting%20to%20Yes_%20Negotiating%20Agreement%20Without%20Giving%20In%20%28673%29/Getting%20to%20Yes_%20Negotiating%20Agreement%20With%20-%20Roger%20Fisher.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Roger Fisher</name>
+      <uri>../author_0/author_421_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>William L. Ury</name>
+      <uri>../author_0/author_422_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Bruce Patton</name>
+      <uri>../author_0/author_423_Page_1.xml</uri>
+    </author>
+    <published>2011-05-02T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Giant Black Book of Computer Viruses</title>
+    <id>calibre:book:584</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Ludwig/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20%28584%29/The%20Giant%20Black%20Book%20of%20Computer%20Viruses%20-%20Mark%20Ludwig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mark Ludwig</name>
+      <uri>../author_0/author_338_Page_1.xml</uri>
+    </author>
+    <published>2016-11-04T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>In this book you'll learn everything you wanted to know about computer viruses, ranging from the simplest 44-byte virus right on up to viruses for 32-bit Windows, Unix and the Internet. You'll learn how anti-virus programs stalk viruses and what viru...</summary>
+    <link href="../book_0/book_584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Global Catastrophic Risks</title>
+    <id>calibre:book:44</id>
+    <updated>2019-12-07T00:47:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic/Global%20Catastrophic%20Risks%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic/Global%20Catastrophic%20Risks%20%2844%29/Global%20Catastrophic%20Risks%20-%20Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic/Global%20Catastrophic%20Risks%20%2844%29/Global%20Catastrophic%20Risks%20-%20Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic/Global%20Catastrophic%20Risks%20%2844%29/Global%20Catastrophic%20Risks%20-%20Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nick Bostrom, Milan M. Ćirković</name>
+      <uri>../author_0/author_216_Page_1.xml</uri>
+    </author>
+    <published>2012-11-21T02:45:06Z</published>
+    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Godfather</title>
+    <id>calibre:book:359</id>
+    <updated>2020-03-28T07:42:35Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mario%20Puzo/The%20Godfather%20%28359%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mario%20Puzo/The%20Godfather%20%28359%29/The%20Godfather%20-%20Mario%20Puzo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mario%20Puzo/The%20Godfather%20%28359%29/The%20Godfather%20-%20Mario%20Puzo.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mario%20Puzo/The%20Godfather%20%28359%29/The%20Godfather%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mario Puzo</name>
+      <uri>../author_0/author_132_Page_1.xml</uri>
+    </author>
+    <published>2012-07-28T06:59:02Z</published>
+    <dcterms:language>ru</dcterms:language>
+    <category term="Lang:ru" />
+    <link href="../book_0/book_359.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gold : as an investment</title>
+    <id>calibre:book:718</id>
+    <updated>2020-03-28T11:32:41Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Reuben%20Gregg%20Brewer/Gold%20_%20as%20an%20investment%20%28718%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Reuben%20Gregg%20Brewer/Gold%20_%20as%20an%20investment%20%28718%29/Gold%20_%20as%20an%20investment%20-%20Reuben%20Gregg%20Brewer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Reuben Gregg Brewer</name>
+      <uri>../author_0/author_501_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_718.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Good Economics for Hard Times</title>
+    <id>calibre:book:736</id>
+    <updated>2020-03-28T07:00:45Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abhijit%20V.%20Banerjee/Good%20Economics%20for%20Hard%20Times%20%28736%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abhijit%20V.%20Banerjee/Good%20Economics%20for%20Hard%20Times%20%28736%29/Good%20Economics%20for%20Hard%20Times%20-%20Abhijit%20V.%20Banerjee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abhijit%20V.%20Banerjee/Good%20Economics%20for%20Hard%20Times%20%28736%29/Good%20Economics%20for%20Hard%20Times%20-%20Abhijit%20V.%20Banerjee.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Abhijit V. Banerjee</name>
+      <uri>../author_0/author_461_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Esther Duflo</name>
+      <uri>../author_0/author_462_Page_1.xml</uri>
+    </author>
+    <published>2019-11-12T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PublicAffairs</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Two prize-winning economists show how economics, when done right, can help us solve the thorniest social and political problems of our dayThe experience of the last decade has not been kind to the image of economists: asleep at the wheel (perhaps wit...</summary>
+    <link href="../book_0/book_736.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Good to Great</title>
+    <id>calibre:book:13</id>
+    <updated>2020-03-28T07:07:48Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jim%20Collins/Good%20to%20Great%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jim%20Collins/Good%20to%20Great%20%2813%29/Good%20to%20Great%20-%20Jim%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jim%20Collins/Good%20to%20Great%20%2813%29/Good%20to%20Great%20-%20Jim%20Collins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jim%20Collins/Good%20to%20Great%20%2813%29/Good%20to%20Great%20-%20Jim%20Collins.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jim Collins</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2011-10-15T03:53:40Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins US</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The Challenge Built to Last, the defining management study of the nineties, showed how great companies triumph over time and how long-term sustained performance can be engineered into the DNA of an enterprise from the verybeginning.But what about the...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Governing the Commons</title>
+    <id>calibre:book:569</id>
+    <updated>2020-03-28T07:39:06Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elinor%20Ostrom/Governing%20the%20Commons%20%28569%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elinor%20Ostrom/Governing%20the%20Commons%20%28569%29/Governing%20the%20Commons%20-%20Elinor%20Ostrom.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elinor%20Ostrom/Governing%20the%20Commons%20%28569%29/Governing%20the%20Commons%20-%20Elinor%20Ostrom.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Elinor Ostrom</name>
+      <uri>../author_0/author_325_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_569.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Great Mental Models: General Thinking Concepts ****</title>
+    <id>calibre:book:684</id>
+    <updated>2020-03-28T07:40:26Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shane%20Parrish/The%20Great%20Mental%20Models_%20General%20Thinking%20Concepts%20%28684%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shane%20Parrish/The%20Great%20Mental%20Models_%20General%20Thinking%20Concepts%20%28684%29/The%20Great%20Mental%20Models_%20General%20Thinking%20-%20Shane%20Parrish.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shane%20Parrish/The%20Great%20Mental%20Models_%20General%20Thinking%20Concepts%20%28684%29/The%20Great%20Mental%20Models_%20General%20Thinking%20-%20Shane%20Parrish.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shane Parrish</name>
+      <uri>../author_0/author_431_Page_1.xml</uri>
+    </author>
+    <published>2019-10-09T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Farnam Street Media Inc.</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Lang:en" />
+    <summary>The old saying goes, ''To the man with a hammer, everything looks like a nail.'' But anyone who has done any kind of project knows a hammer often isn't enough. 
+The more tools you have at your disposal, the more likely you'll use the right tool for t...</summary>
+    <link href="../book_0/book_684.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gödel, Escher, Bach: An Eternal Golden Braid</title>
+    <id>calibre:book:464</id>
+    <updated>2020-03-28T07:24:48Z</updated>
+    <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20R.%20Hofstadter/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20%28464%29/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Bra%20-%20Douglas%20R.%20Hofstadter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20R.%20Hofstadter/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20%28464%29/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Bra%20-%20Douglas%20R.%20Hofstadter.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20R.%20Hofstadter/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20%28464%29/Godel%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Bra%20-%20Douglas%20R.%20Hofstadter.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Douglas R. Hofstadter</name>
+      <uri>../author_0/author_227_Page_1.xml</uri>
+    </author>
+    <published>1999-04-08T06:30:00Z</published>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <link href="../book_0/book_464.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

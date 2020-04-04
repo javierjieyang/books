@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Breakdown of will</title>
+  <id>urn:book:e7680067-3317-44cf-ae7c-1719fd5a9042</id>
+  <updated>2019-12-07T00:47:22Z</updated>
+  <link href="./book_520.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Breakdown of will" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Ainslie/Breakdown%20of%20will%20%28520%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Ainslie/Breakdown%20of%20will%20%28520%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>George Ainslie</name>
+    <uri>../author_0/author_272_Page_1.xml</uri>
+  </author>
+  <published>2004-08-04T00:56:51Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 29, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 29, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Breakdown%20of%20will" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Breakdown%20of%20will" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Breakdown%20of%20will%20George%20Ainslie" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Breakdown%20of%20will&amp;field-author=George%20Ainslie" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/George%20Ainslie" type="text/html" rel="related" title="George Ainslie on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/George%20Ainslie" type="text/html" rel="related" title="George Ainslie on Wikipedia" />
+  <link href="http://www.librarything.com/author/AINSLIEGEORGE" type="text/html" rel="related" title="George Ainslie on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=George%20Ainslie" type="text/html" rel="related" title="George Ainslie on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?George%20Ainslie" type="text/html" rel="related" title="George Ainslie on ISFDB" />
+</entry>

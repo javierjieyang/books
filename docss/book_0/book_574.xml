@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Father Forgets</title>
+  <id>urn:book:bc4dbba0-7b36-48a7-a150-d5bb4002ec30</id>
+  <updated>2019-12-07T00:47:27Z</updated>
+  <link href="./book_574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Father Forgets" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with U" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Father%20Forgets%20%28574%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Father%20Forgets%20%28574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Father%20Forgets%20%28574%29/Father%20Forgets%20-%20Unknown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Father%20Forgets%20%28574%29/Father%20Forgets%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Unknown</name>
+    <uri>../author_0/author_278_Page_1.xml</uri>
+  </author>
+  <published>2007-05-03T10:07:46Z</published>
+  <category term="Essays" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Essays
+    </p>
+    <p>
+      <strong>Added:</strong>
+      June 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Father%20Forgets" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Father%20Forgets" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Father%20Forgets%20Unknown" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Father%20Forgets&amp;field-author=Unknown" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Unknown" type="text/html" rel="related" title="Unknown on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Unknown" type="text/html" rel="related" title="Unknown on Wikipedia" />
+  <link href="http://www.librarything.com/author/Unknown" type="text/html" rel="related" title="Unknown on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Unknown" type="text/html" rel="related" title="Unknown on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Unknown" type="text/html" rel="related" title="Unknown on ISFDB" />
+</entry>

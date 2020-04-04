@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>How to Change Your Mind</title>
+  <id>urn:book:1974cfc4-6170-4b17-8ebd-0b5c4ef144b0</id>
+  <updated>2020-03-28T07:42:30Z</updated>
+  <link href="./book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="How to Change Your Mind" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Michael Pollan</name>
+    <uri>../author_0/author_56_Page_1.xml</uri>
+  </author>
+  <published>2018-05-15T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      June 1, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <b xmlns="">
+      A brilliant and brave investigation by Michael Pollan, author
+  of five
+      <i>New York Times</i>
+      best sellers, into the medical and
+  scientific revolution taking place around psychedelic
+  drugs—and the spellbinding story of his own life-changing
+  psychedelic experiences
+    </b>
+    <br xmlns="" />
+  </content>
+  <link href="http://www.goodreads.com/book/title/How%20to%20Change%20Your%20Mind" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/How%20to%20Change%20Your%20Mind" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/How%20to%20Change%20Your%20Mind%20Michael%20Pollan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=How%20to%20Change%20Your%20Mind&amp;field-author=Michael%20Pollan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Michael%20Pollan" type="text/html" rel="related" title="Michael Pollan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Michael%20Pollan" type="text/html" rel="related" title="Michael Pollan on Wikipedia" />
+  <link href="http://www.librarything.com/author/PollanMichael" type="text/html" rel="related" title="Michael Pollan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michael%20Pollan" type="text/html" rel="related" title="Michael Pollan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michael%20Pollan" type="text/html" rel="related" title="Michael Pollan on ISFDB" />
+</entry>

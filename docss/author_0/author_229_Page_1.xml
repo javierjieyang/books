@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>C. K. Prahalad</title>
+  <id>Calibre2opds:author:229</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_229_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="C. K. Prahalad" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>The Fortune at the Bottom of the Pyramid</title>
+    <id>calibre:book:15</id>
+    <updated>2019-12-07T00:47:19Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20-%20C.%20K.%20Prahalad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20-%20C.%20K.%20Prahalad.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20-%20C.%20K.%20Prahalad.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>C. K. Prahalad</name>
+      <uri>../author_0/author_229_Page_1.xml</uri>
+    </author>
+    <published>2004-07-07T04:57:50Z</published>
+    <dcterms:publisher>Wharton School Publishing</dcterms:publisher>
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics</title>
+  <id>urn:book:c968c1aa-2d3e-406f-8a7b-7149c6c8ef3b</id>
+  <updated>2020-03-28T07:04:11Z</updated>
+  <link href="./book_548.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20-%20de%20Mesquita%20Bueno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20-%20de%20Mesquita%20Bueno.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20-%20de%20Mesquita%20Bueno.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>de Mesquita Bueno</name>
+    <uri>../author_0/author_298_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Perseus Books Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Perseus Books Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      January 27, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Dictator%27s%20Handbook%3A%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Dictator%27s%20Handbook%3A%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Dictator%27s%20Handbook%3A%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20de%20Mesquita%20Bueno" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Dictator%27s%20Handbook%3A%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics&amp;field-author=de%20Mesquita%20Bueno" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/de%20Mesquita%20Bueno" type="text/html" rel="related" title="de Mesquita Bueno on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/de%20Mesquita%20Bueno" type="text/html" rel="related" title="de Mesquita Bueno on Wikipedia" />
+  <link href="http://www.librarything.com/author/BuenodeMesquita" type="text/html" rel="related" title="de Mesquita Bueno on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=de%20Mesquita%20Bueno" type="text/html" rel="related" title="de Mesquita Bueno on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?de%20Mesquita%20Bueno" type="text/html" rel="related" title="de Mesquita Bueno on ISFDB" />
+</entry>

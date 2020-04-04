@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Getting to Yes: Negotiating Agreement Without Giving In</title>
+  <id>urn:book:50aa3ffe-f4bf-4713-b603-2be7e04e39c1</id>
+  <updated>2020-03-28T07:19:58Z</updated>
+  <link href="./book_673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Getting to Yes: Negotiating Agreement Without Giving In" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Fisher/Getting%20to%20Yes_%20Negotiating%20Agreement%20Without%20Giving%20In%20%28673%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Fisher/Getting%20to%20Yes_%20Negotiating%20Agreement%20Without%20Giving%20In%20%28673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Fisher/Getting%20to%20Yes_%20Negotiating%20Agreement%20Without%20Giving%20In%20%28673%29/Getting%20to%20Yes_%20Negotiating%20Agreement%20With%20-%20Roger%20Fisher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roger%20Fisher/Getting%20to%20Yes_%20Negotiating%20Agreement%20Without%20Giving%20In%20%28673%29/Getting%20to%20Yes_%20Negotiating%20Agreement%20With%20-%20Roger%20Fisher.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Roger Fisher</name>
+    <uri>../author_0/author_421_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>William L. Ury</name>
+    <uri>../author_0/author_422_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Bruce Patton</name>
+    <uri>../author_0/author_423_Page_1.xml</uri>
+  </author>
+  <published>2011-05-02T11:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Getting%20to%20Yes%3A%20Negotiating%20Agreement%20Without%20Giving%20In" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Getting%20to%20Yes%3A%20Negotiating%20Agreement%20Without%20Giving%20In" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Getting%20to%20Yes%3A%20Negotiating%20Agreement%20Without%20Giving%20In%20Roger%20Fisher" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Getting%20to%20Yes%3A%20Negotiating%20Agreement%20Without%20Giving%20In&amp;field-author=Roger%20Fisher" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Roger%20Fisher" type="text/html" rel="related" title="Roger Fisher on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/William%20L.%20Ury" type="text/html" rel="related" title="William L. Ury on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Bruce%20Patton" type="text/html" rel="related" title="Bruce Patton on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Roger%20Fisher" type="text/html" rel="related" title="Roger Fisher on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/William%20L.%20Ury" type="text/html" rel="related" title="William L. Ury on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Bruce%20Patton" type="text/html" rel="related" title="Bruce Patton on Wikipedia" />
+  <link href="http://www.librarything.com/author/FisherRoger" type="text/html" rel="related" title="Roger Fisher on LibraryThing" />
+  <link href="http://www.librarything.com/author/UryWilliamL." type="text/html" rel="related" title="William L. Ury on LibraryThing" />
+  <link href="http://www.librarything.com/author/PattonBruce" type="text/html" rel="related" title="Bruce Patton on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Roger%20Fisher" type="text/html" rel="related" title="Roger Fisher on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20L.%20Ury" type="text/html" rel="related" title="William L. Ury on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Bruce%20Patton" type="text/html" rel="related" title="Bruce Patton on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Roger%20Fisher" type="text/html" rel="related" title="Roger Fisher on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20L.%20Ury" type="text/html" rel="related" title="William L. Ury on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Bruce%20Patton" type="text/html" rel="related" title="Bruce Patton on ISFDB" />
+</entry>

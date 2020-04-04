@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>On Governors</title>
+  <id>urn:book:aaff243f-7f58-4795-8c78-4dc84a16f0b0</id>
+  <updated>2019-12-07T00:47:22Z</updated>
+  <link href="./book_439.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="On Governors" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/J.C%20Maxwell/On%20Governors%20%28439%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/J.C%20Maxwell/On%20Governors%20%28439%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/J.C%20Maxwell/On%20Governors%20%28439%29/On%20Governors%20-%20J.C%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/J.C%20Maxwell/On%20Governors%20%28439%29/On%20Governors%20-%20J.C%20Maxwell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/J.C%20Maxwell/On%20Governors%20%28439%29/On%20Governors%20-%20J.C%20Maxwell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>J.C Maxwell</name>
+    <uri>../author_0/author_248_Page_1.xml</uri>
+  </author>
+  <published>1868-03-05T02:53:08Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 2, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/On%20Governors" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/On%20Governors" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/On%20Governors%20J.C%20Maxwell" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=On%20Governors&amp;field-author=J.C%20Maxwell" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/J.C%20Maxwell" type="text/html" rel="related" title="J.C Maxwell on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/J.C%20Maxwell" type="text/html" rel="related" title="J.C Maxwell on Wikipedia" />
+  <link href="http://www.librarything.com/author/MaxwellJ.C" type="text/html" rel="related" title="J.C Maxwell on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=J.C%20Maxwell" type="text/html" rel="related" title="J.C Maxwell on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?J.C%20Maxwell" type="text/html" rel="related" title="J.C Maxwell on ISFDB" />
+</entry>

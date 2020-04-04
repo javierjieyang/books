@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Player Piano</title>
+  <id>urn:book:a47eb7e4-a7e8-47a8-84e4-02bb56b63927</id>
+  <updated>2020-03-28T08:04:04Z</updated>
+  <link href="./book_667.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Player Piano" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Player%20Piano%20%28667%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Player%20Piano%20%28667%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Player%20Piano%20%28667%29/Player%20Piano%20-%20Kurt%20Vonnegut.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Player%20Piano%20%28667%29/Player%20Piano%20-%20Kurt%20Vonnegut.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Kurt Vonnegut</name>
+    <uri>../author_0/author_317_Page_1.xml</uri>
+  </author>
+  <published>1979-12-31T06:30:00Z</published>
+  <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+  <category term="Fiction" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Random House Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Player%20Piano" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Player%20Piano" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Player%20Piano%20Kurt%20Vonnegut" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Player%20Piano&amp;field-author=Kurt%20Vonnegut" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Kurt%20Vonnegut" type="text/html" rel="related" title="Kurt Vonnegut on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Kurt%20Vonnegut" type="text/html" rel="related" title="Kurt Vonnegut on Wikipedia" />
+  <link href="http://www.librarything.com/author/VonnegutKurt" type="text/html" rel="related" title="Kurt Vonnegut on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Kurt%20Vonnegut" type="text/html" rel="related" title="Kurt Vonnegut on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Kurt%20Vonnegut" type="text/html" rel="related" title="Kurt Vonnegut on ISFDB" />
+</entry>

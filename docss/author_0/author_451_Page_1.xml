@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Titania McGrath</title>
+  <id>Calibre2opds:author:451</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_451_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Titania McGrath" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>Woke: A Guide to Social Justice *****</title>
+    <id>calibre:book:726</id>
+    <updated>2020-03-28T07:31:41Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/Woke_%20A%20Guide%20to%20Social%20Justice%20-%20Titania%20McGrath.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/Woke_%20A%20Guide%20to%20Social%20Justice%20-%20Titania%20McGrath.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Titania McGrath</name>
+      <uri>../author_0/author_451_Page_1.xml</uri>
+    </author>
+    <published>2019-03-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Constable</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Topic" />
+    <category term="Politics" />
+    <category term="Political Science" />
+    <category term="Comparative Politics" />
+    <category term="Social Science" />
+    <category term="Gender Studies" />
+    <category term="Feminism &amp; Feminist Theory" />
+    <category term="Lang:en" />
+    <summary>'The book everyone's talking about' The Times'Titania McGrath is a genius' Spectator'Just as Bridget Jones was the embodiment of the anxiety-ridden Nineties feminist, a creation whose diary entries encapsulated all our hopes, fears and failures, so T...</summary>
+    <link href="../book_0/book_726.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

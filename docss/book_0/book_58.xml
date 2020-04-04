@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Naked Statistics: Stripping the Dread from the Data</title>
+  <id>urn:book:9b9842f4-5c95-472c-b7cf-988640027239</id>
+  <updated>2020-03-28T08:04:42Z</updated>
+  <link href="./book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Naked Statistics: Stripping the Dread from the Data" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Charles Wheelan</name>
+    <uri>../author_0/author_49_Page_1.xml</uri>
+  </author>
+  <published>2013-01-07T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Norton</dcterms:publisher>
+  <category term="Statistics" />
+  <category term="Decision-Making &amp; Problem Solving" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Statistics, Decision-Making &amp; Problem Solving, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Norton
+    </p>
+    <p>
+      <strong>Added:</strong>
+      June 1, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Naked%20Statistics%3A%20Stripping%20the%20Dread%20from%20the%20Data" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Naked%20Statistics%3A%20Stripping%20the%20Dread%20from%20the%20Data" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Naked%20Statistics%3A%20Stripping%20the%20Dread%20from%20the%20Data%20Charles%20Wheelan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Naked%20Statistics%3A%20Stripping%20the%20Dread%20from%20the%20Data&amp;field-author=Charles%20Wheelan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Charles%20Wheelan" type="text/html" rel="related" title="Charles Wheelan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Charles%20Wheelan" type="text/html" rel="related" title="Charles Wheelan on Wikipedia" />
+  <link href="http://www.librarything.com/author/WheelanCharles" type="text/html" rel="related" title="Charles Wheelan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Charles%20Wheelan" type="text/html" rel="related" title="Charles Wheelan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Charles%20Wheelan" type="text/html" rel="related" title="Charles Wheelan on ISFDB" />
+</entry>

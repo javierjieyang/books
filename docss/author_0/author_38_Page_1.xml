@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Charles T. Munger, Peter D. Kaufman</title>
+  <id>Calibre2opds:author:38</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Charles T. Munger, Peter D. Kaufman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>Poor Charlie's Almanack, Expanded Third Edition</title>
+    <id>calibre:book:42</id>
+    <updated>1970-01-01T05:30:00Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Ed%20-%20Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Ed%20-%20Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Charles T. Munger, Peter D. Kaufman</name>
+      <uri>../author_0/author_38_Page_1.xml</uri>
+    </author>
+    <published>2012-02-06T06:12:50Z</published>
+    <category term="Investments" />
+    <category term="Decision Making" />
+    <summary>Investments, Decision Making</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Fly</title>
+  <id>urn:book:925de634-a91f-4589-ad8b-a0a7f04e9412</id>
+  <updated>2020-03-28T11:32:39Z</updated>
+  <link href="./book_706.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Fly" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Katherine%20Mansfield/The%20Fly%20%28706%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Katherine%20Mansfield/The%20Fly%20%28706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Katherine%20Mansfield/The%20Fly%20%28706%29/The%20Fly%20-%20Katherine%20Mansfield.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Katherine Mansfield</name>
+    <uri>../author_0/author_467_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Fly" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Fly" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Fly%20Katherine%20Mansfield" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Fly&amp;field-author=Katherine%20Mansfield" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Katherine%20Mansfield" type="text/html" rel="related" title="Katherine Mansfield on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Katherine%20Mansfield" type="text/html" rel="related" title="Katherine Mansfield on Wikipedia" />
+  <link href="http://www.librarything.com/author/MansfieldKatherine" type="text/html" rel="related" title="Katherine Mansfield on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Katherine%20Mansfield" type="text/html" rel="related" title="Katherine Mansfield on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Katherine%20Mansfield" type="text/html" rel="related" title="Katherine Mansfield on ISFDB" />
+</entry>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with S</title>
+  <id>Calibre2opds:allbooks:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Stumbling on Happiness</title>
+    <id>calibre:book:404</id>
+    <updated>2020-03-28T07:20:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Daniel Gilbert</name>
+      <uri>../author_0/author_151_Page_1.xml</uri>
+    </author>
+    <published>2006-05-02T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Stumbling on to Happiness</title>
+    <id>calibre:book:581</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20to%20Happiness%20%28581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20to%20Happiness%20%28581%29/Stumbling%20on%20to%20Happiness%20-%20Daniel%20Gilbert.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Daniel Gilbert</name>
+      <uri>../author_0/author_151_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Subtle Art of Not Giving a F*ck</title>
+    <id>calibre:book:2</id>
+    <updated>2020-03-28T07:31:13Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20-%20Mark%20Manson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20-%20Mark%20Manson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20-%20Mark%20Manson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mark Manson</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2016-08-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be "positive" all the time so that we can truly become better, happier people.For decades, we've been told that positive thinking ...</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Summa Theologica: Complete Edition</title>
+    <id>calibre:book:428</id>
+    <updated>2020-03-28T07:18:02Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saint%20Thomas%20Aquinas/The%20Summa%20Theologica_%20Complete%20Edition%20%28428%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saint%20Thomas%20Aquinas/The%20Summa%20Theologica_%20Complete%20Edition%20%28428%29/The%20Summa%20Theologica_%20Complete%20Edition%20-%20Saint%20Thomas%20Aquinas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saint%20Thomas%20Aquinas/The%20Summa%20Theologica_%20Complete%20Edition%20%28428%29/The%20Summa%20Theologica_%20Complete%20Edition%20-%20Saint%20Thomas%20Aquinas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saint Thomas Aquinas</name>
+      <uri>../author_0/author_174_Page_1.xml</uri>
+    </author>
+    <published>2014-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Catholic Way Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_428.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Superforecasting</title>
+    <id>calibre:book:55</id>
+    <updated>2020-03-28T08:01:42Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/Superforecasting%20-%20Philip%20E.%20Tetlock.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/Superforecasting%20-%20Philip%20E.%20Tetlock.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/Superforecasting%20-%20Philip%20E.%20Tetlock.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Philip E. Tetlock</name>
+      <uri>../author_0/author_45_Page_1.xml</uri>
+    </author>
+    <published>2015-09-29T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown/Archetype</dcterms:publisher>
+    <category term="Data Science" />
+    <category term="Lang:en" />
+    <summary>From one of the world's most highly regarded social scientists, a transformative book on the habits of mind that lead to the best predictions   Everyone would benefit from seeing further into the future, whether buying stocks, crafting policy, launch...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Superintelligence: Paths, Dangers, Strategies</title>
+    <id>calibre:book:17</id>
+    <updated>2020-03-28T07:03:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/Superintelligence_%20Paths%2C%20Dangers%2C%20Strateg%20-%20Nick%20Bostrom.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/Superintelligence_%20Paths%2C%20Dangers%2C%20Strateg%20-%20Nick%20Bostrom.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/Superintelligence_%20Paths%2C%20Dangers%2C%20Strateg%20-%20Nick%20Bostrom.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nick Bostrom</name>
+      <uri>../author_0/author_16_Page_1.xml</uri>
+    </author>
+    <published>2014-07-02T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Survival of the Prettiest: The Science of Beauty</title>
+    <id>calibre:book:459</id>
+    <updated>2020-03-28T07:15:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nancy Etcoff</name>
+      <uri>../author_0/author_188_Page_1.xml</uri>
+    </author>
+    <published>2011-02-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_459.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Systemantics How Systems Work &amp; Especially How They Fail</title>
+    <id>calibre:book:625</id>
+    <updated>2020-03-28T11:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gall/Systemantics%20How%20Systems%20Work%20%26%20Especially%20How%20They%20Fail%20%28625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gall/Systemantics%20How%20Systems%20Work%20%26%20Especially%20How%20They%20Fail%20%28625%29/Systemantics%20How%20Systems%20Work%20%26%20Especially%20-%20John%20Gall.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Gall</name>
+      <uri>../author_0/author_471_Page_1.xml</uri>
+    </author>
+    <published>1978-02-28T06:30:00Z</published>
+    <dcterms:publisher>Wildwood House</dcterms:publisher>
+    <link href="../book_0/book_625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The society of mind</title>
+    <id>calibre:book:37</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/The%20society%20of%20mind%20-%20Marvin%20Minsky.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Marvin Minsky</name>
+      <uri>../author_0/author_231_Page_1.xml</uri>
+    </author>
+    <published>1988-12-14T02:29:55Z</published>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

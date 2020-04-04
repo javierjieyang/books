@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Christopher Alexander, Murray Silverstein, Sara Ishikawa</title>
+  <id>Calibre2opds:author:270</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_270_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Christopher Alexander, Murray Silverstein, Sara Ishikawa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>A Pattern Language : Towns, Buildings, Construction</title>
+    <id>calibre:book:517</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Con%20-%20Christopher%20Alexander%2C%20Murray%20Silverstein%2C.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Con%20-%20Christopher%20Alexander%2C%20Murray%20Silverstein%2C.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Christopher Alexander, Murray Silverstein, Sara Ishikawa</name>
+      <uri>../author_0/author_270_Page_1.xml</uri>
+    </author>
+    <published>1977-04-01T07:04:32Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

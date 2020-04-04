@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>More than one year</title>
+  <id>Calibre2opds:recent:MORE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_MORE_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="More than one year" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_MORE_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 9)" />
+  <entry>
+    <title>I Do What I Do [August 28, 2018]</title>
+    <id>calibre:book:503</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Raghuram G. Rajan</name>
+      <uri>../author_0/author_254_Page_1.xml</uri>
+    </author>
+    <published>2017-09-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers India</dcterms:publisher>
+    <category term="null" />
+    <category term="Lang:en" />
+    <summary>null</summary>
+    <link href="../book_0/book_503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Design Thinking [August 28, 2018]</title>
+    <id>calibre:book:502</id>
+    <updated>2020-03-28T07:08:46Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nigel Cross</name>
+      <uri>../author_0/author_253_Page_1.xml</uri>
+    </author>
+    <published>2011-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Berg Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Design thinking is the core creative process for any designer; this book explores and explains this apparently mysterious "design ability". Focusing on what designers do when they design, Design Thinking is structured around a series of in-depth case...</summary>
+    <link href="../book_0/book_502.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Monoculture: How One Story is Changing Everything [August 28, 2018]</title>
+    <id>calibre:book:501</id>
+    <updated>2020-03-28T07:32:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/Monoculture_%20How%20One%20Story%20is%20Changing%20Eve%20-%20Michaels%2C%20F.S_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/Monoculture_%20How%20One%20Story%20is%20Changing%20Eve%20-%20Michaels%2C%20F.S_.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/Monoculture_%20How%20One%20Story%20is%20Changing%20Eve%20-%20Michaels%2C%20F.S_.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michaels, F.S.</name>
+      <uri>../author_0/author_252_Page_1.xml</uri>
+    </author>
+    <published>2011-04-25T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Red Clover Press</dcterms:publisher>
+    <category term="Business and Economics" />
+    <category term="Social Science - General" />
+    <category term="Lang:en" />
+    <summary>As human beings, we’ve always told stories: stories about who we are, where we come from, and where we’re going. Now imagine that one of those stories is taking over the others, narrowing our diversity and creating a monoculture. Because of the rise ...</summary>
+    <link href="../book_0/book_501.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Operating System Concepts [August 28, 2018]</title>
+    <id>calibre:book:500</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abraham%20Silberschatz/Operating%20System%20Concepts%20%28500%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abraham%20Silberschatz/Operating%20System%20Concepts%20%28500%29/Operating%20System%20Concepts%20-%20Abraham%20Silberschatz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abraham%20Silberschatz/Operating%20System%20Concepts%20%28500%29/Operating%20System%20Concepts%20-%20Abraham%20Silberschatz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Abraham Silberschatz</name>
+      <uri>../author_0/author_269_Page_1.xml</uri>
+    </author>
+    <published>2012-11-27T10:33:42Z</published>
+    <summary>The dinosaur book</summary>
+    <link href="../book_0/book_500.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Montaigne's Essays [August 28, 2018]</title>
+    <id>calibre:book:499</id>
+    <updated>2019-12-07T00:47:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/Montaigne%27s%20Essays%20-%20Montaigne%2C%20John%20Florio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/Montaigne%27s%20Essays%20-%20Montaigne%2C%20John%20Florio.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/Montaigne%27s%20Essays%20-%20Montaigne%2C%20John%20Florio.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Montaigne, John Florio</name>
+      <uri>../author_0/author_271_Page_1.xml</uri>
+    </author>
+    <published>1600-07-31T06:30:00Z</published>
+    <link href="../book_0/book_499.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Rational Optimist [August 28, 2018]</title>
+    <id>calibre:book:498</id>
+    <updated>2020-03-28T07:45:00Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matt Ridley</name>
+      <uri>../author_0/author_249_Page_1.xml</uri>
+    </author>
+    <published>2010-06-15T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Red Queen [August 28, 2018]</title>
+    <id>calibre:book:497</id>
+    <updated>2020-03-28T07:45:30Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Red%20Queen%20%28497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Red%20Queen%20%28497%29/The%20Red%20Queen%20-%20Matt%20Ridley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Red%20Queen%20%28497%29/The%20Red%20Queen%20-%20Matt%20Ridley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Matt%20Ridley/The%20Red%20Queen%20%28497%29/The%20Red%20Queen%20-%20Matt%20Ridley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matt Ridley</name>
+      <uri>../author_0/author_249_Page_1.xml</uri>
+    </author>
+    <published>2010-06-08T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_497.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides) [August 28, 2018]</title>
+    <id>calibre:book:494</id>
+    <updated>2020-03-28T07:46:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marshall B. Rosenberg</name>
+      <uri>../author_0/author_204_Page_1.xml</uri>
+    </author>
+    <published>2015-08-31T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Puddledancer Press</dcterms:publisher>
+    <category term="1. Interpersonal communication. 2. Interpersonal relations. 3. Nonviolence." />
+    <category term="Lang:en" />
+    <summary>The latest edition of the communication guide that has sold more than 1,000,000 copiesAn enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller...</summary>
+    <link href="../book_0/book_494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Homo Deus: A Brief History of Tomorrow [August 28, 2018]</title>
+    <id>calibre:book:493</id>
+    <updated>2020-03-28T07:23:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../author_0/author_203_Page_1.xml</uri>
+    </author>
+    <published>2016-09-13T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Signal</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_493.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Courtesans and Fishcakes [August 28, 2018]</title>
+    <id>calibre:book:489</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Davidson</name>
+      <uri>../author_0/author_230_Page_1.xml</uri>
+    </author>
+    <published>1997-05-24T09:27:34Z</published>
+    <dcterms:publisher>Fontana Press</dcterms:publisher>
+    <category term="Consuming Passions of Classical Athens" />
+    <summary>The Consuming Passions of Classical Athens [1]:</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Contra Keynes and Cambridge Essays [August 28, 2018]</title>
+    <id>calibre:book:488</id>
+    <updated>2019-12-07T00:47:21Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Hayek/Contra%20Keynes%20and%20Cambridge%20Essays%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Hayek/Contra%20Keynes%20and%20Cambridge%20Essays%20%28488%29/Contra%20Keynes%20and%20Cambridge%20Essays%20-%20Friedrich%20Hayek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Hayek/Contra%20Keynes%20and%20Cambridge%20Essays%20%28488%29/Contra%20Keynes%20and%20Cambridge%20Essays%20-%20Friedrich%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Friedrich Hayek</name>
+      <uri>../author_0/author_228_Page_1.xml</uri>
+    </author>
+    <published>1995-05-15T11:47:52Z</published>
+    <dcterms:publisher>Routledge</dcterms:publisher>
+    <link href="../book_0/book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Passions of the Renaissance [August 28, 2018]</title>
+    <id>calibre:book:487</id>
+    <updated>2020-03-28T07:41:51Z</updated>
+    <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/Passions%20of%20the%20Renaissance%20%28487%29/Passions%20of%20the%20Renaissance%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/Passions%20of%20the%20Renaissance%20%28487%29/Passions%20of%20the%20Renaissance%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/Passions%20of%20the%20Renaissance%20%28487%29/Passions%20of%20the%20Renaissance%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Phillippe Aries, Georges Duby, Arthur Goldhammer</name>
+      <uri>../author_0/author_219_Page_1.xml</uri>
+    </author>
+    <published>1989-08-27T06:30:00Z</published>
+    <dcterms:publisher>Belknap Press of Harvard University Press</dcterms:publisher>
+    <category term="History of Private Life" />
+    <summary>A History of Private Life [3]:</summary>
+    <link href="../book_0/book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thinking in Systems: A Primer [August 28, 2018]</title>
+    <id>calibre:book:483</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Meadows%2C%20Donella%20H.%20Wright%2C%20Diana/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Meadows%2C%20Donella%20H.%20Wright%2C%20Diana/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Meadows%2C%20Donella%20H.%20Wright%2C%20Diana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Meadows%2C%20Donella%20H.%20Wright%2C%20Diana/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Meadows%2C%20Donella%20H.%20Wright%2C%20Diana.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Meadows%2C%20Donella%20H.%20Wright%2C%20Diana/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Meadows%2C%20Donella%20H.%20Wright%2C%20Diana.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Meadows, Donella H. Wright, Diana</name>
+      <uri>../author_0/author_211_Page_1.xml</uri>
+    </author>
+    <published>2009-02-05T10:37:56Z</published>
+    <link href="../book_0/book_483.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Measure of All Minds Evaluating Natural and Artificial Intelligence [August 28, 2018]</title>
+    <id>calibre:book:481</id>
+    <updated>2019-12-07T00:47:23Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Hernández-Orallo</name>
+      <uri>../author_0/author_207_Page_1.xml</uri>
+    </author>
+    <published>2017-08-04T00:07:40Z</published>
+    <category term="Artifical Intelligence" />
+    <link href="../book_0/book_481.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Feeling Good : The New Mood Therapy [August 28, 2018]</title>
+    <id>calibre:book:478</id>
+    <updated>2020-03-28T07:04:15Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David D. Burns</name>
+      <uri>../author_0/author_226_Page_1.xml</uri>
+    </author>
+    <published>1999-12-30T06:30:00Z</published>
+    <dcterms:publisher>Harper Paperbacks</dcterms:publisher>
+    <link href="../book_0/book_478.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Confessions of J. J. Rousseau [August 28, 2018]</title>
+    <id>calibre:book:477</id>
+    <updated>2020-03-28T07:46:54Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jean-Jacques Rousseau</name>
+      <uri>../author_0/author_202_Page_1.xml</uri>
+    </author>
+    <published>2004-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <category term="Unread" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_477.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Letters from the Earth [August 28, 2018]</title>
+    <id>calibre:book:476</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Letters%20from%20the%20Earth%20%28476%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Letters%20from%20the%20Earth%20%28476%29/Letters%20from%20the%20Earth%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Letters%20from%20the%20Earth%20%28476%29/Letters%20from%20the%20Earth%20-%20Mark%20Twain.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Letters%20from%20the%20Earth%20%28476%29/Letters%20from%20the%20Earth%20-%20Mark%20Twain.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../author_0/author_201_Page_1.xml</uri>
+    </author>
+    <published>1962-12-31T08:10:43Z</published>
+    <link href="../book_0/book_476.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mark Twain on Religion: What Is Man, the War Prayer, Thou Shalt Not Kill, the Fly, Letters From the Earth [August 28, 2018]</title>
+    <id>calibre:book:475</id>
+    <updated>2020-03-28T08:03:01Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20W%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20W%20-%20Mark%20Twain.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20W%20-%20Mark%20Twain.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../author_0/author_201_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Forgotten Books</dcterms:publisher>
+    <category term="Essays" />
+    <category term="Lang:en" />
+    <summary>Book Description:   Mark Twain talks about his personal views on religion, the Bible and God, in these five writings.  Table of Contents:   Publisher’s Preface; What Is Man? And Other Essays Of Mark Twain; What Is Man?; The Death Of Jean; The Turning...</summary>
+    <link href="../book_0/book_475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fountainhead [August 27, 2018]</title>
+    <id>calibre:book:474</id>
+    <updated>2020-03-28T07:01:07Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ayn Rand, Peikoff Rand</name>
+      <uri>../author_0/author_483_Page_1.xml</uri>
+    </author>
+    <published>1971-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Plume</dcterms:publisher>
+    <category term="Psychological" />
+    <category term="Man-Woman Relationships" />
+    <category term="Psychological Fiction" />
+    <category term="Architects" />
+    <category term="Fiction" />
+    <category term="Romance" />
+    <category term="Literary" />
+    <category term="General" />
+    <category term="Individual Architect" />
+    <category term="Architecture" />
+    <category term="Classics" />
+    <category term="Didactic Fiction" />
+    <category term="Individualism" />
+    <category term="Lang:en" />
+    <summary>A special edition hardcover in celebration of Ayn Rand's centennial.When it was first published in 1943, The Fountainhead--containing Ayn Rand's daringly original literary vision with the seeds of her groundbreaking philosophy, Objectivismwon immedi...</summary>
+    <link href="../book_0/book_474.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Moneyball [August 27, 2018]</title>
+    <id>calibre:book:473</id>
+    <updated>2020-03-28T07:29:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>2004-03-17T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_473.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deep Work [August 25, 2018]</title>
+    <id>calibre:book:471</id>
+    <updated>2020-03-28T07:37:02Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/Deep%20Work%20%28471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/Deep%20Work%20%28471%29/Deep%20Work%20-%20Cal%20Newport.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/Deep%20Work%20%28471%29/Deep%20Work%20-%20Cal%20Newport.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/Deep%20Work%20%28471%29/Deep%20Work%20-%20Cal%20Newport.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Cal Newport</name>
+      <uri>../author_0/author_197_Page_1.xml</uri>
+    </author>
+    <published>2016-01-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grand Central Publishing</dcterms:publisher>
+    <category term="Business &amp; Economics / Time Management" />
+    <category term="Lang:en" />
+    <summary>An Amazon Best Book of January 2016 in Business &amp; Leadership PickOne of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.Deep work is the ability to focus without di...</summary>
+    <link href="../book_0/book_471.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Financial Diet [August 24, 2018]</title>
+    <id>calibre:book:470</id>
+    <updated>2020-03-28T07:16:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/The%20Financial%20Diet%20-%20Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/The%20Financial%20Diet%20-%20Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/The%20Financial%20Diet%20-%20Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Chelsea Fagan, Lauren Ver Hage</name>
+      <uri>../author_0/author_508_Page_1.xml</uri>
+    </author>
+    <published>2017-11-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Henry Holt and Co.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A budget boot camp and guide to long-term transformation that will help you save, date, decorate and dream your way to your best financial life.THE FINANCIAL DIET is the personal finance book for people who don't care about personal finance; it's you...</summary>
+    <link href="../book_0/book_470.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Uses and Abuses of History [August 24, 2018]</title>
+    <id>calibre:book:469</id>
+    <updated>2020-03-28T07:30:49Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/The%20Uses%20and%20Abuses%20of%20History%20-%20Margaret%20MacMillan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/The%20Uses%20and%20Abuses%20of%20History%20-%20Margaret%20MacMillan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/The%20Uses%20and%20Abuses%20of%20History%20-%20Margaret%20MacMillan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Margaret MacMillan</name>
+      <uri>../author_0/author_194_Page_1.xml</uri>
+    </author>
+    <published>2009-03-16T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group</dcterms:publisher>
+    <category term="General" />
+    <category term="Philosophy" />
+    <category term="History" />
+    <category term="Decision-Making &amp; Problem Solving" />
+    <category term="Education" />
+    <category term="Historiography" />
+    <category term="Study &amp; Teaching" />
+    <category term="Decision Making" />
+    <category term="Lang:en" />
+    <summary>Review"'In a world where the spin doctor has replaced the historian, MacMillan reminds readers of the importance of dispassionate, fact-driven narrative, as opposed to reassuring or self-serving accounts that pass for history while burying the unplea...</summary>
+    <link href="../book_0/book_469.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Labyrinths Selected Stories &amp; Other Writings [August 16, 2018]</title>
+    <id>calibre:book:468</id>
+    <updated>2019-12-07T00:47:23Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Luis%20Borges/Labyrinths%20Selected%20Stories%20%26%20Other%20Writings%20%28468%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Luis%20Borges/Labyrinths%20Selected%20Stories%20%26%20Other%20Writings%20%28468%29/Labyrinths%20Selected%20Stories%20%26%20Other%20Writin%20-%20Jorge%20Luis%20Borges.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Luis%20Borges/Labyrinths%20Selected%20Stories%20%26%20Other%20Writings%20%28468%29/Labyrinths%20Selected%20Stories%20%26%20Other%20Writin%20-%20Jorge%20Luis%20Borges.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Luis%20Borges/Labyrinths%20Selected%20Stories%20%26%20Other%20Writings%20%28468%29/Labyrinths%20Selected%20Stories%20%26%20Other%20Writin%20-%20Jorge%20Luis%20Borges.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jorge Luis Borges</name>
+      <uri>../author_0/author_217_Page_1.xml</uri>
+    </author>
+    <published>1962-08-27T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New Directions Paperbook</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_468.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist [August 16, 2018]</title>
+    <id>calibre:book:467</id>
+    <updated>2020-03-28T07:44:04Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Li%20-%20Raworth%2C%20Kate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Li%20-%20Raworth%2C%20Kate.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Li%20-%20Raworth%2C%20Kate.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Raworth, Kate</name>
+      <uri>../author_0/author_193_Page_1.xml</uri>
+    </author>
+    <published>2017-04-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_467.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MORE_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 9)" />
+  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+  <link href="../recent/recent_MORE_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+</feed>

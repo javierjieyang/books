@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Timothy Ferriss</title>
+  <id>Calibre2opds:author:192</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_192_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Timothy Ferriss" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman</title>
+    <id>calibre:book:675</id>
+    <updated>2020-03-28T07:19:55Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Body_%20An%20Uncommon%20Guide%20to%20Rapid%20Fat-Loss%2C%20Incredible%20Sex%2C%20and%20Becoming%20Superhuman%20%28675%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Body_%20An%20Uncommon%20Guide%20to%20Rapid%20Fat-Loss%2C%20Incredible%20Sex%2C%20and%20Becoming%20Superhuman%20%28675%29/The%204-Hour%20Body_%20An%20Uncommon%20Guide%20to%20Rapi%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Body_%20An%20Uncommon%20Guide%20to%20Rapid%20Fat-Loss%2C%20Incredible%20Sex%2C%20and%20Becoming%20Superhuman%20%28675%29/The%204-Hour%20Body_%20An%20Uncommon%20Guide%20to%20Rapi%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Timothy Ferriss</name>
+      <uri>../author_0/author_192_Page_1.xml</uri>
+    </author>
+    <published>2010-12-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="#genre" />
+    <category term="Lang:en" />
+    <summary>Thinner, bigger, faster, stronger... which 150 pages will you read? Is it possible to: Reach your genetic potential in 6 months? Sleep 2 hours per day and perform better than on 8 hours? Lose more fat than a marathoner by bingeing?   Indeed, and much...</summary>
+    <link href="../book_0/book_675.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated</title>
+    <id>calibre:book:691</id>
+    <updated>2020-03-28T07:18:15Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anywhere%2C%20and%20Join%20the%20New%20Rich%20-%20Expanded%20and%20Updated%20%28691%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anywhere%2C%20and%20Join%20the%20New%20Rich%20-%20Expanded%20and%20Updated%20%28691%29/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anyw%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anywhere%2C%20and%20Join%20the%20New%20Rich%20-%20Expanded%20and%20Updated%20%28691%29/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anyw%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Timothy Ferriss</name>
+      <uri>../author_0/author_192_Page_1.xml</uri>
+    </author>
+    <published>2009-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_691.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tools of Titans</title>
+    <id>calibre:book:466</id>
+    <updated>2020-03-28T07:19:19Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Ferriss</name>
+      <uri>../author_0/author_192_Page_1.xml</uri>
+    </author>
+    <published>2016-10-25T06:21:22Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The latest groundbreaking tome from Tim Ferriss, the #1 New York Times best-selling author of The 4-Hour Workweek. From the author:  "For the last two years, I've interviewed nearly two hundred world-class performers for my podcast, The Tim Ferriss S...</summary>
+    <link href="../book_0/book_466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tribe of Mentors</title>
+    <id>calibre:book:465</id>
+    <updated>2020-03-28T07:19:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/Tribe%20of%20Mentors%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/Tribe%20of%20Mentors%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/Tribe%20of%20Mentors%20-%20Timothy%20Ferriss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Ferriss</name>
+      <uri>../author_0/author_192_Page_1.xml</uri>
+    </author>
+    <published>2017-11-20T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>We All Need Mentors. Here Are More than 100 of the World's Best. When facing life's questions, who do you turn to for advice? We all need mentors, particularly when the odds seem stacked against us. For this book, best-selling author Tim Ferriss trac...</summary>
+    <link href="../book_0/book_465.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

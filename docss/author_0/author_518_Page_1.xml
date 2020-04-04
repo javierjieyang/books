@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>AQR</title>
+  <id>Calibre2opds:author:518</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_518_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="AQR" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Smart Beta- Not New Not Beta Still Awesome</title>
+    <id>calibre:book:539</id>
+    <updated>2020-03-29T01:48:49Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/AQR/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20%28539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/AQR/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20%28539%29/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20-%20AQR.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/AQR/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20%28539%29/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20-%20AQR.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>AQR</name>
+      <uri>../author_0/author_518_Page_1.xml</uri>
+    </author>
+    <published>2014-09-12T06:26:30Z</published>
+    <link href="../book_0/book_539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

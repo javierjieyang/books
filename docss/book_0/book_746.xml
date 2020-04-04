@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Diary of a Nobody</title>
+  <id>urn:book:fc389968-a05d-4018-a5ae-3bf6e00384b0</id>
+  <updated>2020-04-04T01:39:36Z</updated>
+  <link href="./book_746.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Diary of a Nobody" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Grossmith%2C%20Weedon%20Grossmith/The%20Diary%20of%20a%20Nobody%20%28746%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Grossmith%2C%20Weedon%20Grossmith/The%20Diary%20of%20a%20Nobody%20%28746%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Grossmith%2C%20Weedon%20Grossmith/The%20Diary%20of%20a%20Nobody%20%28746%29/The%20Diary%20of%20a%20Nobody%20-%20George%20Grossmith%2C%20Weedon%20Grossmith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>George Grossmith, Weedon Grossmith</name>
+    <uri>../author_0/author_555_Page_1.xml</uri>
+  </author>
+  <published>2008-11-03T00:17:58Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 4, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      April 4, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Diary%20of%20a%20Nobody" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Diary%20of%20a%20Nobody" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Diary%20of%20a%20Nobody%20George%20Grossmith%2C%20Weedon%20Grossmith" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Diary%20of%20a%20Nobody&amp;field-author=George%20Grossmith%2C%20Weedon%20Grossmith" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/George%20Grossmith%2C%20Weedon%20Grossmith" type="text/html" rel="related" title="George Grossmith, Weedon Grossmith on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/George%20Grossmith%2C%20Weedon%20Grossmith" type="text/html" rel="related" title="George Grossmith, Weedon Grossmith on Wikipedia" />
+  <link href="http://www.librarything.com/author/GeorgeGrossmithWeedonGrossmith" type="text/html" rel="related" title="George Grossmith, Weedon Grossmith on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=George%20Grossmith%2C%20Weedon%20Grossmith" type="text/html" rel="related" title="George Grossmith, Weedon Grossmith on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?George%20Grossmith%2C%20Weedon%20Grossmith" type="text/html" rel="related" title="George Grossmith, Weedon Grossmith on ISFDB" />
+</entry>

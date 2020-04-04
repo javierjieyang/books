@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>It Doesn't Have to Be Crazy at Work</title>
+  <id>urn:book:5cc6447a-0a80-43e4-9953-a18d7e03916e</id>
+  <updated>2020-03-28T07:20:13Z</updated>
+  <link href="./book_644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="It Doesn't Have to Be Crazy at Work" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20-%20Jason%20Fried.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20-%20Jason%20Fried.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Jason Fried</name>
+    <uri>../author_0/author_394_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>David Heinemeier Hansson</name>
+    <uri>../author_0/author_395_Page_1.xml</uri>
+  </author>
+  <published>2018-10-01T09:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperBusiness</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      HarperBusiness
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20Jason%20Fried" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work&amp;field-author=Jason%20Fried" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jason%20Fried" type="text/html" rel="related" title="Jason Fried on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/David%20Heinemeier%20Hansson" type="text/html" rel="related" title="David Heinemeier Hansson on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jason%20Fried" type="text/html" rel="related" title="Jason Fried on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/David%20Heinemeier%20Hansson" type="text/html" rel="related" title="David Heinemeier Hansson on Wikipedia" />
+  <link href="http://www.librarything.com/author/FriedJason" type="text/html" rel="related" title="Jason Fried on LibraryThing" />
+  <link href="http://www.librarything.com/author/HanssonDavidHeinemeier" type="text/html" rel="related" title="David Heinemeier Hansson on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jason%20Fried" type="text/html" rel="related" title="Jason Fried on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=David%20Heinemeier%20Hansson" type="text/html" rel="related" title="David Heinemeier Hansson on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jason%20Fried" type="text/html" rel="related" title="Jason Fried on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?David%20Heinemeier%20Hansson" type="text/html" rel="related" title="David Heinemeier Hansson on ISFDB" />
+</entry>

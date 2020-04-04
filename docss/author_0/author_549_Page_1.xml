@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Muriel Spark</title>
+  <id>Calibre2opds:author:549</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_549_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Muriel Spark" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>The Prime of Miss Jean Brodie *****</title>
+    <id>calibre:book:759</id>
+    <updated>2020-04-04T01:39:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Muriel Spark</name>
+      <uri>../author_0/author_549_Page_1.xml</uri>
+    </author>
+    <published>2011-04-17T10:00:00Z</published>
+    <dcterms:publisher>219</dcterms:publisher>
+    <category term="goldenlist" />
+    <category term="ENGL" />
+    <category term="novela" />
+    <category term="PDF_file" />
+    <summary>Review
+"A gloriously witty and polished vignette." -- -- Times Literary Supplement
+
+"A perfect book." -- -- Chicago Tribune
+
+"Admirably written, beautifully constructed, extremely amusing, and deeply serious." -- -- Saturday Review
+
+"A gloriously wit...</summary>
+    <link href="../book_0/book_759.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

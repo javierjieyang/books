@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</title>
+  <id>urn:book:736dc568-fb5c-4038-b39d-1be821d888bf</id>
+  <updated>2019-12-07T00:47:25Z</updated>
+  <link href="./book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Cal Newport</name>
+    <uri>../author_0/author_197_Page_1.xml</uri>
+  </author>
+  <published>2012-09-17T06:30:00Z</published>
+  <category term="Business &amp; Economics / Careers - Job Hunting" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Business &amp; Economics / Careers - Job Hunting
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 12, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/So%20Good%20They%20Can%27t%20Ignore%20You%3A%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/So%20Good%20They%20Can%27t%20Ignore%20You%3A%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/So%20Good%20They%20Can%27t%20Ignore%20You%3A%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20Cal%20Newport" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=So%20Good%20They%20Can%27t%20Ignore%20You%3A%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love&amp;field-author=Cal%20Newport" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Cal%20Newport" type="text/html" rel="related" title="Cal Newport on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Cal%20Newport" type="text/html" rel="related" title="Cal Newport on Wikipedia" />
+  <link href="http://www.librarything.com/author/NewportCal" type="text/html" rel="related" title="Cal Newport on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Cal%20Newport" type="text/html" rel="related" title="Cal Newport on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Cal%20Newport" type="text/html" rel="related" title="Cal Newport on ISFDB" />
+</entry>

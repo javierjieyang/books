@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>David Allen</title>
+  <id>Calibre2opds:author:97</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="David Allen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <entry>
+    <title>Getting Things Done</title>
+    <id>calibre:book:155</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David Allen</name>
+      <uri>../author_0/author_97_Page_1.xml</uri>
+    </author>
+    <published>2004-04-06T11:50:48Z</published>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

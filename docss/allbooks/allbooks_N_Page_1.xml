@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with N</title>
+  <id>Calibre2opds:allbooks:N</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with N" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Naked Statistics: Stripping the Dread from the Data</title>
+    <id>calibre:book:58</id>
+    <updated>2020-03-28T08:04:42Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Charles Wheelan</name>
+      <uri>../author_0/author_49_Page_1.xml</uri>
+    </author>
+    <published>2013-01-07T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Norton</dcterms:publisher>
+    <category term="Statistics" />
+    <category term="Decision-Making &amp; Problem Solving" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Nature of Technology</title>
+    <id>calibre:book:662</id>
+    <updated>2020-03-28T06:59:49Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/W.%20Brian%20Arthur/The%20Nature%20of%20Technology%20%28662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/W.%20Brian%20Arthur/The%20Nature%20of%20Technology%20%28662%29/The%20Nature%20of%20Technology%20-%20W.%20Brian%20Arthur.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/W.%20Brian%20Arthur/The%20Nature%20of%20Technology%20%28662%29/The%20Nature%20of%20Technology%20-%20W.%20Brian%20Arthur.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>W. Brian Arthur</name>
+      <uri>../author_0/author_410_Page_1.xml</uri>
+    </author>
+    <published>2009-08-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Adult</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The Nature of Technology will change the way you think about this fundamental subject forever. W. Brian Arthur's many years of thinking and writing about technology have culminated in a unique understanding of his subject. Here he examines the nature...</summary>
+    <link href="../book_0/book_662.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nazi Literature in the Americas</title>
+    <id>calibre:book:356</id>
+    <updated>2020-03-28T07:02:59Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Bolaño, Roberto</name>
+      <uri>../author_0/author_127_Page_1.xml</uri>
+    </author>
+    <published>2009-05-29T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New Directions</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_356.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Neapolitan Novels Boxed Set</title>
+    <id>calibre:book:435</id>
+    <updated>2020-03-28T07:18:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Elena Ferrante</name>
+      <uri>../author_0/author_179_Page_1.xml</uri>
+    </author>
+    <published>2015-08-05T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Europa</dcterms:publisher>
+    <category term="Novel" />
+    <category term="Lang:en" />
+    <summary>"Nothing quite like this has ever been published before," proclaimed The Guardian about the Neapolitan novels in 2014. Against the backdrop of a Naples that is as seductive as it is perilous and a world undergoing epochal change, Elena Ferrante tells...</summary>
+    <link href="../book_0/book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time</title>
+    <id>calibre:book:542</id>
+    <updated>2020-03-28T07:17:15Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20-%20Keith%20Ferrazzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20-%20Keith%20Ferrazzi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Keith Ferrazzi</name>
+      <uri>../author_0/author_290_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Tahl Raz</name>
+      <uri>../author_0/author_291_Page_1.xml</uri>
+    </author>
+    <published>2014-06-02T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nietzsche: The Birth of Tragedy and Other Writings (Cambridge Texts in the History of Philosophy)</title>
+    <id>calibre:book:392</id>
+    <updated>2019-12-07T00:47:21Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20-%20Friedrich%20Nietzsche.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Friedrich Nietzsche</name>
+      <uri>../author_0/author_142_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T11:16:27Z</published>
+    <category term="9780521630160" />
+    <category term="9780521639873" />
+    <category term="0521630169" />
+    <category term="0521639875" />
+    <summary>Cambridge University Press</summary>
+    <link href="../book_0/book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nightmare Abbey</title>
+    <id>calibre:book:747</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/Nightmare%20Abbey%20-%20Thomas%20Love%20Peacock.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Thomas Love Peacock</name>
+      <uri>../author_0/author_554_Page_1.xml</uri>
+    </author>
+    <published>2007-03-02T04:48:26Z</published>
+    <link href="../book_0/book_747.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)</title>
+    <id>calibre:book:494</id>
+    <updated>2020-03-28T07:46:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marshall B. Rosenberg</name>
+      <uri>../author_0/author_204_Page_1.xml</uri>
+    </author>
+    <published>2015-08-31T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Puddledancer Press</dcterms:publisher>
+    <category term="1. Interpersonal communication. 2. Interpersonal relations. 3. Nonviolence." />
+    <category term="Lang:en" />
+    <summary>The latest edition of the communication guide that has sold more than 1,000,000 copiesAn enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller...</summary>
+    <link href="../book_0/book_494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Numerical Optimization</title>
+    <id>calibre:book:537</id>
+    <updated>2019-12-07T00:47:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/Numerical%20Optimization%20-%20Jorge%20Nocedal%2C%20Stephen%20J.%20Wright.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/Numerical%20Optimization%20-%20Jorge%20Nocedal%2C%20Stephen%20J.%20Wright.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jorge Nocedal, Stephen J. Wright</name>
+      <uri>../author_0/author_495_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_537.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nventing Money The Story of Long-Term Capital Management &amp; the Legends Behind It</title>
+    <id>calibre:book:553</id>
+    <updated>2019-12-07T00:47:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nicholas%20Dunbar/nventing%20Money%20The%20Story%20of%20Long-Term%20Capital%20Management%20%26%20the%20Legends%20Behind%20It%20%28553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nicholas%20Dunbar/nventing%20Money%20The%20Story%20of%20Long-Term%20Capital%20Management%20%26%20the%20Legends%20Behind%20It%20%28553%29/nventing%20Money%20The%20Story%20of%20Long-Term%20Capi%20-%20Nicholas%20Dunbar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nicholas%20Dunbar/nventing%20Money%20The%20Story%20of%20Long-Term%20Capital%20Management%20%26%20the%20Legends%20Behind%20It%20%28553%29/nventing%20Money%20The%20Story%20of%20Long-Term%20Capi%20-%20Nicholas%20Dunbar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nicholas Dunbar</name>
+      <uri>../author_0/author_345_Page_1.xml</uri>
+    </author>
+    <published>2001-06-01T01:46:39Z</published>
+    <dcterms:publisher>John Wiley &amp; Sons</dcterms:publisher>
+    <summary>I-</summary>
+    <link href="../book_0/book_553.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Shoshana Zuboff</title>
+  <id>Calibre2opds:author:437</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_437_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Shoshana Zuboff" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <entry>
+    <title>The Age of Surveillance Capitalism</title>
+    <id>calibre:book:690</id>
+    <updated>2020-03-29T02:11:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/The%20Age%20of%20Surveillance%20Capitalism%20-%20Shoshana%20Zuboff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/The%20Age%20of%20Surveillance%20Capitalism%20-%20Shoshana%20Zuboff.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shoshana Zuboff</name>
+      <uri>../author_0/author_437_Page_1.xml</uri>
+    </author>
+    <published>2019-01-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PublicAffairs</dcterms:publisher>
+    <category term="Capitalism" />
+    <category term="Technology" />
+    <category term="Lang:en" />
+    <summary>The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called "surveillance capitalism," and the quest by powerful corporations to predict and control our behavior.Shoshana Zuboff's i...</summary>
+    <link href="../book_0/book_690.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

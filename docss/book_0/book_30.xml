@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>We</title>
+  <id>urn:book:0b29914e-a9ff-4273-906d-72342f7ae008</id>
+  <updated>2019-12-07T00:47:27Z</updated>
+  <link href="./book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="We" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Y" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yevgeny%20Zamyatin%2C%20Clarence%20Brown/We%20%2830%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yevgeny%20Zamyatin%2C%20Clarence%20Brown/We%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yevgeny%20Zamyatin%2C%20Clarence%20Brown/We%20%2830%29/We%20-%20Yevgeny%20Zamyatin%2C%20Clarence%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yevgeny%20Zamyatin%2C%20Clarence%20Brown/We%20%2830%29/We%20-%20Yevgeny%20Zamyatin%2C%20Clarence%20Brown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Yevgeny%20Zamyatin%2C%20Clarence%20Brown/We%20%2830%29/We%20-%20Yevgeny%20Zamyatin%2C%20Clarence%20Brown.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Yevgeny Zamyatin, Clarence Brown</name>
+    <uri>../author_0/author_237_Page_1.xml</uri>
+  </author>
+  <published>1993-07-31T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Classic</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Classic
+    </p>
+    <p>
+      <strong>Added:</strong>
+      May 13, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      August 28, 2018
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/We" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/We" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/We%20Yevgeny%20Zamyatin%2C%20Clarence%20Brown" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=We&amp;field-author=Yevgeny%20Zamyatin%2C%20Clarence%20Brown" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Yevgeny%20Zamyatin%2C%20Clarence%20Brown" type="text/html" rel="related" title="Yevgeny Zamyatin, Clarence Brown on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Yevgeny%20Zamyatin%2C%20Clarence%20Brown" type="text/html" rel="related" title="Yevgeny Zamyatin, Clarence Brown on Wikipedia" />
+  <link href="http://www.librarything.com/author/YevgenyZamyatinClarenceBrown" type="text/html" rel="related" title="Yevgeny Zamyatin, Clarence Brown on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Yevgeny%20Zamyatin%2C%20Clarence%20Brown" type="text/html" rel="related" title="Yevgeny Zamyatin, Clarence Brown on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Yevgeny%20Zamyatin%2C%20Clarence%20Brown" type="text/html" rel="related" title="Yevgeny Zamyatin, Clarence Brown on ISFDB" />
+</entry>

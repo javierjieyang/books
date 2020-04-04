@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The unreasonable effectiveness of mathematics in the natural sciences.</title>
+  <id>urn:book:187bb36a-a856-492d-bbe7-125182431e12</id>
+  <updated>2020-03-28T08:09:19Z</updated>
+  <link href="./book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The unreasonable effectiveness of mathematics in the natural sciences." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Eugene P. Wigner</name>
+    <uri>../author_0/author_236_Page_1.xml</uri>
+  </author>
+  <published>1959-05-11T03:44:02Z</published>
+  <dcterms:publisher>New York University, May 11, 1959</dcterms:publisher>
+  <category term="Essays" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Essays
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      New York University, May 11, 1959
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 12, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 29, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences." type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences." type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences.%20Eugene%20P.%20Wigner" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences.&amp;field-author=Eugene%20P.%20Wigner" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Eugene%20P.%20Wigner" type="text/html" rel="related" title="Eugene P. Wigner on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Eugene%20P.%20Wigner" type="text/html" rel="related" title="Eugene P. Wigner on Wikipedia" />
+  <link href="http://www.librarything.com/author/WignerEugeneP." type="text/html" rel="related" title="Eugene P. Wigner on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Eugene%20P.%20Wigner" type="text/html" rel="related" title="Eugene P. Wigner on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Eugene%20P.%20Wigner" type="text/html" rel="related" title="Eugene P. Wigner on ISFDB" />
+</entry>

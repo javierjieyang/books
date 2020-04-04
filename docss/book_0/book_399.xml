@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The People Vs Tech</title>
+  <id>urn:book:12d9aae5-469d-4b39-8bf9-c38deddad9bb</id>
+  <updated>2020-03-28T07:01:28Z</updated>
+  <link href="./book_399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The People Vs Tech" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Jamie Bartlett</name>
+    <uri>../author_0/author_146_Page_1.xml</uri>
+  </author>
+  <published>2018-04-05T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin Publishing Group
+    </p>
+    <p>
+      <strong>Added:</strong>
+      July 29, 2018
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <b xmlns="">In the ongoing waves of the Facebook scandal, this is the book
+  that explains all the dangers of the digital revolution, and how
+  our mountains of personal cyberdata are being mined by everyone
+  from our own governments and political parties to big business to
+  exploit our trust and threaten our freedom.</b>
+    <br xmlns="" />
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20People%20Vs%20Tech" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20People%20Vs%20Tech" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20People%20Vs%20Tech%20Jamie%20Bartlett" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20People%20Vs%20Tech&amp;field-author=Jamie%20Bartlett" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jamie%20Bartlett" type="text/html" rel="related" title="Jamie Bartlett on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jamie%20Bartlett" type="text/html" rel="related" title="Jamie Bartlett on Wikipedia" />
+  <link href="http://www.librarything.com/author/BartlettJamie" type="text/html" rel="related" title="Jamie Bartlett on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jamie%20Bartlett" type="text/html" rel="related" title="Jamie Bartlett on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jamie%20Bartlett" type="text/html" rel="related" title="Jamie Bartlett on ISFDB" />
+</entry>

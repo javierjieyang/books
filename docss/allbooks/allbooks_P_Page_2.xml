@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with P</title>
+  <id>Calibre2opds:allbooks:P</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>The Prince</title>
+    <id>calibre:book:112</id>
+    <updated>2019-12-07T00:47:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nicolo%20Machiavelli/The%20Prince%20%28112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nicolo Machiavelli</name>
+      <uri>../author_0/author_89_Page_1.xml</uri>
+    </author>
+    <published>1532-08-27T06:30:00Z</published>
+    <summary>Download classic literature as completely free eBooks from Planet eBook.</summary>
+    <link href="../book_0/book_112.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Principles: Life and Work</title>
+    <id>calibre:book:71</id>
+    <updated>2020-03-28T07:10:02Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ray Dalio</name>
+      <uri>../author_0/author_60_Page_1.xml</uri>
+    </author>
+    <published>2017-09-18T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Profiles of the Future</title>
+    <id>calibre:book:571</id>
+    <updated>2020-03-28T07:07:15Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/Profiles%20of%20the%20Future%20-%20Arthur%20C.%20Clarke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/Profiles%20of%20the%20Future%20-%20Arthur%20C.%20Clarke.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arthur C. Clarke</name>
+      <uri>../author_0/author_328_Page_1.xml</uri>
+    </author>
+    <published>2011-09-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orion Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_571.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Programming for the Puzzled</title>
+    <id>calibre:book:524</id>
+    <updated>2020-03-28T07:12:00Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/Programming%20for%20the%20Puzzled%20-%20Srini%20Devadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/Programming%20for%20the%20Puzzled%20-%20Srini%20Devadas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Srini Devadas</name>
+      <uri>../author_0/author_276_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The MIT Press</dcterms:publisher>
+    <category term="computer science; programming languages; problems; algorithms; Python; coding; data structures; optimization; software engineering; recursion; Divide and Conquer; greedy algorithm; exhaustive search; backtracking; case analysis; information; encoding information; decoding information; functions; control flow; hashing; hash tables; radix representation; conflict detection; implication; binary search; bisection search; independent set; set covering; Decrease-by-One search; pivoting; in-place algorithm; Object-oriented programming; breadth-first search; depth-first search; graph; graph traversal; Binary Search Trees" />
+    <category term="Lang:en" />
+    <summary>Learning programming with one of “the coolest applications around“: algorithmic puzzles ranging from scheduling selfie time to verifying the six degrees of separation hypothesis.</summary>
+    <link href="../book_0/book_524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prolog: Clause and Effect</title>
+    <id>calibre:book:547</id>
+    <updated>2020-03-29T01:14:29Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20William%20F.%20Clocksin/Prolog_%20Clause%20and%20Effect%20%28547%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20William%20F.%20Clocksin/Prolog_%20Clause%20and%20Effect%20%28547%29/Prolog_%20Clause%20and%20Effect%20-%20Dr.%20William%20F.%20Clocksin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20William%20F.%20Clocksin/Prolog_%20Clause%20and%20Effect%20%28547%29/Prolog_%20Clause%20and%20Effect%20-%20Dr.%20William%20F.%20Clocksin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Dr. William F. Clocksin</name>
+      <uri>../author_0/author_496_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_547.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Propaganda</title>
+    <id>calibre:book:512</id>
+    <updated>2020-03-28T07:02:17Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20Bernays/Propaganda%20%28512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Edward Bernays</name>
+      <uri>../author_0/author_262_Page_1.xml</uri>
+    </author>
+    <published>2010-07-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>IG Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Psilocybin, Magic Mushroom Grower's Guide A Handbook for Psilocybin Enthusiasts-And Or Press ()</title>
+    <id>calibre:book:636</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obscure/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20A%20Handbook%20for%20Psilocybin%20Enthusiasts-And%20Or%20Press%20%28%29%20%28636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obscure/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20A%20Handbook%20for%20Psilocybin%20Enthusiasts-And%20Or%20Press%20%28%29%20%28636%29/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20-%20O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obsc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>O. T Oss, O N Oeric, Kat, Irimias the Obscure</name>
+      <uri>../author_0/author_470_Page_1.xml</uri>
+    </author>
+    <published>1976-09-20T04:54:40Z</published>
+    <link href="../book_0/book_636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead (1964)</title>
+    <id>calibre:book:65</id>
+    <updated>2020-03-28T07:29:07Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Leary</name>
+      <uri>../author_0/author_55_Page_1.xml</uri>
+    </author>
+    <published>2015-05-13T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Progressive Press</dcterms:publisher>
+    <category term="Timothy Leary" />
+    <category term="Lang:en" />
+    <summary>Timothy Leary The Psychedelic Experience</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

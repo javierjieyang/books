@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Michael T. Osterholm, Mark Olshaker</title>
+  <id>Calibre2opds:author:479</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_479_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Michael T. Osterholm, Mark Olshaker" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Deadliest Enemy: Our War Against Killer Germs</title>
+    <id>calibre:book:728</id>
+    <updated>2020-03-28T07:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael T. Osterholm, Mark Olshaker</name>
+      <uri>../author_0/author_479_Page_1.xml</uri>
+    </author>
+    <published>2017-03-14T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="Medical / Infectious Diseases" />
+    <category term="Medical / Epidemiology" />
+    <category term="Medical / Public Health" />
+    <category term="Science / Life Sciences / Biology" />
+    <category term="Lang:en" />
+    <summary>A world-leading epidemiologist shares his stories from the front  lines of our war on infectious diseases and explains how to prepare for  epidemics that can challenge world order.</summary>
+    <link href="../book_0/book_728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

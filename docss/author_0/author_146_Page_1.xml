@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jamie Bartlett</title>
+  <id>Calibre2opds:author:146</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_146_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jamie Bartlett" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>The People Vs Tech</title>
+    <id>calibre:book:399</id>
+    <updated>2020-03-28T07:01:28Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jamie Bartlett</name>
+      <uri>../author_0/author_146_Page_1.xml</uri>
+    </author>
+    <published>2018-04-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the ongoing waves of the Facebook scandal, this is the book that explains all the dangers of the digital revolution, and how our mountains of personal cyberdata are being mined by everyone from our own governments and political parties to big busi...</summary>
+    <link href="../book_0/book_399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Radicals Chasing Utopia</title>
+    <id>calibre:book:402</id>
+    <updated>2020-03-28T07:01:19Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/Radicals%20Chasing%20Utopia%20-%20Jamie%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/Radicals%20Chasing%20Utopia%20-%20Jamie%20Bartlett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/Radicals%20Chasing%20Utopia%20-%20Jamie%20Bartlett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jamie Bartlett</name>
+      <uri>../author_0/author_146_Page_1.xml</uri>
+    </author>
+    <published>2017-06-13T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PublicAffairs</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>&amp;#147;The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." &amp;#8212;George Bernard ShawWithin each society are sub-cultures&amp;#821...</summary>
+    <link href="../book_0/book_402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

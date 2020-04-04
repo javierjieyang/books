@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Herman Melville</title>
+  <id>Calibre2opds:author:156</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_156_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Herman Melville" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <entry>
+    <title>Moby Dick ***</title>
+    <id>calibre:book:409</id>
+    <updated>2020-03-28T07:33:14Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herman%20Melville/Moby%20Dick%20%28409%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herman%20Melville/Moby%20Dick%20%28409%29/Moby%20Dick%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herman%20Melville/Moby%20Dick%20%28409%29/Moby%20Dick%20-%20Herman%20Melville.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herman%20Melville/Moby%20Dick%20%28409%29/Moby%20Dick%20-%20Herman%20Melville.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Herman Melville</name>
+      <uri>../author_0/author_156_Page_1.xml</uri>
+    </author>
+    <published>2003-11-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Classics</dcterms:publisher>
+    <category term="Romance" />
+    <category term="General" />
+    <category term="Literary" />
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="Technology &amp; Engineering" />
+    <category term="Literary Criticism" />
+    <category term="Sailors" />
+    <category term="American" />
+    <category term="Ship captains" />
+    <category term="Mentally ill" />
+    <category term="Shipwrecks" />
+    <category term="Ahab; Captain (Fictitious character)" />
+    <category term="Whaling" />
+    <category term="Whaling ships" />
+    <category term="Whales" />
+    <category term="Fisheries &amp; Aquaculture" />
+    <category term="Lang:en" />
+    <summary>On board the whaling ship Pequod, a crew of wise men and fools, renegades, and seeming phantoms is hurled through treacherous seas by a crazed captain hell-bent on hunting down the mythic White Whale. As the "great flood-gates of the wonder-world" sw...</summary>
+    <link href="../book_0/book_409.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

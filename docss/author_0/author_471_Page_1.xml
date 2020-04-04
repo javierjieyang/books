@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>John Gall</title>
+  <id>Calibre2opds:author:471</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_471_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="John Gall" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>Systemantics How Systems Work &amp; Especially How They Fail</title>
+    <id>calibre:book:625</id>
+    <updated>2020-03-28T11:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gall/Systemantics%20How%20Systems%20Work%20%26%20Especially%20How%20They%20Fail%20%28625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Gall/Systemantics%20How%20Systems%20Work%20%26%20Especially%20How%20They%20Fail%20%28625%29/Systemantics%20How%20Systems%20Work%20%26%20Especially%20-%20John%20Gall.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Gall</name>
+      <uri>../author_0/author_471_Page_1.xml</uri>
+    </author>
+    <published>1978-02-28T06:30:00Z</published>
+    <dcterms:publisher>Wildwood House</dcterms:publisher>
+    <link href="../book_0/book_625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

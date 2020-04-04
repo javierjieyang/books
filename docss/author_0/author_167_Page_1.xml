@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Graham Robb</title>
+  <id>Calibre2opds:author:167</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Graham Robb" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <entry>
+    <title>The Discovery of France</title>
+    <id>calibre:book:419</id>
+    <updated>2020-03-28T07:46:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/The%20Discovery%20of%20France%20-%20Graham%20Robb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/The%20Discovery%20of%20France%20-%20Graham%20Robb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/The%20Discovery%20of%20France%20-%20Graham%20Robb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Graham Robb</name>
+      <uri>../author_0/author_167_Page_1.xml</uri>
+    </author>
+    <published>2013-01-02T11:01:43Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Picador</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_419.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

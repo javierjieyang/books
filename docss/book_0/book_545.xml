@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two</title>
+  <id>urn:book:9628dc16-d32f-495a-aedc-cadc28e19be6</id>
+  <updated>2019-12-07T00:47:18Z</updated>
+  <link href="./book_545.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Al%20Ries%2C%20Jack%20Trout/The%2022%20Immutable%20Laws%20of%20Marketing_%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20%28545%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Al%20Ries%2C%20Jack%20Trout/The%2022%20Immutable%20Laws%20of%20Marketing_%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20%28545%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Al%20Ries%2C%20Jack%20Trout/The%2022%20Immutable%20Laws%20of%20Marketing_%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20%28545%29/The%2022%20Immutable%20Laws%20of%20Marketing_%20Expose%20-%20Al%20Ries%2C%20Jack%20Trout.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Al%20Ries%2C%20Jack%20Trout/The%2022%20Immutable%20Laws%20of%20Marketing_%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20%28545%29/The%2022%20Immutable%20Laws%20of%20Marketing_%20Expose%20-%20Al%20Ries%2C%20Jack%20Trout.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Al Ries, Jack Trout</name>
+    <uri>../author_0/author_484_Page_1.xml</uri>
+  </author>
+  <published>2009-10-12T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Harper Collins</dcterms:publisher>
+  <category term="Business &amp; Economics" />
+  <category term="Marketing" />
+  <category term="General" />
+  <category term="Industrial" />
+  <category term="International" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Business &amp; Economics, Marketing, General, Industrial, International, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Harper Collins
+    </p>
+    <p>
+      <strong>Added:</strong>
+      January 27, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Two world-renowned marketing consultants
+    and bestselling authors present the definitive rules of
+    marketing.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%2022%20Immutable%20Laws%20of%20Marketing%3A%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%2022%20Immutable%20Laws%20of%20Marketing%3A%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%2022%20Immutable%20Laws%20of%20Marketing%3A%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20Al%20Ries%2C%20Jack%20Trout" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%2022%20Immutable%20Laws%20of%20Marketing%3A%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two&amp;field-author=Al%20Ries%2C%20Jack%20Trout" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Al%20Ries%2C%20Jack%20Trout" type="text/html" rel="related" title="Al Ries, Jack Trout on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Al%20Ries%2C%20Jack%20Trout" type="text/html" rel="related" title="Al Ries, Jack Trout on Wikipedia" />
+  <link href="http://www.librarything.com/author/AlRiesJackTrout" type="text/html" rel="related" title="Al Ries, Jack Trout on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Al%20Ries%2C%20Jack%20Trout" type="text/html" rel="related" title="Al Ries, Jack Trout on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Al%20Ries%2C%20Jack%20Trout" type="text/html" rel="related" title="Al Ries, Jack Trout on ISFDB" />
+</entry>

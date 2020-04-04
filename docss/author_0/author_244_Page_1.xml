@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Richard S. Sutton , Andrew G. Barto</title>
+  <id>Calibre2opds:author:244</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_244_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Richard S. Sutton , Andrew G. Barto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <entry>
+    <title>Reinforcement Learning : An Introduction</title>
+    <id>calibre:book:175</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Richard S. Sutton , Andrew G. Barto</name>
+      <uri>../author_0/author_244_Page_1.xml</uri>
+    </author>
+    <published>2018-01-27T06:30:00Z</published>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <link href="../book_0/book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

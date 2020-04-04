@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dr. Sue Johnson</title>
+  <id>Calibre2opds:author:391</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_391_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dr. Sue Johnson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <entry>
+    <title>Hold Me Tight: Seven Conversations for a Lifetime of Love</title>
+    <id>calibre:book:641</id>
+    <updated>2020-03-28T07:56:02Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20L%20-%20Dr.%20Sue%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20L%20-%20Dr.%20Sue%20Johnson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Dr. Sue Johnson</name>
+      <uri>../author_0/author_391_Page_1.xml</uri>
+    </author>
+    <published>2008-04-08T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="FAM000000" />
+    <category term="Lang:en" />
+    <summary>Heralded by the New York Times and Time magazine as the couple therapy with the highest rate of success, Emotionally Focused Therapy works because it views the love relationship as an attachment bond. This idea, once controversial, is now supported b...</summary>
+    <link href="../book_0/book_641.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

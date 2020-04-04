@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Model Thinker</title>
+  <id>urn:book:aa731972-3d02-4eb0-bbc6-767b63b5215e</id>
+  <updated>2020-03-28T07:40:09Z</updated>
+  <link href="./book_699.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Model Thinker" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20E.%20Page/The%20Model%20Thinker%20%28699%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20E.%20Page/The%20Model%20Thinker%20%28699%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20E.%20Page/The%20Model%20Thinker%20%28699%29/The%20Model%20Thinker%20-%20Scott%20E.%20Page.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20E.%20Page/The%20Model%20Thinker%20%28699%29/The%20Model%20Thinker%20-%20Scott%20E.%20Page.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Scott E. Page</name>
+    <uri>../author_0/author_443_Page_1.xml</uri>
+  </author>
+  <published>2018-11-27T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Basic Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Basic Books
+    </p>
+    <p>
+      <strong>Added:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      March 28, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      <b>How anyone can become a data ninja</b>
+      <br />
+      From the stock market to genomics laboratories, census
+    figures to marketing email blasts, we are awash with data. But
+    as anyone who has ever opened up a spreadsheet packed with
+    seemingly infinite lines of data knows, numbers aren't enough:
+    we need to know how to make those numbers talk. In
+      <i>The Model Thinker</i>
+      , social scientist Scott E. Page shows
+    us the mathematical, statistical, and computational
+    models—from linear regression to random walks and far
+    beyond—that can turn anyone into a genius. At the core of
+    the book is Page's "many-model paradigm," which shows the
+    reader how to apply multiple models to organize the data,
+    leading to wiser choices, more accurate predictions, and more
+    robust designs.
+      <i>The Model Thinker</i>
+      provides a toolkit for business
+    people, students, scientists, pollsters, and bloggers to make
+    them better, clearer thinkers, able to leverage data and
+    information to their advantage.
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Model%20Thinker" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Model%20Thinker" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Model%20Thinker%20Scott%20E.%20Page" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Model%20Thinker&amp;field-author=Scott%20E.%20Page" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Scott%20E.%20Page" type="text/html" rel="related" title="Scott E. Page on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Scott%20E.%20Page" type="text/html" rel="related" title="Scott E. Page on Wikipedia" />
+  <link href="http://www.librarything.com/author/PageScottE." type="text/html" rel="related" title="Scott E. Page on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Scott%20E.%20Page" type="text/html" rel="related" title="Scott E. Page on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Scott%20E.%20Page" type="text/html" rel="related" title="Scott E. Page on ISFDB" />
+</entry>
