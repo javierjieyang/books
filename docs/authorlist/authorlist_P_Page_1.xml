@@ -13,6 +13,14 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
+    <title>Paul Auster</title>
+    <id>Calibre2opds:author:552</id>
+    <content type="text">City of Glass</content>
+    <link href="../author_0/author_552_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Peter Bevelin</title>
     <id>Calibre2opds:author:356</id>
     <content type="text">1 book</content>
@@ -33,6 +41,14 @@
     <id>Calibre2opds:author:275</id>
     <content type="text">Other Minds</content>
     <link href="../author_0/author_275_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Primo Levi</title>
+    <id>Calibre2opds:author:530</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_530_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

@@ -386,4 +386,23 @@ The #1 New York Times bestseller: a brilliant account—character-rich and darkl
     <summary>A timely examination by a leading scientist of the physical, psychological, and moral effects of inequality.  Today's inequality is on a scale that none of us has seen in our lifetimes, yet this disparity between rich and poor has ramifications that ...</summary>
     <link href="../book_0/book_559.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
+  <entry>
+    <title>A bend in the river ****</title>
+    <id>calibre:book:753</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>V. S. Naipaul</name>
+      <uri>../author_0/author_533_Page_1.xml</uri>
+    </author>
+    <published>1999-07-14T10:00:00Z</published>
+    <dcterms:publisher>G.K. Hall</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Unread" />
+    <summary>EDITORIAL REVIEW:
+
+'Brilliant and terrifying' - "Observer". I had to be the man who was doing well and more than well, the man whose drab shop concealed some bigger operation that made millions. I had to be the man who had planned it all, who had com...</summary>
+    <link href="../book_0/book_753.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
 </feed>

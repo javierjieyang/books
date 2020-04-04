@@ -13,6 +13,19 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <entry>
+    <title>Vanity Fair</title>
+    <id>calibre:book:748</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Makepeace%20Thackeray/Vanity%20Fair%20%28748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Makepeace%20Thackeray/Vanity%20Fair%20%28748%29/Vanity%20Fair%20-%20William%20Makepeace%20Thackeray.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William Makepeace Thackeray</name>
+      <uri>../author_0/author_527_Page_1.xml</uri>
+    </author>
+    <published>2008-10-07T09:55:32Z</published>
+    <link href="../book_0/book_748.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Visual Display of Quantitative Information</title>
     <id>calibre:book:616</id>
     <updated>2020-03-28T11:32:28Z</updated>

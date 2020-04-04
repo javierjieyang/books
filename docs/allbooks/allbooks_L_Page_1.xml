@@ -31,6 +31,19 @@
     <link href="../book_0/book_468.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Lanark - A Life in Four Books</title>
+    <id>calibre:book:757</id>
+    <updated>2020-04-04T01:39:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alasdair%20Gray/Lanark%20-%20A%20Life%20in%20Four%20Books%20%28757%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alasdair%20Gray/Lanark%20-%20A%20Life%20in%20Four%20Books%20%28757%29/Lanark%20-%20A%20Life%20in%20Four%20Books%20-%20Alasdair%20Gray.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alasdair Gray</name>
+      <uri>../author_0/author_550_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_757.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Laws of Human Nature</title>
     <id>calibre:book:655</id>
     <updated>2020-03-28T07:22:10Z</updated>
@@ -229,6 +242,23 @@
     <category term="Lang:en" />
     <summary>Winner of the Michael L. Printz AwardAn ALA Best Book for Young AdultsAn ALA Quick PickA Los Angeles Times 2005 Book Prize FinalistA New York Public Library Book for the Teen AgeA 2005 Booklist Editor’s ChoiceA 2005 School Library Journal Best Book o...</summary>
     <link href="../book_0/book_362.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lord of the Flies</title>
+    <id>calibre:book:755</id>
+    <updated>2020-04-04T01:39:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/Lord%20of%20the%20Flies%20-%20William%20Golding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>William Golding</name>
+      <uri>../author_0/author_536_Page_1.xml</uri>
+    </author>
+    <published>2010-02-28T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>14.5 Million copies sold to dateThe classic, startling, and perennially bestselling portrait of human nature-now available as a Premium Edition with a stunning new cover and re-set, easy-to-read text.</summary>
+    <link href="../book_0/book_755.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>The Lottery</title>

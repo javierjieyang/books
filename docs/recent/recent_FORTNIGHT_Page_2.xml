@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous fortnight</title>
+  <id>Calibre2opds:recent:FORTNIGHT</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_FORTNIGHT_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous fortnight" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_FORTNIGHT_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 5)" />
+  <entry>
+    <title>Dynamic Hedging: Managing Vanilla and Exotic Options [March 28, 2020]</title>
+    <id>calibre:book:702</id>
+    <updated>2020-03-28T08:01:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exot%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exot%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2007-10-06T10:54:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_702.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Characteristic function (probability theory) [March 28, 2020]</title>
+    <id>calibre:book:703</id>
+    <updated>2020-03-28T11:32:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Wikipedia/Characteristic%20function%20%28probability%20theory%29%20%28703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Wikipedia/Characteristic%20function%20%28probability%20theory%29%20%28703%29/Characteristic%20function%20%28probability%20theor%20-%20Wikipedia.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Wikipedia</name>
+      <uri>../author_0/author_498_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Statistics" />
+    <link href="../book_0/book_703.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fly [March 28, 2020]</title>
+    <id>calibre:book:706</id>
+    <updated>2020-03-28T11:32:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Katherine%20Mansfield/The%20Fly%20%28706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Katherine%20Mansfield/The%20Fly%20%28706%29/The%20Fly%20-%20Katherine%20Mansfield.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Katherine Mansfield</name>
+      <uri>../author_0/author_467_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_706.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kelly Criterion in Blackjack,Sports Betting, and the Stock Market [March 28, 2020]</title>
+    <id>calibre:book:709</id>
+    <updated>2020-03-28T11:32:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20O.%20Thorp/Kelly%20Criterion%20in%20Blackjack%2CSports%20Betting%2C%20and%20the%20Stock%20Market%20%28709%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Edward%20O.%20Thorp/Kelly%20Criterion%20in%20Blackjack%2CSports%20Betting%2C%20and%20the%20Stock%20Market%20%28709%29/Kelly%20Criterion%20in%20Blackjack%2CSports%20Bettin%20-%20Edward%20O.%20Thorp.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward O. Thorp</name>
+      <uri>../author_0/author_416_Page_1.xml</uri>
+    </author>
+    <published>2006-04-10T11:44:19Z</published>
+    <category term="Statistics" />
+    <category term="Decision-Making" />
+    <link href="../book_0/book_709.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Can't Hurt Me: Master Your Mind and Defy the Odds [March 28, 2020]</title>
+    <id>calibre:book:688</id>
+    <updated>2020-03-28T07:21:29Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Goggins/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20the%20Odds%20%28688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Goggins/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20the%20Odds%20%28688%29/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20t%20-%20David%20Goggins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/David%20Goggins/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20the%20Odds%20%28688%29/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20t%20-%20David%20Goggins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Goggins</name>
+      <uri>../author_0/author_435_Page_1.xml</uri>
+    </author>
+    <published>2018-12-04T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Lioncrest Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_688.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Bitcoin Standard [March 28, 2020]</title>
+    <id>calibre:book:689</id>
+    <updated>2020-03-28T06:59:03Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saifedean%20Ammous/The%20Bitcoin%20Standard%20%28689%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saifedean%20Ammous/The%20Bitcoin%20Standard%20%28689%29/The%20Bitcoin%20Standard%20-%20Saifedean%20Ammous.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saifedean%20Ammous/The%20Bitcoin%20Standard%20%28689%29/The%20Bitcoin%20Standard%20-%20Saifedean%20Ammous.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saifedean Ammous</name>
+      <uri>../author_0/author_436_Page_1.xml</uri>
+    </author>
+    <published>2018-04-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_689.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Age of Surveillance Capitalism [March 28, 2020]</title>
+    <id>calibre:book:690</id>
+    <updated>2020-03-29T02:11:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/The%20Age%20of%20Surveillance%20Capitalism%20-%20Shoshana%20Zuboff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/The%20Age%20of%20Surveillance%20Capitalism%20-%20Shoshana%20Zuboff.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shoshana Zuboff</name>
+      <uri>../author_0/author_437_Page_1.xml</uri>
+    </author>
+    <published>2019-01-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PublicAffairs</dcterms:publisher>
+    <category term="Capitalism" />
+    <category term="Technology" />
+    <category term="Lang:en" />
+    <summary>The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called "surveillance capitalism," and the quest by powerful corporations to predict and control our behavior.Shoshana Zuboff's i...</summary>
+    <link href="../book_0/book_690.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated [March 28, 2020]</title>
+    <id>calibre:book:691</id>
+    <updated>2020-03-28T07:18:15Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anywhere%2C%20and%20Join%20the%20New%20Rich%20-%20Expanded%20and%20Updated%20%28691%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anywhere%2C%20and%20Join%20the%20New%20Rich%20-%20Expanded%20and%20Updated%20%28691%29/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anyw%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Timothy%20Ferriss/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anywhere%2C%20and%20Join%20the%20New%20Rich%20-%20Expanded%20and%20Updated%20%28691%29/The%204-Hour%20Workweek_%20Escape%209-5%2C%20Live%20Anyw%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Timothy Ferriss</name>
+      <uri>../author_0/author_192_Page_1.xml</uri>
+    </author>
+    <published>2009-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_691.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mulligan Stew [March 28, 2020]</title>
+    <id>calibre:book:692</id>
+    <updated>2020-03-28T07:53:17Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gilbert%20Sorrentino/Mulligan%20Stew%20%28692%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gilbert%20Sorrentino/Mulligan%20Stew%20%28692%29/Mulligan%20Stew%20-%20Gilbert%20Sorrentino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gilbert%20Sorrentino/Mulligan%20Stew%20%28692%29/Mulligan%20Stew%20-%20Gilbert%20Sorrentino.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gilbert Sorrentino</name>
+      <uri>../author_0/author_438_Page_1.xml</uri>
+    </author>
+    <published>1979-01-14T01:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grove Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Widely regarded as Sorrentino's finest achievement, ?"Mulligan Stew"?takes as its subject the comic possibilities of the modern literary imagination. As avant-garde novelist Antony Lamont struggles to write a "new wave murder mystery," his frustratin...</summary>
+    <link href="../book_0/book_692.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Silence on the Wire [March 28, 2020]</title>
+    <id>calibre:book:693</id>
+    <updated>2020-03-28T07:33:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/Silence%20on%20the%20Wire%20-%20Michal%20Zalewski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/Silence%20on%20the%20Wire%20-%20Michal%20Zalewski.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michal Zalewski</name>
+      <uri>../author_0/author_439_Page_1.xml</uri>
+    </author>
+    <published>2005-04-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>No Starch Press</dcterms:publisher>
+    <category term="COMPUTERS / Security / General" />
+    <category term="Lang:en" />
+    <summary>Author Michal Zalewski is respected in the hacking and security communities for his\n intelligence, curiosity and creativity, and this book is truly unlike anything else.\n Silence on the Wire is no humdrum white paper or how-to manual for protecting...</summary>
+    <link href="../book_0/book_693.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Models of My Life [March 28, 2020]</title>
+    <id>calibre:book:694</id>
+    <updated>2020-03-28T07:51:46Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herbert%20Alexander%20Simon/Models%20of%20My%20Life%20%28694%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herbert%20Alexander%20Simon/Models%20of%20My%20Life%20%28694%29/Models%20of%20My%20Life%20-%20Herbert%20Alexander%20Simon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Herbert%20Alexander%20Simon/Models%20of%20My%20Life%20%28694%29/Models%20of%20My%20Life%20-%20Herbert%20Alexander%20Simon.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Herbert Alexander Simon</name>
+      <uri>../author_0/author_468_Page_1.xml</uri>
+    </author>
+    <published>1996-12-27T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <category term="test" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_694.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How To [March 28, 2020]</title>
+    <id>calibre:book:695</id>
+    <updated>2020-03-28T07:36:21Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Randall%20Munroe/How%20To%20%28695%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Randall%20Munroe/How%20To%20%28695%29/How%20To%20-%20Randall%20Munroe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Randall%20Munroe/How%20To%20%28695%29/How%20To%20-%20Randall%20Munroe.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Randall Munroe</name>
+      <uri>../author_0/author_441_Page_1.xml</uri>
+    </author>
+    <published>2019-09-03T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The world's most entertaining and useless self-help guide, from the brilliant mind behind the wildly popular webcomic xkcd and the #1 New York Times bestsellers What If? and Thing ExplainerFor any task you might want to do, there's a right way, a wro...</summary>
+    <link href="../book_0/book_695.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Slaughterhouse-Five [March 28, 2020]</title>
+    <id>calibre:book:696</id>
+    <updated>2020-03-28T08:03:45Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/Slaughterhouse-Five%20-%20Kurt%20Vonnegut.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/Slaughterhouse-Five%20-%20Kurt%20Vonnegut.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kurt Vonnegut</name>
+      <uri>../author_0/author_317_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T06:30:00Z</published>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Fiction" />
+    <link href="../book_0/book_696.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Elements of Style Illustrated [March 28, 2020]</title>
+    <id>calibre:book:697</id>
+    <updated>2020-03-29T02:43:51Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/The%20Elements%20of%20Style%20Illustrated%20-%20William%20Strunk%20Jr%2C%20E.B.%20White.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/The%20Elements%20of%20Style%20Illustrated%20-%20William%20Strunk%20Jr%2C%20E.B.%20White.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William Strunk Jr, E.B. White</name>
+      <uri>../author_0/author_469_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Writing" />
+    <category term="Story-telling" />
+    <link href="../book_0/book_697.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dataclysm [March 28, 2020]</title>
+    <id>calibre:book:698</id>
+    <updated>2020-03-28T07:47:17Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Christian%20Rudder/Dataclysm%20%28698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Christian%20Rudder/Dataclysm%20%28698%29/Dataclysm%20-%20Christian%20Rudder.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Christian%20Rudder/Dataclysm%20%28698%29/Dataclysm%20-%20Christian%20Rudder.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Christian Rudder</name>
+      <uri>../author_0/author_442_Page_1.xml</uri>
+    </author>
+    <published>2014-09-08T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>What is the secret to a stable marriage? How many gay people are still in the closet? Do we truly live in a postracial society? Has Twitter made us dumber? These are just a few of the questions Christian Rudder answers in Dataclysm, a smart, funny, i...</summary>
+    <link href="../book_0/book_698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Model Thinker [March 28, 2020]</title>
+    <id>calibre:book:699</id>
+    <updated>2020-03-28T07:40:09Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20E.%20Page/The%20Model%20Thinker%20%28699%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20E.%20Page/The%20Model%20Thinker%20%28699%29/The%20Model%20Thinker%20-%20Scott%20E.%20Page.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20E.%20Page/The%20Model%20Thinker%20%28699%29/The%20Model%20Thinker%20-%20Scott%20E.%20Page.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott E. Page</name>
+      <uri>../author_0/author_443_Page_1.xml</uri>
+    </author>
+    <published>2018-11-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>How anyone can become a data ninja From the stock market to genomics laboratories, census figures to marketing email blasts, we are awash with data. But as anyone who has ever opened up a spreadsheet packed with seemingly infinite lines of data knows...</summary>
+    <link href="../book_0/book_699.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Becoming a Supple Leopard [March 28, 2020]</title>
+    <id>calibre:book:700</id>
+    <updated>2020-03-28T07:55:00Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/Becoming%20a%20Supple%20Leopard%20-%20Kelly%20Starrett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/Becoming%20a%20Supple%20Leopard%20-%20Kelly%20Starrett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kelly Starrett</name>
+      <uri>../author_0/author_444_Page_1.xml</uri>
+    </author>
+    <published>2015-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Victory Belt Publishing Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_700.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The 5 Love Languages: The Secret to Love That Lasts [March 28, 2020]</title>
+    <id>calibre:book:676</id>
+    <updated>2020-03-28T07:06:10Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20T%20-%20Gary%20Chapman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20T%20-%20Gary%20Chapman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gary Chapman</name>
+      <uri>../author_0/author_425_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Moody Publishers</dcterms:publisher>
+    <category term="General" />
+    <category term="Religion" />
+    <category term="Family" />
+    <category term="Christian Life" />
+    <category term="Love &amp; Romance" />
+    <category term="Love" />
+    <category term="Interpersonal Communication" />
+    <category term="Religion - Christian Life" />
+    <category term="Marriage &amp; relationships" />
+    <category term="Christian Life - Inspirational - Protestant Self Help" />
+    <category term="Christian Life - Love &amp; Marriage" />
+    <category term="Marriage" />
+    <category term="Communication in marriage" />
+    <category term="Religion - Relationships" />
+    <category term="Love &amp; Marriage" />
+    <category term="Family &amp; Relationships" />
+    <category term="Lang:en" />
+    <summary>EDITORIAL REVIEW: Marriage should be based on love, right? But does it seem as though you and your spouse are speaking two different languages? *New York Times* bestselling author Dr. Gary Chapman guides couples in identifying, understanding, and spe...</summary>
+    <link href="../book_0/book_676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Difficult Conversations [March 28, 2020]</title>
+    <id>calibre:book:677</id>
+    <updated>2020-03-28T07:55:43Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20Stone/Difficult%20Conversations%20%28677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20Stone/Difficult%20Conversations%20%28677%29/Difficult%20Conversations%20-%20Douglas%20Stone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Douglas%20Stone/Difficult%20Conversations%20%28677%29/Difficult%20Conversations%20-%20Douglas%20Stone.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Douglas Stone</name>
+      <uri>../author_0/author_426_Page_1.xml</uri>
+    </author>
+    <published>2011-03-28T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The 10th-anniversary edition of the New York Times business bestseller—now updated with "Answers to Ten Questions People Ask"We attempt or avoid difficult conversations every day—whether dealing with an underperforming employee, disagreeing with a sp...</summary>
+    <link href="../book_0/book_677.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ultralearning [March 28, 2020]</title>
+    <id>calibre:book:678</id>
+    <updated>2020-03-29T02:12:10Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Young/Ultralearning%20%28678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Young/Ultralearning%20%28678%29/Ultralearning%20-%20Scott%20Young.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Young/Ultralearning%20%28678%29/Ultralearning%20-%20Scott%20Young.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott Young</name>
+      <uri>../author_0/author_427_Page_1.xml</uri>
+    </author>
+    <published>2019-08-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperBusiness</dcterms:publisher>
+    <category term="Learning" />
+    <category term="Self-Help" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_678.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Insight [March 28, 2020]</title>
+    <id>calibre:book:679</id>
+    <updated>2020-03-28T07:16:11Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tasha%20Eurich/Insight%20%28679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tasha%20Eurich/Insight%20%28679%29/Insight%20-%20Tasha%20Eurich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Tasha%20Eurich/Insight%20%28679%29/Insight%20-%20Tasha%20Eurich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Tasha Eurich</name>
+      <uri>../author_0/author_428_Page_1.xml</uri>
+    </author>
+    <published>2017-05-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The first definitive book exploring the science of self-awareness, the meta-skill of the 21st century, Insight is a fascinating journey into everyone's favorite topic: themselves. Do you know who you really are? Do you ever wonder how other people re...</summary>
+    <link href="../book_0/book_679.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Power of Your Subconscious Mind [March 28, 2020]</title>
+    <id>calibre:book:680</id>
+    <updated>2020-03-28T07:36:32Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/The%20Power%20of%20Your%20Subconscious%20Mind%20-%20Murphy%2C%20Joseph.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/The%20Power%20of%20Your%20Subconscious%20Mind%20-%20Murphy%2C%20Joseph.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Murphy, Joseph</name>
+      <uri>../author_0/author_429_Page_1.xml</uri>
+    </author>
+    <published>2010-03-20T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wilder Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Bed of Procrustes [March 28, 2020]</title>
+    <id>calibre:book:681</id>
+    <updated>2020-03-28T07:59:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/The%20Bed%20of%20Procrustes%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/The%20Bed%20of%20Procrustes%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-11-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>HBR Guide to Persuasive Presentations [March 28, 2020]</title>
+    <id>calibre:book:682</id>
+    <updated>2020-03-28T07:13:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/HBR%20Guide%20to%20Persuasive%20Presentations%20-%20Nancy%20Duarte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/HBR%20Guide%20to%20Persuasive%20Presentations%20-%20Nancy%20Duarte.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nancy Duarte</name>
+      <uri>../author_0/author_430_Page_1.xml</uri>
+    </author>
+    <published>2012-09-18T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harvard Business Review Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_682.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship [March 28, 2020]</title>
+    <id>calibre:book:683</id>
+    <updated>2020-03-28T07:11:57Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20-%20MJ%20DeMarco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20-%20MJ%20DeMarco.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>MJ DeMarco</name>
+      <uri>../author_0/author_420_Page_1.xml</uri>
+    </author>
+    <published>2017-05-23T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Viperion Publishing Corporation</dcterms:publisher>
+    <category term="start up" />
+    <category term="Entrepreneurship" />
+    <category term="investment" />
+    <category term="retirement" />
+    <category term="start-up" />
+    <category term="Entrepreneur" />
+    <category term="millionaire" />
+    <category term="Success" />
+    <category term="fastlane" />
+    <category term="Management" />
+    <category term="starting a business" />
+    <category term="career" />
+    <category term="small business" />
+    <category term="investing" />
+    <category term="wealth" />
+    <category term="stock market" />
+    <category term="motivation" />
+    <category term="freedom" />
+    <category term="money" />
+    <category term="Finance" />
+    <category term="Lang:en" />
+    <summary>MJ DeMarco&amp;#x2019;s long awaited follow-up to the international best-seller, The Millionaire Fastlane, UNSCRIPTED is the definitive blueprint for escaping the cultural conditioning of the mundane and mediocre; learn how to create an awe-inspiring lif...</summary>
+    <link href="../book_0/book_683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_FORTNIGHT_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 5)" />
+  <link href="../recent/recent_FORTNIGHT_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
+</feed>

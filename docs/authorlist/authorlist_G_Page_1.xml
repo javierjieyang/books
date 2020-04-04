@@ -37,6 +37,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Gabriel García Márquez ,Gregory Rabassa</title>
+    <id>Calibre2opds:author:551</id>
+    <content type="text">One Hundred Years of Solitude</content>
+    <link href="../author_0/author_551_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani</title>
     <id>Calibre2opds:author:247</id>
     <content type="text">1 book</content>
@@ -49,6 +57,14 @@
     <id>Calibre2opds:author:307</id>
     <content type="text">1 book</content>
     <link href="../author_0/author_307_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>George Grossmith, Weedon Grossmith</title>
+    <id>Calibre2opds:author:555</id>
+    <content type="text">The Diary of a Nobody</content>
+    <link href="../author_0/author_555_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

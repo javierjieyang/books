@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d1fe2b2-588e-4510-8f91-40f3df53a60d</dc:identifier>
+        <dc:title>Men Without Women</dc:title>
+        <dc:creator opf:file-as="Hemingway, Ernest" opf:role="aut">Ernest Hemingway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ernest Hemingway&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-04T08:09:38.342851+00:00" name="calibre:timestamp"/>
+        <meta content="Men Without Women" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

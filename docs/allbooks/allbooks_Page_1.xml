@@ -54,7 +54,7 @@
   <entry>
     <title>Books starting with B</title>
     <id>Calibre2opds:allbooks:B</id>
-    <content type="text">21 books</content>
+    <content type="text">22 books</content>
     <link href="../allbooks/allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -62,7 +62,7 @@
   <entry>
     <title>Books starting with C</title>
     <id>Calibre2opds:allbooks:C</id>
-    <content type="text">24 books</content>
+    <content type="text">26 books</content>
     <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -70,7 +70,7 @@
   <entry>
     <title>Books starting with D</title>
     <id>Calibre2opds:allbooks:D</id>
-    <content type="text">22 books</content>
+    <content type="text">23 books</content>
     <link href="../allbooks/allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -78,7 +78,7 @@
   <entry>
     <title>Books starting with E</title>
     <id>Calibre2opds:allbooks:E</id>
-    <content type="text">16 books</content>
+    <content type="text">17 books</content>
     <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -102,7 +102,7 @@
   <entry>
     <title>Books starting with H</title>
     <id>Calibre2opds:allbooks:H</id>
-    <content type="text">20 books</content>
+    <content type="text">21 books</content>
     <link href="../allbooks/allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -134,7 +134,7 @@
   <entry>
     <title>Books starting with L</title>
     <id>Calibre2opds:allbooks:L</id>
-    <content type="text">14 books</content>
+    <content type="text">16 books</content>
     <link href="../allbooks/allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -142,7 +142,7 @@
   <entry>
     <title>Books starting with M</title>
     <id>Calibre2opds:allbooks:M</id>
-    <content type="text">37 books</content>
+    <content type="text">40 books</content>
     <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -150,7 +150,7 @@
   <entry>
     <title>Books starting with N</title>
     <id>Calibre2opds:allbooks:N</id>
-    <content type="text">9 books</content>
+    <content type="text">10 books</content>
     <link href="../allbooks/allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -158,7 +158,7 @@
   <entry>
     <title>Books starting with O</title>
     <id>Calibre2opds:allbooks:O</id>
-    <content type="text">11 books</content>
+    <content type="text">12 books</content>
     <link href="../allbooks/allbooks_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -166,7 +166,7 @@
   <entry>
     <title>Books starting with P</title>
     <id>Calibre2opds:allbooks:P</id>
-    <content type="text">29 books</content>
+    <content type="text">33 books</content>
     <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -182,7 +182,7 @@
   <entry>
     <title>Books starting with R</title>
     <id>Calibre2opds:allbooks:R</id>
-    <content type="text">9 books</content>
+    <content type="text">11 books</content>
     <link href="../allbooks/allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -190,7 +190,7 @@
   <entry>
     <title>Books starting with S</title>
     <id>Calibre2opds:allbooks:S</id>
-    <content type="text">33 books</content>
+    <content type="text">34 books</content>
     <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -214,7 +214,7 @@
   <entry>
     <title>Books starting with V</title>
     <id>Calibre2opds:allbooks:V</id>
-    <content type="text">1 book</content>
+    <content type="text">2 books</content>
     <link href="../allbooks/allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

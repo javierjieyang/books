@@ -218,6 +218,35 @@
     <link href="../book_0/book_427.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Men Without Women</title>
+    <id>calibre:book:764</id>
+    <updated>2020-04-04T01:39:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ernest%20Hemingway/Men%20Without%20Women%20%28764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ernest%20Hemingway/Men%20Without%20Women%20%28764%29/Men%20Without%20Women%20-%20Ernest%20Hemingway.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ernest Hemingway</name>
+      <uri>../author_0/author_546_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Men Without Women: Stories</title>
+    <id>calibre:book:763</id>
+    <updated>2020-04-04T01:39:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/Men%20Without%20Women_%20Stories%20-%20Haruki%20Murakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Haruki Murakami</name>
+      <uri>../author_0/author_543_Page_1.xml</uri>
+    </author>
+    <published>2017-05-08T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_763.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Metaphors We Live By</title>
     <id>calibre:book:588</id>
     <updated>2020-03-28T07:25:56Z</updated>
@@ -381,6 +410,19 @@
     <link href="../book_0/book_694.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Money</title>
+    <id>calibre:book:750</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/Money%20-%20Amis%20Martin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Amis Martin</name>
+      <uri>../author_0/author_553_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_750.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Moneyball</title>
     <id>calibre:book:473</id>
     <updated>2020-03-28T07:29:40Z</updated>
@@ -453,54 +495,5 @@
     <category term="Lang:en" />
     <summary>Amazon.com ReviewMoonwalking with Einstein follows Joshua Foer's compelling journey as a participant in the U.S. Memory Championship. As a science journalist covering the competition, Foer became captivated by the secrets of the competitors, like how...</summary>
     <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>A More Beautiful Question</title>
-    <id>calibre:book:433</id>
-    <updated>2020-03-28T07:01:55Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
-    <author>
-      <name>Warren Berger</name>
-      <uri>../author_0/author_177_Page_1.xml</uri>
-    </author>
-    <published>2014-01-15T06:30:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Bloomsbury Publishing</dcterms:publisher>
-    <category term="Lang:en" />
-    <summary>In this groundbreaking book, journalist and innovation expert Warren Berger shows that one of the most powerful forces for igniting change in business and in our daily lives is a simple, under-appreciated tool&amp;#8212;one that has been available to us ...</summary>
-    <link href="../book_0/book_433.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>The Morning Paper - April 2016</title>
-    <id>calibre:book:619</id>
-    <updated>2020-03-28T11:32:29Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20April%202016%20%28619%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20April%202016%20%28619%29/The%20Morning%20Paper%20-%20April%202016%20-%20Adrian%20Colyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
-    <author>
-      <name>Adrian Colyer</name>
-      <uri>../author_0/author_520_Page_1.xml</uri>
-    </author>
-    <published>2016-05-12T09:14:23Z</published>
-    <category term="Morning Paper - Quaterly Review" />
-    <summary>The Morning Paper - Quaterly Review [1]:</summary>
-    <link href="../book_0/book_619.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>The Morning Paper - February 2018</title>
-    <id>calibre:book:626</id>
-    <updated>2020-03-28T11:32:31Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20February%202018%20%28626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20February%202018%20%28626%29/The%20Morning%20Paper%20-%20February%202018%20-%20Adrian%20Colyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
-    <author>
-      <name>Adrian Colyer</name>
-      <uri>../author_0/author_520_Page_1.xml</uri>
-    </author>
-    <published>2018-02-05T03:22:00Z</published>
-    <category term="Morning Paper - Quaterly Review" />
-    <summary>The Morning Paper - Quaterly Review [7]:</summary>
-    <link href="../book_0/book_626.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

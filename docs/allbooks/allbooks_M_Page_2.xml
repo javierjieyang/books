@@ -13,6 +13,55 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <entry>
+    <title>A More Beautiful Question</title>
+    <id>calibre:book:433</id>
+    <updated>2020-03-28T07:01:55Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Warren%20Berger/A%20More%20Beautiful%20Question%20%28433%29/A%20More%20Beautiful%20Question%20-%20Warren%20Berger.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Warren Berger</name>
+      <uri>../author_0/author_177_Page_1.xml</uri>
+    </author>
+    <published>2014-01-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this groundbreaking book, journalist and innovation expert Warren Berger shows that one of the most powerful forces for igniting change in business and in our daily lives is a simple, under-appreciated tool&amp;#8212;one that has been available to us ...</summary>
+    <link href="../book_0/book_433.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Morning Paper - April 2016</title>
+    <id>calibre:book:619</id>
+    <updated>2020-03-28T11:32:29Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20April%202016%20%28619%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20April%202016%20%28619%29/The%20Morning%20Paper%20-%20April%202016%20-%20Adrian%20Colyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Adrian Colyer</name>
+      <uri>../author_0/author_520_Page_1.xml</uri>
+    </author>
+    <published>2016-05-12T09:14:23Z</published>
+    <category term="Morning Paper - Quaterly Review" />
+    <summary>The Morning Paper - Quaterly Review [1]:</summary>
+    <link href="../book_0/book_619.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Morning Paper - February 2018</title>
+    <id>calibre:book:626</id>
+    <updated>2020-03-28T11:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20February%202018%20%28626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Adrian%20Colyer/The%20Morning%20Paper%20-%20February%202018%20%28626%29/The%20Morning%20Paper%20-%20February%202018%20-%20Adrian%20Colyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Adrian Colyer</name>
+      <uri>../author_0/author_520_Page_1.xml</uri>
+    </author>
+    <published>2018-02-05T03:22:00Z</published>
+    <category term="Morning Paper - Quaterly Review" />
+    <summary>The Morning Paper - Quaterly Review [7]:</summary>
+    <link href="../book_0/book_626.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Morning Paper - January 2017</title>
     <id>calibre:book:620</id>
     <updated>2020-03-28T11:32:30Z</updated>

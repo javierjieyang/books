@@ -13,6 +13,24 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <entry>
+    <title>Stumbling on Happiness</title>
+    <id>calibre:book:404</id>
+    <updated>2020-03-28T07:20:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Daniel Gilbert</name>
+      <uri>../author_0/author_151_Page_1.xml</uri>
+    </author>
+    <published>2006-05-02T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Stumbling on to Happiness</title>
     <id>calibre:book:581</id>
     <updated>2019-12-07T00:47:20Z</updated>

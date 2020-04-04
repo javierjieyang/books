@@ -30,6 +30,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Saul Bellow</title>
+    <id>Calibre2opds:author:539</id>
+    <content type="text">Herzog</content>
+    <link href="../author_0/author_539_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Susan Cain</title>
     <id>Calibre2opds:author:258</id>
     <content type="text">1 book</content>
@@ -150,6 +158,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Scoop</title>
+    <id>Calibre2opds:author:545</id>
+    <content type="text">Evelyn Waugh</content>
+    <link href="../author_0/author_545_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Seneca</title>
     <id>Calibre2opds:author:181</id>
     <content type="text">Letters From a Stoic</content>
@@ -194,22 +210,6 @@
     <id>Calibre2opds:author:234</id>
     <content type="text">2 books</content>
     <link href="../author_0/author_234_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Slim, Iceberg</title>
-    <id>Calibre2opds:author:369</id>
-    <content type="text">Pimp</content>
-    <link href="../author_0/author_369_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Steven Halim, Felix Halim</title>
-    <id>Calibre2opds:author:224</id>
-    <content type="text">Competitive Programming</content>
-    <link href="../author_0/author_224_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

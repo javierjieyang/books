@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89ac4318-2f42-4135-a613-9caae96a2ca5</dc:identifier>
+        <dc:title>The Plague</dc:title>
+        <dc:creator opf:file-as="Camus, Albert" opf:role="aut">Albert Camus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-07T16:00:00+00:00</dc:date>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008QLVNII</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307827807</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Albert Camus&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-04T08:09:38.046808+00:00" name="calibre:timestamp"/>
+        <meta content="Plague, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

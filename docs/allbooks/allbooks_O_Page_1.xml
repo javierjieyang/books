@@ -102,6 +102,22 @@
     <link href="../book_0/book_643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>One Hundred Years of Solitude</title>
+    <id>calibre:book:754</id>
+    <updated>2020-04-04T01:39:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/One%20Hundred%20Years%20of%20Solitude%20-%20Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Gabriel García Márquez ,Gregory Rabassa</name>
+      <uri>../author_0/author_551_Page_1.xml</uri>
+    </author>
+    <published>2014-01-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_754.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Only the paranoid survive: how to exploit the crisis points that challenge every company and career ***</title>
     <id>calibre:book:462</id>
     <updated>2020-03-28T07:22:44Z</updated>

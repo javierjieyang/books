@@ -30,4 +30,20 @@
     <summary>Epub2Go.com v1.2</summary>
     <link href="../book_0/book_567.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
+  <entry>
+    <title>The Plague</title>
+    <id>calibre:book:761</id>
+    <updated>2020-04-04T01:39:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Albert Camus</name>
+      <uri>../author_0/author_323_Page_1.xml</uri>
+    </author>
+    <published>2012-08-07T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_761.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
 </feed>

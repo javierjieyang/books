@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f7ba6bd-d832-4c27-b7b3-5d6a71a64e96</dc:identifier>
+        <dc:title>Lanark - A Life in Four Books</dc:title>
+        <dc:creator opf:file-as="Gray, Alasdair" opf:role="aut">Alasdair Gray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Alasdair Gray&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-04T08:09:37.436805+00:00" name="calibre:timestamp"/>
+        <meta content="Lanark - A Life in Four Books" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

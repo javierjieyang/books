@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Periodic Table</title>
+  <id>urn:book:0bf7dd39-8c84-47a6-9f97-0c8474d44f97</id>
+  <updated>2020-04-04T01:39:36Z</updated>
+  <link href="./book_751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Periodic Table" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/The%20Periodic%20Table%20-%20Primo%20Levi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Primo Levi</name>
+    <uri>../author_0/author_530_Page_1.xml</uri>
+  </author>
+  <published>1983-12-31T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 4, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      April 4, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/The%20Periodic%20Table" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Periodic%20Table" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Periodic%20Table%20Primo%20Levi" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Periodic%20Table&amp;field-author=Primo%20Levi" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Primo%20Levi" type="text/html" rel="related" title="Primo Levi on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Primo%20Levi" type="text/html" rel="related" title="Primo Levi on Wikipedia" />
+  <link href="http://www.librarything.com/author/LeviPrimo" type="text/html" rel="related" title="Primo Levi on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Primo%20Levi" type="text/html" rel="related" title="Primo Levi on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Primo%20Levi" type="text/html" rel="related" title="Primo Levi on ISFDB" />
+</entry>

@@ -129,6 +129,19 @@
     <link href="../book_0/book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Nightmare Abbey</title>
+    <id>calibre:book:747</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/Nightmare%20Abbey%20-%20Thomas%20Love%20Peacock.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Thomas Love Peacock</name>
+      <uri>../author_0/author_554_Page_1.xml</uri>
+    </author>
+    <published>2007-03-02T04:48:26Z</published>
+    <link href="../book_0/book_747.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)</title>
     <id>calibre:book:494</id>
     <updated>2020-03-28T07:46:25Z</updated>

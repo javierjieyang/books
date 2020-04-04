@@ -80,7 +80,7 @@
   <entry>
     <title>Albert Camus</title>
     <id>Calibre2opds:author:323</id>
-    <content type="text">1 book</content>
+    <content type="text">2 books</content>
     <link href="../author_0/author_323_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -126,6 +126,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Alasdair Gray</title>
+    <id>Calibre2opds:author:550</id>
+    <content type="text">Lanark - A Life in Four Books</content>
+    <link href="../author_0/author_550_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Andrew S. Grove</title>
     <id>Calibre2opds:author:190</id>
     <content type="text">2 books</content>
@@ -154,6 +162,14 @@
     <id>Calibre2opds:author:143</id>
     <content type="text">2 books</content>
     <link href="../author_0/author_143_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Amis Martin</title>
+    <id>Calibre2opds:author:553</id>
+    <content type="text">Money</content>
+    <link href="../author_0/author_553_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -194,22 +210,6 @@
     <id>Calibre2opds:author:478</id>
     <content type="text">1 book</content>
     <link href="../author_0/author_478_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Alan Sokal</title>
-    <id>Calibre2opds:author:26</id>
-    <content type="text">Fashionable Nonsense</content>
-    <link href="../author_0/author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Andrew Ross Sorkin</title>
-    <id>Calibre2opds:author:313</id>
-    <content type="text">1 book</content>
-    <link href="../author_0/author_313_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

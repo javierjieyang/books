@@ -147,6 +147,23 @@
     <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Herzog</title>
+    <id>calibre:book:758</id>
+    <updated>2020-04-04T01:39:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Saul Bellow</name>
+      <uri>../author_0/author_539_Page_1.xml</uri>
+    </author>
+    <published>2015-03-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>(Penguin Modern Classics)</summary>
+    <link href="../book_0/book_758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>High Output Management</title>
     <id>calibre:book:461</id>
     <updated>2020-03-28T07:22:44Z</updated>

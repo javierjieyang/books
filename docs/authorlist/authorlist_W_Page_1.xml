@@ -45,10 +45,26 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>William Golding</title>
+    <id>Calibre2opds:author:536</id>
+    <content type="text">Lord of the Flies</content>
+    <link href="../author_0/author_536_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>William MacAskill</title>
     <id>Calibre2opds:author:8</id>
     <content type="text">1 book</content>
     <link href="../author_0/author_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>William Makepeace Thackeray</title>
+    <id>Calibre2opds:author:527</id>
+    <content type="text">Vanity Fair</content>
+    <link href="../author_0/author_527_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
