@@ -13144,8 +13144,8 @@ div#notebook {
     <span class="k">try</span><span class="p">:</span>    
         <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">file</span><span class="p">,</span><span class="s2">&quot;r&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
             <span class="n">soup</span> <span class="o">=</span> <span class="n">bs4</span><span class="o">.</span><span class="n">BeautifulSoup</span><span class="p">(</span><span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span><span class="n">features</span><span class="o">=</span><span class="s2">&quot;lxml&quot;</span><span class="p">)</span>
-            <span class="n">p</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">select</span><span class="p">(</span><span class="s2">&quot;.dateGenerated &gt; small&quot;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
-            <span class="n">p</span><span class="o">.</span><span class="n">string</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;Last updated on {p.string.split(&#39;on&#39;)[1]}&quot;</span>
+            <span class="n">p</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">select</span><span class="p">(</span><span class="s2">&quot;.dateGenerated&quot;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+            <span class="n">p</span><span class="o">.</span><span class="n">string</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;Last updated on {p.text.strip().split(&#39;on&#39;)[1]}&quot;</span>
         <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">file</span><span class="p">,</span><span class="s2">&quot;w&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>    
             <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">soup</span><span class="p">))</span>
     <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
@@ -13166,28 +13166,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stderr output_text">
-<pre>100%|██████████| 2/2 [00:00&lt;00:00, 269.46it/s]</pre>
-</div>
-</div>
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>error formatting last updated docs/index.html list index out of range
-</pre>
-</div>
-</div>
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>
+<pre>100%|██████████| 2/2 [00:00&lt;00:00, 237.97it/s]
 </pre>
 </div>
 </div>
@@ -13261,7 +13240,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stderr output_text">
-<pre>100%|██████████| 881/881 [00:05&lt;00:00, 170.56it/s]
+<pre>100%|██████████| 881/881 [00:05&lt;00:00, 174.38it/s]
 </pre>
 </div>
 </div>
@@ -13362,7 +13341,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stderr output_text">
-<pre>100%|██████████| 406/406 [00:03&lt;00:00, 110.88it/s]
+<pre>100%|██████████| 406/406 [00:03&lt;00:00, 115.65it/s]
 </pre>
 </div>
 </div>
