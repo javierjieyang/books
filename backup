@@ -14,7 +14,9 @@ sed -i 's/\_search/\.\/search/g' docs/index.html
 
 echo "fixing footer"
 sed -i '/<footer>/,/<\/footer>/{//!d}' docs/search/search.html
-sed -i '/<footer>/,/<\/footer>/{//!d}' docs/book_0/*.html
+
+echo "fixing html Titles"
+python3 process_html.py
 
 echo "updating git ignore"
 find .  -size +100M -prune '.git' | sed 's|^\./||g' | cat >> .gitignore
