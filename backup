@@ -15,7 +15,8 @@ sed -i '/<footer>/,/<\/footer>/{//!d}' docs/search/search.html
 
 
 echo "transforming HTML"
-jupyter nbconvert --execute transform_html.ipynb
+jupyter nbconvert --to script transform_html.ipynb
+python3 transform_html.py
 
 
 echo "updating git ignore"
