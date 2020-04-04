@@ -33,7 +33,7 @@ file = file_path[1]
 
 for file in tqdm.tqdm(file_path):
     with open(file,"r") as f:
-        soup = bs4.BeautifulSoup(f.read())
+        soup = bs4.BeautifulSoup(f.read(), features="lxml")
         p = soup.select(".x_container")[0]
         author = p.select(author_t)[0].text
         title = p.select(title_t)[0].text.split("\n")[1].strip()
