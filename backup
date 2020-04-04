@@ -10,8 +10,10 @@ echo "renaming _search to search"
 mv docs/_search docs/search
 
 echo "fixing link"
-sed 's/\_search/\.\/search/g' docs/index.html > docs/temp.html
-mv docs/temp.html docs/index.html
+sed -i 's/\_search/\.\/search/g' docs/index.html
+
+echo "fixing footer"
+sed -i '/<footer>/,/<\/footer>/{//!d}' docs/search/search.html
 
 echo "updating git ignore"
 find .  -size +100M -prune '.git' | sed 's|^\./||g' | cat >> .gitignore
