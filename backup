@@ -19,6 +19,9 @@ jupyter nbconvert --to script transform_html.ipynb
 python3 transform_html.py
 rm transform_html.py
 
+echo "using custom search"
+cp database.html docs/search/database.html
+
 
 echo "updating git ignore"
 find .  -size +100M -prune '.git' | sed 's|^\./||g' | cat >> .gitignore
