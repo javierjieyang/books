@@ -14,6 +14,22 @@
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="../recent/recent_FORTNIGHT_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
+    <title>The Case Against the Fed [March 28, 2020]</title>
+    <id>calibre:book:653</id>
+    <updated>2020-03-28T07:46:42Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/The%20Case%20Against%20the%20Fed%20-%20Murray%20N.%20Rothbard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/The%20Case%20Against%20the%20Fed%20-%20Murray%20N.%20Rothbard.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Murray N. Rothbard</name>
+      <uri>../author_0/author_404_Page_1.xml</uri>
+    </author>
+    <published>2008-01-23T11:56:15Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_653.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Selected Letters [March 28, 2020]</title>
     <id>calibre:book:654</id>
     <updated>2020-03-29T01:49:43Z</updated>
@@ -423,25 +439,6 @@
     <dcterms:publisher>Pan Macmillan</dcterms:publisher>
     <category term="Lang:en" />
     <link href="../book_0/book_627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Fundamentals of Materials Science and Engineering 5e HQ [March 28, 2020]</title>
-    <id>calibre:book:628</id>
-    <updated>2020-03-28T11:32:31Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20D.%20Callister/Fundamentals%20of%20Materials%20Science%20and%20Engineering%205e%20HQ%20%28628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20D.%20Callister/Fundamentals%20of%20Materials%20Science%20and%20Engineering%205e%20HQ%20%28628%29/Fundamentals%20of%20Materials%20Science%20and%20Engi%20-%20William%20D.%20Callister.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
-    <author>
-      <name>William D. Callister</name>
-      <uri>../author_0/author_384_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Jr.</name>
-      <uri>../author_0/author_385_Page_1.xml</uri>
-    </author>
-    <published>2008-01-14T11:33:54Z</published>
-    <category term="materials science physics" />
-    <summary>materials science</summary>
-    <link href="../book_0/book_628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../recent/recent_FORTNIGHT_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
   <link href="../recent/recent_FORTNIGHT_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />

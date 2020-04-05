@@ -13,16 +13,292 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <entry>
-    <title>Reinventing Explanation [March 29, 2020]</title>
-    <id>calibre:book:745</id>
-    <updated>2020-03-29T06:57:52Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Reinventing%20Explanation%20%28745%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Unknown/Reinventing%20Explanation%20%28745%29/Reinventing%20Explanation%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <title>The Namesake [April 4, 2020]</title>
+    <id>calibre:book:766</id>
+    <updated>2020-04-04T03:26:03Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jhumpa%20Lahiri/The%20Namesake%20%28766%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jhumpa%20Lahiri/The%20Namesake%20%28766%29/The%20Namesake%20-%20Jhumpa%20Lahiri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Jhumpa%20Lahiri/The%20Namesake%20%28766%29/The%20Namesake%20-%20Jhumpa%20Lahiri.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
-      <name>Unknown</name>
-      <uri>../author_0/author_278_Page_1.xml</uri>
+      <name>Jhumpa Lahiri</name>
+      <uri>../author_0/author_557_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
-    <link href="../book_0/book_745.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Jhumpa Lahiri's Interpreter of Maladies established this young writer as one the most brilliant of her generation. Her stories are one of the very few debut works &amp;#8212; and only a handful of collections &amp;#8212; to have won the Pulitzer Prize for fi...</summary>
+    <link href="../book_0/book_766.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Evelyn Waugh [April 4, 2020]</title>
+    <id>calibre:book:765</id>
+    <updated>2020-04-04T03:11:49Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/Evelyn%20Waugh%20-%20Scoop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scoop/Evelyn%20Waugh%20%28765%29/Evelyn%20Waugh%20-%20Scoop.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scoop</name>
+      <uri>../author_0/author_545_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_765.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Plague [April 4, 2020]</title>
+    <id>calibre:book:761</id>
+    <updated>2020-04-04T03:11:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Albert Camus</name>
+      <uri>../author_0/author_323_Page_1.xml</uri>
+    </author>
+    <published>2012-08-07T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_761.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Men Without Women: Stories [April 4, 2020]</title>
+    <id>calibre:book:763</id>
+    <updated>2020-04-04T03:11:48Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/Men%20Without%20Women_%20Stories%20-%20Haruki%20Murakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%28763%29/Men%20Without%20Women_%20Stories%20-%20Haruki%20Murakami.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Haruki Murakami</name>
+      <uri>../author_0/author_543_Page_1.xml</uri>
+    </author>
+    <published>2017-05-08T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_763.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Men Without Women [April 4, 2020]</title>
+    <id>calibre:book:764</id>
+    <updated>2020-04-04T01:39:38Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ernest%20Hemingway/Men%20Without%20Women%20%28764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ernest%20Hemingway/Men%20Without%20Women%20%28764%29/Men%20Without%20Women%20-%20Ernest%20Hemingway.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ernest Hemingway</name>
+      <uri>../author_0/author_546_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>One Hundred Years of Solitude [April 4, 2020]</title>
+    <id>calibre:book:754</id>
+    <updated>2020-04-04T03:11:45Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/One%20Hundred%20Years%20of%20Solitude%20-%20Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa/One%20Hundred%20Years%20of%20Solitude%20%28754%29/One%20Hundred%20Years%20of%20Solitude%20-%20Gabriel%20Garcia%20Marquez%20%2CGregory%20Rabassa.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gabriel García Márquez ,Gregory Rabassa</name>
+      <uri>../author_0/author_551_Page_1.xml</uri>
+    </author>
+    <published>2014-01-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_754.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lord of the Flies [April 4, 2020]</title>
+    <id>calibre:book:755</id>
+    <updated>2020-04-04T03:11:25Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/Lord%20of%20the%20Flies%20-%20William%20Golding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Golding/Lord%20of%20the%20Flies%20%28755%29/Lord%20of%20the%20Flies%20-%20William%20Golding.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William Golding</name>
+      <uri>../author_0/author_536_Page_1.xml</uri>
+    </author>
+    <published>2010-02-28T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>14.5 Million copies sold to dateThe classic, startling, and perennially bestselling portrait of human nature-now available as a Premium Edition with a stunning new cover and re-set, easy-to-read text.</summary>
+    <link href="../book_0/book_755.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lanark - A Life in Four Books [April 4, 2020]</title>
+    <id>calibre:book:757</id>
+    <updated>2020-04-04T01:39:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alasdair%20Gray/Lanark%20-%20A%20Life%20in%20Four%20Books%20%28757%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Alasdair%20Gray/Lanark%20-%20A%20Life%20in%20Four%20Books%20%28757%29/Lanark%20-%20A%20Life%20in%20Four%20Books%20-%20Alasdair%20Gray.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alasdair Gray</name>
+      <uri>../author_0/author_550_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_757.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Herzog [April 4, 2020]</title>
+    <id>calibre:book:758</id>
+    <updated>2020-04-04T03:11:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saul Bellow</name>
+      <uri>../author_0/author_539_Page_1.xml</uri>
+    </author>
+    <published>2015-03-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>(Penguin Modern Classics)</summary>
+    <link href="../book_0/book_758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Prime of Miss Jean Brodie [April 4, 2020]</title>
+    <id>calibre:book:759</id>
+    <updated>2020-04-04T03:11:42Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Muriel Spark</name>
+      <uri>../author_0/author_549_Page_1.xml</uri>
+    </author>
+    <published>2011-04-17T10:00:00Z</published>
+    <dcterms:publisher>219</dcterms:publisher>
+    <category term="goldenlist" />
+    <category term="ENGL" />
+    <category term="novela" />
+    <category term="PDF_file" />
+    <summary>Review
+"A gloriously witty and polished vignette." -- -- Times Literary Supplement
+
+"A perfect book." -- -- Chicago Tribune
+
+"Admirably written, beautifully constructed, extremely amusing, and deeply serious." -- -- Saturday Review
+
+"A gloriously wit...</summary>
+    <link href="../book_0/book_759.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Catcher in the Rye [April 4, 2020]</title>
+    <id>calibre:book:760</id>
+    <updated>2020-04-04T01:39:37Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/J.D.%20Salinger/The%20Catcher%20in%20the%20Rye%20%28760%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/J.D.%20Salinger/The%20Catcher%20in%20the%20Rye%20%28760%29/The%20Catcher%20in%20the%20Rye%20-%20J.D.%20Salinger.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>J.D. Salinger</name>
+      <uri>../author_0/author_548_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_760.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nightmare Abbey [April 4, 2020]</title>
+    <id>calibre:book:747</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/Nightmare%20Abbey%20-%20Thomas%20Love%20Peacock.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Thomas Love Peacock</name>
+      <uri>../author_0/author_554_Page_1.xml</uri>
+    </author>
+    <published>2007-03-02T04:48:26Z</published>
+    <link href="../book_0/book_747.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vanity Fair [April 4, 2020]</title>
+    <id>calibre:book:748</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Makepeace%20Thackeray/Vanity%20Fair%20%28748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20Makepeace%20Thackeray/Vanity%20Fair%20%28748%29/Vanity%20Fair%20-%20William%20Makepeace%20Thackeray.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William Makepeace Thackeray</name>
+      <uri>../author_0/author_527_Page_1.xml</uri>
+    </author>
+    <published>2008-10-07T09:55:32Z</published>
+    <link href="../book_0/book_748.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ringside : A History of Professional Wrestling in America [April 4, 2020]</title>
+    <id>calibre:book:749</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott.%20Beekman/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Scott.%20Beekman/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/Ringside%20_%20A%20History%20of%20Professional%20Wrest%20-%20Scott.%20Beekman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott. Beekman</name>
+      <uri>../author_0/author_556_Page_1.xml</uri>
+    </author>
+    <published>2009-03-04T07:18:13Z</published>
+    <link href="../book_0/book_749.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Money [April 4, 2020]</title>
+    <id>calibre:book:750</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Amis%20Martin/Money%20%28750%29/Money%20-%20Amis%20Martin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Amis Martin</name>
+      <uri>../author_0/author_553_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_750.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Periodic Table [April 4, 2020]</title>
+    <id>calibre:book:751</id>
+    <updated>2020-04-04T03:11:24Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/The%20Periodic%20Table%20-%20Primo%20Levi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Primo%20Levi/The%20Periodic%20Table%20%28751%29/The%20Periodic%20Table%20-%20Primo%20Levi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Primo Levi</name>
+      <uri>../author_0/author_530_Page_1.xml</uri>
+    </author>
+    <published>1983-12-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Schocken</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A bend in the river [April 4, 2020]</title>
+    <id>calibre:book:753</id>
+    <updated>2020-04-04T03:11:27Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>V. S. Naipaul</name>
+      <uri>../author_0/author_533_Page_1.xml</uri>
+    </author>
+    <published>1999-07-14T10:00:00Z</published>
+    <dcterms:publisher>G.K. Hall</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Unread" />
+    <summary>EDITORIAL REVIEW:
+
+'Brilliant and terrifying' - "Observer". I had to be the man who was doing well and more than well, the man whose drab shop concealed some bigger operation that made millions. I had to be the man who had planned it all, who had com...</summary>
+    <link href="../book_0/book_753.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Diary of a Nobody [April 4, 2020]</title>
+    <id>calibre:book:746</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Grossmith%2C%20Weedon%20Grossmith/The%20Diary%20of%20a%20Nobody%20%28746%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/George%20Grossmith%2C%20Weedon%20Grossmith/The%20Diary%20of%20a%20Nobody%20%28746%29/The%20Diary%20of%20a%20Nobody%20-%20George%20Grossmith%2C%20Weedon%20Grossmith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>George Grossmith, Weedon Grossmith</name>
+      <uri>../author_0/author_555_Page_1.xml</uri>
+    </author>
+    <published>2008-11-03T00:17:58Z</published>
+    <link href="../book_0/book_746.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

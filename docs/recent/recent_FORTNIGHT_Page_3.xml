@@ -14,6 +14,44 @@
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="../recent/recent_FORTNIGHT_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
+    <title>UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship [March 28, 2020]</title>
+    <id>calibre:book:683</id>
+    <updated>2020-03-28T07:11:57Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20-%20MJ%20DeMarco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20-%20MJ%20DeMarco.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>MJ DeMarco</name>
+      <uri>../author_0/author_420_Page_1.xml</uri>
+    </author>
+    <published>2017-05-23T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Viperion Publishing Corporation</dcterms:publisher>
+    <category term="start up" />
+    <category term="Entrepreneurship" />
+    <category term="investment" />
+    <category term="retirement" />
+    <category term="start-up" />
+    <category term="Entrepreneur" />
+    <category term="millionaire" />
+    <category term="Success" />
+    <category term="fastlane" />
+    <category term="Management" />
+    <category term="starting a business" />
+    <category term="career" />
+    <category term="small business" />
+    <category term="investing" />
+    <category term="wealth" />
+    <category term="stock market" />
+    <category term="motivation" />
+    <category term="freedom" />
+    <category term="money" />
+    <category term="Finance" />
+    <category term="Lang:en" />
+    <summary>MJ DeMarco&amp;#x2019;s long awaited follow-up to the international best-seller, The Millionaire Fastlane, UNSCRIPTED is the definitive blueprint for escaping the cultural conditioning of the mundane and mediocre; learn how to create an awe-inspiring lif...</summary>
+    <link href="../book_0/book_683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Great Mental Models: General Thinking Concepts [March 28, 2020]</title>
     <id>calibre:book:684</id>
     <updated>2020-03-28T07:40:26Z</updated>
@@ -468,22 +506,6 @@ The grisly rampage of a man-eating Amur, or Siberian, tiger and the effort to tr
     <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
     <category term="Lang:en" />
     <link href="../book_0/book_652.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>The Case Against the Fed [March 28, 2020]</title>
-    <id>calibre:book:653</id>
-    <updated>2020-03-28T07:46:42Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/The%20Case%20Against%20the%20Fed%20-%20Murray%20N.%20Rothbard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/The%20Case%20Against%20the%20Fed%20-%20Murray%20N.%20Rothbard.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
-    <author>
-      <name>Murray N. Rothbard</name>
-      <uri>../author_0/author_404_Page_1.xml</uri>
-    </author>
-    <published>2008-01-23T11:56:15Z</published>
-    <dcterms:language>en</dcterms:language>
-    <category term="Lang:en" />
-    <link href="../book_0/book_653.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../recent/recent_FORTNIGHT_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 5)" />
   <link href="../recent/recent_FORTNIGHT_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
