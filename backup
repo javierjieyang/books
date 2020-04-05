@@ -19,8 +19,8 @@ jupyter nbconvert --to script transform_html.ipynb
 python3 transform_html.py
 rm transform_html.py
 
-echo "using custom search"
-cp database.js docs/search/database/database.js
+#echo "using custom search"
+#cp database.js docs/search/database/database.js
 
 
 echo "updating git ignore"

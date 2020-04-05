@@ -3,67 +3,62 @@ var default_number_of_keywords = 100;
 var v_booksLoaded = false;
 var v_keywordsLoaded = false;
 var v_catalogItemsLoaded = false;
-var booksd = new Map();
-var kwd = new Map();
 
 function createAndPopulateDB() {
-    loadDb();
+    // Don't bother reloading the database if this one is considered as up to date
+    needToReloadDb();
 }
+
+
 
 function loadDb() {
     console.log("Reloading database");
- 
-    loadJs("database/books.js", booksLoaded);
-    loadJs("database/keywords.js", keywordsLoaded);
+    cleanDb();
+    createDb();
+
+    loadJs("database/books.js",booksLoaded);
+    loadJs("database/keywords.js",keywordsLoaded);
     loadJs("database/catalogitems.js", catalogItemsLoaded);
 
-    loadWithTimer(1000, 10);
+    loadIdentifier();
+    loadWithTimer(1000,10);
+
+
 
 }
 
 
-function loadJs(relativePath, callback) {
-    let script = document.createElement('SCRIPT');
-    script.setAttribute('src', relativePath);
 
-    let oHead = document.getElementsByTagName('HEAD')[0];
-    let oScript = document.createElement('script');
-    oScript.type = 'text/javascript';
-    oScript.src = relativePath;
-    // most browsers
-    oScript.onload = function () {
-        callback();
-    }
-    oHead.appendChild(oScript);
-}
 
-function booksLoaded() {
+function booksLoaded(){
     v_booksLoaded = true;
 }
 
-function keywordsLoaded() {
+
+function keywordsLoaded(){
     v_keywordsLoaded = true;
 }
 
-function catalogItemsLoaded() {
+function catalogItemsLoaded(){
     v_catalogItemsLoaded = true;
 }
 
 
-function loadWithTimer(timer, howManyTimes) {
+function loadWithTimer(timer,howManyTimes){
 
-    if (v_booksLoaded && v_keywordsLoaded && v_catalogItemsLoaded) {
+    if(v_booksLoaded && v_keywordsLoaded && v_catalogItemsLoaded){
         loadBooks();
-        loadKeywords();
         loadCatalogItems();
-        getKeywordsWithSize(document.getElementById('tag_cloud'),'');
-    } else {
-        if (howManyTimes == 0) {
+        loadKeywords();
+    }
+    else{
+        if (howManyTimes == 0){
             alert("Could not execute load");
             return;
-        } else {
-            var value = howManyTimes - 1;
-            setTimeout("loadWithTimer('timer','value')");
+        }
+        else {
+         var value = howManyTimes - 1 ;
+        setTimeout("loadWithTimer('timer','value')");
         }
     }
 
@@ -71,84 +66,143 @@ function loadWithTimer(timer, howManyTimes) {
 }
 
 
-function loadBooks() {
-    let books = getBooks();
-    books = books.map((x) => [parseInt(x[0]), x[1], x[2], x[3]]);
 
-    for (let i = 0; i < books.length; i++) {
-        BK_ID = books[i][0];
-        booksd.set(BK_ID, {
-            BK_TITLE: books[i][1],
-            BK_URL: books[i][2],
-            BK_THUMBNAIL_URL: books[i][3]
-        });
-    }
+function createDb() {
+    db.transaction(function (tx) {
+        tx.executeSql('CREATE TABLE IF NOT EXISTS BOOKS(BK_ID PRIMARY KEY, BK_TITLE, BK_URL, BK_THUMBNAIL_URL)');
+        tx.executeSql('CREATE TABLE IF NOT EXISTS KEYWORDS (KW_ID PRIMARY KEY, KW_WORD, KW_WEIGHT INT)');
+        tx.executeSql('CREATE TABLE IF NOT EXISTS CATALOG_ITEMS (KW_ID, BK_ID, CAT_TYPE)');
+        tx.executeSql('CREATE TABLE IF NOT EXISTS IDENTIFIER (ID, LABEL, DATE)');
+    });
+}
+
+
+function cleanDb() {
+    db.transaction(function (tx) {
+        tx.executeSql('DROP TABLE BOOKS');
+        tx.executeSql('DROP TABLE KEYWORDS');
+        tx.executeSql('DROP TABLE CATALOG_ITEMS');
+        tx.executeSql('DROP TABLE IDENTIFIER');
+    });
+}
+
+
+function loadJs(relativePath, callback ) {
+  var script = document.createElement('SCRIPT');
+  script.setAttribute('src', relativePath);
+
+var oHead = document.getElementsByTagName('HEAD')[0];
+var oScript = document.createElement('script');
+oScript.type = 'text/javascript';
+oScript.src = relativePath;
+// most browsers
+oScript.onload = function(){
+    callback();
+}
+
+oHead.appendChild(oScript);
 
 }
 
 
-function loadKeywords() {
-    let kw = getKeywords();
-    kw = kw.map((x) => [parseInt(x[0]), x[1], parseInt(x[2])]);
-    kw = kw.sort((x, y) => y[2] - x[2]);
+function needToReloadDb() {
 
-    for (let i = 0; i < kw.length; i++) {
-        KW_ID = kw[i][0];
-        kwd.set(KW_ID, {
-            KW_WORD: kw[i][1],
-            KW_WEIGHT: kw[i][2],
-            BK_IDS: []
-        });
-    }
+	try {
+	    if (!window.openDatabase) {
+	        alert('Search not supported as Databases\nare not supported in this browser.');
+	    } else {
+			db.readTransaction(function (tx) {
+				tx.executeSql("SELECT ID FROM IDENTIFIER",[], function (tx, results) {
+					if (results.rows.length > 0 && results.rows.item(0).ID == getIdentifier()[0][0]) {
+						console.log("DB does not need to be reloaded");
+					} else {
+						loadDb();
+					}
+				},
+				function (tx, error) {
+					loadDb();
+				});
+			});
+	    }
+	} catch(e) {
+
+	    if (e == 2) {
+	        // Version number mismatch.
+	        console.log("Invalid database version.");
+	    } else {
+	        console.log("Unknown error "+e+".");
+	    }
+	    return;
+	}
+
 
 }
 
-function loadCatalogItems() {
-    let catalog = getCatalogitems();
-    //removed last element found no use x[2]
-    catalog = catalog.map((x) => [parseInt(x[0]), parseInt(x[1])]);
-    console.log(catalog.length);
-    catalog = [...new Set(catalog.map(x => x[0] + "-" + x[1]))].map(s => s.split("-").map(x => parseInt(x)))
-    console.log(catalog);
-
-    for (let i = 0; i < catalog.length; i++) {
-        [KW_ID, BK_ID] = catalog[i];
-
-        let t = kwd.get(KW_ID);
-        if (t === undefined) {
-            console.log(i, KW_ID, BK_ID);
-        } else {
-            // console.log("pushing at", KW_ID, BK_ID);
-            kwd.get(KW_ID).BK_IDS.push(BK_ID);
+function loadBooks(){
+db.transaction(function (tx) {
+console.log("populate BOOKS table");
+        var books = getBooks();
+        for (var i = 0; i < books.length; i++) {
+            tx.executeSql('INSERT INTO BOOKS (BK_ID, BK_TITLE, BK_URL, BK_THUMBNAIL_URL) VALUES (?, ?, ?, ?)',[books[i][0], books[i][1], books[i][2], books[i][3]]);
         }
-
-    }
-
-
+console.log("finish loading books");
+});
 }
 
+
+function loadKeywords(){
+db.transaction(function (tx) {
+console.log("populate keywords");
+        var keywords = getKeywords();
+        for (var i = 0; i < keywords.length; i++) {
+            tx.executeSql('INSERT INTO KEYWORDS (KW_ID, KW_WORD,KW_WEIGHT) VALUES (?, ?, ?)',[keywords[i][0], keywords[i][1], keywords[i][2]]);
+        }
+console.log("finish loading keywords");
+});
+}
+
+function loadCatalogItems(){
+db.transaction(function (tx){
+console.log("populate catalogitems table");
+var catalogitems = getCatalogitems();
+for (var i = 0; i < catalogitems.length; i++) {
+  tx.executeSql('INSERT INTO CATALOG_ITEMS (KW_ID, BK_ID, CAT_TYPE) VALUES (?, ?, ?)',[catalogitems[i][0], catalogitems[i][1], catalogitems[i][2]]);
+   }
+console.log("finish loading catalogitems table");
+});
+}
+
+function loadIdentifier() {
+    db.transaction(function (tx) {
+        console.log("populate identifier");
+        var identifier = getIdentifier();
+        tx.executeSql('INSERT INTO IDENTIFIER(ID, LABEL, DATE) VALUES (?, ?, ?)', [identifier[0][0],identifier[0][1],identifier[0][2]]);
+        console.log("finish loading identifier");
+    });
+}
 
 function searchByKeywordId(kw_id, element) {
-    kw_id = parseInt(kw_id);
-
     cleanSearch();
     element.innerHTML = "No result...";
-
-    if (kwd.get(kw_id) != undefined) {
-        let html = "";
-        BK_IDS = kwd.get(kw_id).BK_IDS;
-        for (let i = 0; i < BK_IDS.length; i++) {
-            BK_ID = BK_IDS[i];
-            let bookId = BK_ID;
-            let bookUrl = booksd.get(BK_ID).BK_URL;
-            let bookTitle = booksd.get(BK_ID).BK_TITLE;
-            let bookThumbnailUrl = booksd.get(BK_ID).BK_THUMBNAIL_URL;
-            html += "<a href='" + bookUrl + "' title=\"" + bookTitle + "\" target='_new'><img src='" + bookThumbnailUrl + "'></a> &nbsp;";
-        }
-        element.innerHTML = html;
-    } else {
-        console.log("kw_id not found in kwd", kw_id);
-    }
+    db.transaction(function (tx) {
+        tx.executeSql("SELECT b.BK_TITLE,b.BK_URL, b.BK_THUMBNAIL_URL FROM KEYWORDS k INNER JOIN CATALOG_ITEMS c on k.KW_ID = c.KW_ID INNER JOIN BOOKS b on c.BK_ID = b.BK_ID  WHERE k.KW_ID = ? GROUP BY b.BK_TITLE,b.BK_URL",[kw_id], function (tx, results) {
+            if (results.rows.length > 0) {
+                var html = "";
+                for (var i = 0; i < results.rows.length; i++) {
+                    var bookId = results.rows.item(i).BK_ID;
+                    var bookUrl = results.rows.item(i).BK_URL;
+                    var bookTitle = results.rows.item(i).BK_TITLE;
+                    var bookThumbnailUrl = results.rows.item(i).BK_THUMBNAIL_URL;
+                    /*html += "<div class='x_container' id='calibre:book:" + bookId + "'>";
+                    html += "<div class='cover'>";
+                    html += "</div></div>";*/
+                    html += "<a href='" + bookUrl + "' title=\"" + bookTitle + "\" target='_new'><img src='" + bookThumbnailUrl + "'></a> &nbsp;";
+                     }
+                //html += "</div>";
+                element.innerHTML = html;
+            }
+        });
+    });
 }
 
 var level_10;
@@ -168,56 +222,64 @@ var dist;
 function getKeywordsWithSize(element, word) {
     cleanSearch();
     element.innerHTML = "";
+    db.transaction(function (tx) {
+        tx.executeSql("SELECT * FROM KEYWORDS WHERE KW_WORD like ? order by KW_WEIGHT desc",[ '%' + word + '%'], function (tx, results) {
+            var tagClouds = "";
+            if (results.rows.length > 0) {
+                var keywords =[[]];
+                var delimiter;
 
-    let keywords = [];
-    let counter = 0;
-    let keys = [...kwd.keys()]
-    for (let i = 0; i < keys.length; i++) {
-        if (counter >= default_number_of_keywords) {
-            break;
-        }
-        let KW_ID = keys[i];
-        let KW_WORD = kwd.get(KW_ID).KW_WORD;
+                if (default_number_of_keywords > results.rows.length) {
+                    delimiter = results.rows.length;
+                } else {
+                    delimiter = default_number_of_keywords;
+                }
 
-        if (KW_WORD.includes(word)) {
-            counter += 1
-            let KW_WEIGHT = kwd.get(KW_ID).KW_WEIGHT;
-            keywords.push([KW_ID, KW_WORD, KW_WEIGHT]);
-
-        }
-
-    }
-
-    if (keywords.length != 0) {
-        level_10 = keywords[0][2];
-        level_1 = keywords[keywords.length - 1][2];
-
-        diff = level_10 - level_1;
-        dist = diff / 7;
-
-        level_9 = 1 + (dist * 6);
-        level_8 = 1 + (dist * 5);
-        level_7 = 1 + (dist * 4);
-        level_6 = 1 + (dist * 3);
-        level_5 = 1 + (dist * 2);
-        level_4 = 1 + dist;
-        level_3 = 1 + (dist / 2);
-        level_2 = 1 + (dist / 4);
-
-        //Let's display the tag_cloud trying to order by words ...
-        // WHHY IS this sorted ? by KW_ID ? - arjun
-        keywords.sort();
-
-        let tagClouds = ""
-        for (let i = 0; i < keywords.length; i++) {
-            let size = getTagClass(keywords[i][2]);
-            tagClouds += "<a href=\"#\" onclick=\"searchByKeywordId('" + keywords[i][0] + "',document.getElementById('searchResult'))\" class='" + size + "'>" + keywords[i][1] + "</a> &nbsp;";
-        }
-        element.innerHTML = "<p>" + tagClouds + "</p>";
-    }
+                for (var i = 0; i < delimiter; i++) {
+                    keywords[i] =[results.rows.item(i).KW_ID, results.rows.item(i).KW_WORD, results.rows.item(i).KW_WEIGHT];
+                }
 
 
 
+                level_10 = keywords[0][2];
+                level_1 = keywords[keywords.length - 1][2];
+
+                diff = level_10 - level_1;
+                dist = diff / 7;
+
+                level_9 = 1 + (dist * 6);
+                level_8 = 1 + (dist * 5);
+                level_7 = 1 + (dist * 4);
+                level_6 = 1 + (dist * 3);
+                level_5 = 1 + (dist * 2);
+                level_4 = 1 + dist;
+                level_3 = 1 + (dist / 2);
+                level_2 = 1 + (dist / 4);
+
+                /*
+                alert("level1 "+ level_1);
+                alert("level2 "+ level_2);
+                alert("level3 "+ level_3);
+                alert("level4 "+ level_4);
+                alert("level5 "+ level_5);
+                alert("level6 "+ level_6);
+                alert("level7 "+ level_7);
+                alert("level8 "+ level_8);
+                alert("level9 "+ level_9);
+                alert("level10 "+ level_10);
+                */
+
+                //Let's display the tag_cloud trying to order by words ...
+                keywords.sort();
+
+                for (var i = 0; i < keywords.length; i++) {
+                    var size = getTagClass(keywords[i][2]);
+                    tagClouds += "<a href=\"#\" onclick=\"searchByKeywordId('" + keywords[i][0] + "',document.getElementById('searchResult'))\" class='" + size + "'>" + keywords[i][1] + "</a> &nbsp;";
+                }
+            }
+            element.innerHTML = "<p>" + tagClouds + "</p>";
+        });
+    });
 }
 
 function cleanSearch() {
@@ -225,7 +287,7 @@ function cleanSearch() {
 }
 
 function getTagClass(z) {
-    let tagClass = "";
+    var tagClass = "";
 
     if (z == level_10) {
         tagClass = "level10Tag";
