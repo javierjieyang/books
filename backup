@@ -20,7 +20,7 @@ python3 transform_html.py
 rm transform_html.py
 
 echo "using custom search"
-cp database.html docs/search/database.html
+cp database.js docs/search/database/database.js
 
 
 echo "updating git ignore"
