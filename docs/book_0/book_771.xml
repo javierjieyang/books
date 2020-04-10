@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Evil: Inside Human Violence and Cruelty</title>
+  <id>urn:book:b9f257cf-70d3-4dca-a62d-aed130aec84c</id>
+  <updated>2020-04-10T00:50:25Z</updated>
+  <link href="./book_771.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Evil: Inside Human Violence and Cruelty" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20-%20Roy%20F.%20Baumeister%2C%20Ph.d_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20-%20Roy%20F.%20Baumeister%2C%20Ph.d_.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Roy F. Baumeister, Ph.d.</name>
+    <uri>../author_0/author_564_Page_1.xml</uri>
+  </author>
+  <published>2015-04-13T07:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Henry Holt and Company</dcterms:publisher>
+  <category term="Social Science" />
+  <category term="Anthropology" />
+  <category term="Cultural &amp; Social" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Social Science, Anthropology, Cultural &amp; Social, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Henry Holt and Company
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 10, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      April 10, 2020
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Why is there evil, and what can
+    scientific research tell us about the origins and persistence
+    of evil behavior? Considering evil from the unusual perspective
+    of the perpetrator, Baumeister asks, How do ordinary people
+    find themselves beating their wives? Murdering rival gang
+    members? Torturing political prisoners? Betraying their
+    colleagues to the secret police? Why do cycles of revenge so
+    often escalate? Baumeister casts new light on these issues as
+    he examines the gap between the victim's viewpoint and that of
+    the perpetrator, and also the roots of evil behavior, from
+    egotism and revenge to idealism and sadism. A fascinating study
+    of one of humankind's oldest problems, Evil has profound
+    implications for the way we conduct our lives and govern our
+    society.</p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Evil%3A%20Inside%20Human%20Violence%20and%20Cruelty" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Evil%3A%20Inside%20Human%20Violence%20and%20Cruelty" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Evil%3A%20Inside%20Human%20Violence%20and%20Cruelty%20Roy%20F.%20Baumeister%2C%20Ph.d." type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Evil%3A%20Inside%20Human%20Violence%20and%20Cruelty&amp;field-author=Roy%20F.%20Baumeister%2C%20Ph.d." type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Roy%20F.%20Baumeister%2C%20Ph.d." type="text/html" rel="related" title="Roy F. Baumeister, Ph.d. on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Roy%20F.%20Baumeister%2C%20Ph.d." type="text/html" rel="related" title="Roy F. Baumeister, Ph.d. on Wikipedia" />
+  <link href="http://www.librarything.com/author/RoyF.BaumeisterPh.d." type="text/html" rel="related" title="Roy F. Baumeister, Ph.d. on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Roy%20F.%20Baumeister%2C%20Ph.d." type="text/html" rel="related" title="Roy F. Baumeister, Ph.d. on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Roy%20F.%20Baumeister%2C%20Ph.d." type="text/html" rel="related" title="Roy F. Baumeister, Ph.d. on ISFDB" />
+</entry>

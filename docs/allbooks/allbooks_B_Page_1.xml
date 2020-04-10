@@ -387,6 +387,28 @@ The #1 New York Times bestseller: a brilliant account—character-rich and darkl
     <link href="../book_0/book_559.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Building Secure and Reliable Systems</title>
+    <id>calibre:book:772</id>
+    <updated>2020-04-10T00:50:47Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/Building%20Secure%20and%20Reliable%20Systems%20-%20Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/Building%20Secure%20and%20Reliable%20Systems%20-%20Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea</name>
+      <uri>../author_0/author_565_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Adam Stubblefield</name>
+      <uri>../author_0/author_566_Page_1.xml</uri>
+    </author>
+    <published>2020-04-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Can a system truly be considered reliable if it isn't fundamentally secure? In two previous O'Reilly books--Site Reliability Engineering and The Site Reliability Workbook--experts from Google showed how reliability is fundamental to service design. T...</summary>
+    <link href="../book_0/book_772.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>A bend in the river ****</title>
     <id>calibre:book:753</id>
     <updated>2020-04-04T03:11:27Z</updated>

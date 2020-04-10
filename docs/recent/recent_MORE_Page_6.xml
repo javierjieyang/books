@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
-  <link href="../recent/recent_MORE_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 9)" />
+  <link href="../recent/recent_MORE_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 10)" />
   <entry>
     <title>Einstein's Dreams [July 25, 2018]</title>
     <id>calibre:book:394</id>
@@ -508,7 +508,7 @@
     <published>1998-07-31T06:30:00Z</published>
     <link href="../book_0/book_167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_MORE_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 9)" />
-  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
-  <link href="../recent/recent_MORE_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../recent/recent_MORE_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 10)" />
+  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../recent/recent_MORE_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>

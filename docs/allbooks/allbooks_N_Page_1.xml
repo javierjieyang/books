@@ -129,6 +129,20 @@
   </entry>
   <entry>
     <title>A New Kind of Science</title>
+    <id>calibre:book:770</id>
+    <updated>2020-04-10T00:50:43Z</updated>
+    <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Wolfram/A%20New%20Kind%20of%20Science%20%28770%29/A%20New%20Kind%20of%20Science%20-%20Stephen%20Wolfram.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Stephen Wolfram</name>
+      <uri>../author_0/author_560_Page_1.xml</uri>
+    </author>
+    <published>2002-01-31T06:30:00Z</published>
+    <dcterms:publisher>Wolfram Media</dcterms:publisher>
+    <link href="../book_0/book_770.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A New Kind of Science</title>
     <id>calibre:book:767</id>
     <updated>2020-04-04T04:34:49Z</updated>
     <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -192,6 +206,19 @@
     <category term="Lang:en" />
     <summary>The latest edition of the communication guide that has sold more than 1,000,000 copiesAn enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller...</summary>
     <link href="../book_0/book_494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Not Born Yesterday</title>
+    <id>calibre:book:769</id>
+    <updated>2020-04-10T00:49:49Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/Not%20Born%20Yesterday%20-%20Hugo%20Mercier.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Hugo Mercier</name>
+      <uri>../author_0/author_562_Page_1.xml</uri>
+    </author>
+    <published>2019-12-05T09:50:02Z</published>
+    <link href="../book_0/book_769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Numerical Optimization</title>

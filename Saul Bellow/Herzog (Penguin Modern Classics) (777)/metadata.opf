@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bfd58b2-9457-4cab-a0ef-9716c73ab81b</dc:identifier>
+        <dc:title>Herzog (Penguin Modern Classics)</dc:title>
+        <dc:creator opf:file-as="Bellow, Saul" opf:role="aut">Saul Bellow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-29T18:30:00+00:00</dc:date>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0089NVT2S</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780141975030</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Saul Bellow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-10T07:19:51.097530+00:00" name="calibre:timestamp"/>
+        <meta content="Herzog (Penguin Modern Classics)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

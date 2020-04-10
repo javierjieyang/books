@@ -1,6 +1,6 @@
 function getBooks () {
  // bkId, bkTitle, bkUrl, bkThumbnailUrl
- // 406 elements
+ // 413 elements
  return [
   ['747','Nightmare Abbey','../book_0/book_747.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg'],
   ['582','Theoretical Neruscience','../book_0/book_582.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/c2o_thumbnail.jpg'],
@@ -48,6 +48,7 @@ function getBooks () {
   ['475','Mark Twain on Religion: What Is Man, the War Prayer, Thou Shalt Not Kill, the Fly, Letters From the Earth','../book_0/book_475.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/c2o_thumbnail.jpg'],
   ['664','Amusing Ourselves to Death: Public Discourse in the Age of Show Business (20th Anniversary Edition)','../book_0/book_664.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Neil%20Postman/Amusing%20Ourselves%20to%20Death_%20Public%20Discourse%20in%20the%20Age%20of%20Show%20Business%20%2820th%20Anniversary%20Edit%20%28664%29/c2o_thumbnail.jpg'],
   ['31','Skin in the Game','../book_0/book_31.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/c2o_thumbnail.jpg'],
+  ['771','Evil: Inside Human Violence and Cruelty','../book_0/book_771.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/c2o_thumbnail.jpg'],
   ['670','Secrets of Sand Hill Road','../book_0/book_670.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/c2o_thumbnail.jpg'],
   ['515','Tao Te Ching','../book_0/book_515.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/c2o_thumbnail.jpg'],
   ['313','Algorithms Unlocked','../book_0/book_313.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/c2o_thumbnail.jpg'],
@@ -82,6 +83,7 @@ function getBooks () {
   ['64','Trip','../book_0/book_64.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Tao%20Lin/Trip%20%2864%29/c2o_thumbnail.jpg'],
   ['494','Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)','../book_0/book_494.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/c2o_thumbnail.jpg'],
   ['390','Of Mice and Men','../book_0/book_390.html','https://raw.githubusercontent.com/arjunbazinga/books/master/John%20Steinbeck/Of%20Mice%20and%20Men%20%28390%29/c2o_thumbnail.jpg'],
+  ['772','Building Secure and Reliable Systems','../book_0/book_772.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/c2o_thumbnail.jpg'],
   ['686','Economics in One Lesson','../book_0/book_686.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Henry%20Hazlitt/Economics%20in%20One%20Lesson%20%28686%29/c2o_thumbnail.jpg'],
   ['679','Insight','../book_0/book_679.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Tasha%20Eurich/Insight%20%28679%29/c2o_thumbnail.jpg'],
   ['603','Elixir in Action','../book_0/book_603.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Sasa%20Juric/Elixir%20in%20Action%20%28603%29/c2o_thumbnail.jpg'],
@@ -152,6 +154,7 @@ function getBooks () {
   ['757','Lanark - A Life in Four Books','../book_0/book_757.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Alasdair%20Gray/Lanark%20-%20A%20Life%20in%20Four%20Books%20%28757%29/c2o_thumbnail.jpg'],
   ['567','The Myth of Sisyphus and Other Essays','../book_0/book_567.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Myth%20of%20Sisyphus%20and%20Other%20Essays%20%28567%29/c2o_thumbnail.jpg'],
   ['761','The Plague','../book_0/book_761.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28761%29/c2o_thumbnail.jpg'],
+  ['780','The Plague','../book_0/book_780.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Albert%20Camus/The%20Plague%20%28780%29/c2o_thumbnail.jpg'],
   ['24','The Power','../book_0/book_24.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Naomi%20Alderman/The%20Power%20%2824%29/c2o_thumbnail.jpg'],
   ['33','Brave New World','../book_0/book_33.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/c2o_thumbnail.jpg'],
   ['638','Muzero: Mastering Atari, Go, Chess and Shogi by Planning with aLearned Model','../book_0/book_638.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Arxiv/Muzero_%20Mastering%20Atari%2C%20Go%2C%20Chess%20and%20Shogi%20by%20Planning%20with%20aLearned%20Model%20%28638%29/c2o_thumbnail.jpg'],
@@ -245,6 +248,7 @@ function getBooks () {
   ['553','Nventing Money The Story of Long-Term Capital Management & the Legends Behind It','../book_0/book_553.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Nicholas%20Dunbar/nventing%20Money%20The%20Story%20of%20Long-Term%20Capital%20Management%20%26%20the%20Legends%20Behind%20It%20%28553%29/c2o_thumbnail.jpg'],
   ['599','The Human Use of Human Beings Cybernetics & Society','../book_0/book_599.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings%20Cybernetics%20%26%20Society%20%28599%29/c2o_thumbnail.jpg'],
   ['758','Herzog','../book_0/book_758.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28758%29/c2o_thumbnail.jpg'],
+  ['777','Herzog (Penguin Modern Classics)','../book_0/book_777.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28Penguin%20Modern%20Classics%29%20%28777%29/c2o_thumbnail.jpg'],
   ['12','The Intelligent Investor','../book_0/book_12.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Buffett/The%20Intelligent%20Investor%20%2812%29/c2o_thumbnail.jpg'],
   ['570','The Wealth of Networks How Social Production Transforms Markets & Freedom','../book_0/book_570.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Yochai%20Benkler/The%20Wealth%20of%20Networks%20How%20Social%20Production%20Transforms%20Markets%20%26%20Freedom%20%28570%29/c2o_thumbnail.jpg'],
   ['596','Man and Superman: A Comedy and a Philosophy','../book_0/book_596.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/c2o_thumbnail.jpg'],
@@ -264,6 +268,7 @@ function getBooks () {
   ['538','Of Human Bondage','../book_0/book_538.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Somerset%20Maugham/Of%20Human%20Bondage%20%28538%29/c2o_thumbnail.jpg'],
   ['410','The Pillow Book','../book_0/book_410.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Sei%20Shonagon/The%20Pillow%20Book%20%28410%29/c2o_thumbnail.jpg'],
   ['468','Labyrinths Selected Stories & Other Writings','../book_0/book_468.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Luis%20Borges/Labyrinths%20Selected%20Stories%20%26%20Other%20Writings%20%28468%29/c2o_thumbnail.jpg'],
+  ['769','Not Born Yesterday','../book_0/book_769.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/c2o_thumbnail.jpg'],
   ['17','Superintelligence: Paths, Dangers, Strategies','../book_0/book_17.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/c2o_thumbnail.jpg'],
   ['44','Global Catastrophic Risks','../book_0/book_44.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Nick%20Bostrom%2C%20Milan%20M.%20Cirkovic/Global%20Catastrophic%20Risks%20%2844%29/c2o_thumbnail.jpg'],
   ['15','The Fortune at the Bottom of the Pyramid','../book_0/book_15.html','https://raw.githubusercontent.com/arjunbazinga/books/master/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/c2o_thumbnail.jpg'],
@@ -407,6 +412,8 @@ function getBooks () {
   ['573','The Lottery','../book_0/book_573.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Shirley%20Jackson/The%20Lottery%20%28573%29/c2o_thumbnail.jpg'],
   ['537','Numerical Optimization','../book_0/book_537.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/c2o_thumbnail.jpg'],
   ['767','A New Kind of Science','../book_0/book_767.html','../default_image.jpg'],
+  ['770','A New Kind of Science','../book_0/book_770.html','../default_image.jpg'],
+  ['775','Primo Levi','../book_0/book_775.html','https://raw.githubusercontent.com/arjunbazinga/books/master/The%20Periodic%20Table-Schocken%20%281995%29/Primo%20Levi%20%28775%29/c2o_thumbnail.jpg'],
   ['37','The society of mind','../book_0/book_37.html','https://raw.githubusercontent.com/arjunbazinga/books/master/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/c2o_thumbnail.jpg']
  ];
 }

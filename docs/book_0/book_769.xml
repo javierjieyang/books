@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Not Born Yesterday</title>
+  <id>urn:book:a204cba1-491c-4ad4-a281-32cb601dc5d8</id>
+  <updated>2020-04-10T00:49:49Z</updated>
+  <link href="./book_769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Not Born Yesterday" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/Not%20Born%20Yesterday%20-%20Hugo%20Mercier.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Hugo Mercier</name>
+    <uri>../author_0/author_562_Page_1.xml</uri>
+  </author>
+  <published>2019-12-05T09:50:02Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 10, 2020
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      April 10, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/Not%20Born%20Yesterday" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Not%20Born%20Yesterday" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Not%20Born%20Yesterday%20Hugo%20Mercier" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Not%20Born%20Yesterday&amp;field-author=Hugo%20Mercier" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Hugo%20Mercier" type="text/html" rel="related" title="Hugo Mercier on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Hugo%20Mercier" type="text/html" rel="related" title="Hugo Mercier on Wikipedia" />
+  <link href="http://www.librarything.com/author/MercierHugo" type="text/html" rel="related" title="Hugo Mercier on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Hugo%20Mercier" type="text/html" rel="related" title="Hugo Mercier on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Hugo%20Mercier" type="text/html" rel="related" title="Hugo Mercier on ISFDB" />
+</entry>

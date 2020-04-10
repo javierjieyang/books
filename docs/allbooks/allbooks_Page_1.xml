@@ -54,7 +54,7 @@
   <entry>
     <title>Books starting with B</title>
     <id>Calibre2opds:allbooks:B</id>
-    <content type="text">22 books</content>
+    <content type="text">23 books</content>
     <link href="../allbooks/allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -78,7 +78,7 @@
   <entry>
     <title>Books starting with E</title>
     <id>Calibre2opds:allbooks:E</id>
-    <content type="text">17 books</content>
+    <content type="text">18 books</content>
     <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -102,7 +102,7 @@
   <entry>
     <title>Books starting with H</title>
     <id>Calibre2opds:allbooks:H</id>
-    <content type="text">21 books</content>
+    <content type="text">22 books</content>
     <link href="../allbooks/allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -150,7 +150,7 @@
   <entry>
     <title>Books starting with N</title>
     <id>Calibre2opds:allbooks:N</id>
-    <content type="text">12 books</content>
+    <content type="text">14 books</content>
     <link href="../allbooks/allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -166,7 +166,7 @@
   <entry>
     <title>Books starting with P</title>
     <id>Calibre2opds:allbooks:P</id>
-    <content type="text">32 books</content>
+    <content type="text">34 books</content>
     <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

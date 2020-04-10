@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>A New Kind of Science</title>
+  <id>urn:book:d3e61848-854d-45bd-ac43-d51b0eccc006</id>
+  <updated>2020-04-10T00:50:43Z</updated>
+  <link href="./book_770.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A New Kind of Science" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../default_image.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Stephen%20Wolfram/A%20New%20Kind%20of%20Science%20%28770%29/A%20New%20Kind%20of%20Science%20-%20Stephen%20Wolfram.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Stephen Wolfram</name>
+    <uri>../author_0/author_560_Page_1.xml</uri>
+  </author>
+  <published>2002-01-31T06:30:00Z</published>
+  <dcterms:publisher>Wolfram Media</dcterms:publisher>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Wolfram Media
+    </p>
+    <p>
+      <strong>Added:</strong>
+      April 10, 2002
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      April 10, 2020
+    </p>
+  </content>
+  <link href="http://www.goodreads.com/book/title/A%20New%20Kind%20of%20Science" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/A%20New%20Kind%20of%20Science" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/A%20New%20Kind%20of%20Science%20Stephen%20Wolfram" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=A%20New%20Kind%20of%20Science&amp;field-author=Stephen%20Wolfram" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20Wolfram" type="text/html" rel="related" title="Stephen Wolfram on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Stephen%20Wolfram" type="text/html" rel="related" title="Stephen Wolfram on Wikipedia" />
+  <link href="http://www.librarything.com/author/WolframStephen" type="text/html" rel="related" title="Stephen Wolfram on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20Wolfram" type="text/html" rel="related" title="Stephen Wolfram on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20Wolfram" type="text/html" rel="related" title="Stephen Wolfram on ISFDB" />
+</entry>

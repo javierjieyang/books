@@ -141,6 +141,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>The Periodic Table-Schocken (1995)</title>
+    <id>Calibre2opds:author:570</id>
+    <content type="text">Primo Levi</content>
+    <link href="../author_0/author_570_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest</title>
     <id>Calibre2opds:author:303</id>
     <content type="text">1 book</content>

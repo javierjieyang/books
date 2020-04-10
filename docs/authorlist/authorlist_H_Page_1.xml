@@ -37,6 +37,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea</title>
+    <id>Calibre2opds:author:565</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_565_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Homer</title>
     <id>Calibre2opds:author:189</id>
     <content type="text">The Odyssey</content>
@@ -57,6 +65,14 @@
     <id>Calibre2opds:author:156</id>
     <content type="text">Moby Dick</content>
     <link href="../author_0/author_156_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Hugo Mercier</title>
+    <id>Calibre2opds:author:562</id>
+    <content type="text">Not Born Yesterday</content>
+    <link href="../author_0/author_562_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

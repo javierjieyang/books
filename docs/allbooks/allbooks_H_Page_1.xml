@@ -147,6 +147,23 @@
     <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Herzog (Penguin Modern Classics)</title>
+    <id>calibre:book:777</id>
+    <updated>2020-04-10T00:50:53Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28Penguin%20Modern%20Classics%29%20%28777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28Penguin%20Modern%20Classics%29%20%28777%29/Herzog%20%28Penguin%20Modern%20Classics%29%20-%20Saul%20Bellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Saul%20Bellow/Herzog%20%28Penguin%20Modern%20Classics%29%20%28777%29/Herzog%20%28Penguin%20Modern%20Classics%29%20-%20Saul%20Bellow.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saul Bellow</name>
+      <uri>../author_0/author_539_Page_1.xml</uri>
+    </author>
+    <published>2015-03-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_777.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Herzog</title>
     <id>calibre:book:758</id>
     <updated>2020-04-04T03:11:40Z</updated>

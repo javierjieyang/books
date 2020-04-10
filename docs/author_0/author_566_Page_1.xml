@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Adam Stubblefield</title>
+  <id>Calibre2opds:author:566</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_566_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Adam Stubblefield" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Building Secure and Reliable Systems</title>
+    <id>calibre:book:772</id>
+    <updated>2020-04-10T00:50:47Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/Building%20Secure%20and%20Reliable%20Systems%20-%20Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/Building%20Secure%20and%20Reliable%20Systems%20-%20Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea</name>
+      <uri>../author_0/author_565_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Adam Stubblefield</name>
+      <uri>../author_0/author_566_Page_1.xml</uri>
+    </author>
+    <published>2020-04-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Can a system truly be considered reliable if it isn't fundamentally secure? In two previous O'Reilly books--Site Reliability Engineering and The Site Reliability Workbook--experts from Google showed how reliability is fundamental to service design. T...</summary>
+    <link href="../book_0/book_772.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

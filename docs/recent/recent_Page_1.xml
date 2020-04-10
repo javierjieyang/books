@@ -12,6 +12,14 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <entry>
+    <title>Apr 10, 2020</title>
+    <id>Calibre2opds:recent:ONEDAY</id>
+    <content type="text">6 books</content>
+    <link href="../recent/recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Previous week</title>
     <id>Calibre2opds:recent:ONEWEEK</id>
     <content type="text">18 books</content>
@@ -62,7 +70,7 @@
   <entry>
     <title>More than one year</title>
     <id>Calibre2opds:recent:MORE</id>
-    <content type="text">225 books</content>
+    <content type="text">226 books</content>
     <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hugo Mercier</title>
+  <id>Calibre2opds:author:562</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_562_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hugo Mercier" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <entry>
+    <title>Not Born Yesterday</title>
+    <id>calibre:book:769</id>
+    <updated>2020-04-10T00:49:49Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/Not%20Born%20Yesterday%20-%20Hugo%20Mercier.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Hugo Mercier</name>
+      <uri>../author_0/author_562_Page_1.xml</uri>
+    </author>
+    <published>2019-12-05T09:50:02Z</published>
+    <link href="../book_0/book_769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

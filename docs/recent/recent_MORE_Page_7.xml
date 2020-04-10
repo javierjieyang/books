@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
-  <link href="../recent/recent_MORE_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 9)" />
+  <link href="../recent/recent_MORE_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 10)" />
   <entry>
     <title>Why We Sleep: Unlocking the Power of Sleep and Dreams [July 12, 2018]</title>
     <id>calibre:book:164</id>
@@ -457,7 +457,7 @@
     <summary>"Using the same DNA fingerprinting technology used in the courtroom, biologists have now been able to trace parenthood in animals for the first time with certainty. The results have been astonishing: Even among those species previously thought to be ...</summary>
     <link href="../book_0/book_60.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_MORE_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 9)" />
-  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
-  <link href="../recent/recent_MORE_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../recent/recent_MORE_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 10)" />
+  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../recent/recent_MORE_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>
