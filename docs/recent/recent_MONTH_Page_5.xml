@@ -1,36 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Previous fortnight</title>
-  <id>Calibre2opds:recent:FORTNIGHT</id>
+  <title>Previous month</title>
+  <id>Calibre2opds:recent:MONTH</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_FORTNIGHT_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous fortnight" />
+  <link href="./recent_MONTH_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous month" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
-  <entry>
-    <title>Fundamentals of Materials Science and Engineering 5e HQ [March 28, 2020]</title>
-    <id>calibre:book:628</id>
-    <updated>2020-03-28T11:32:31Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20D.%20Callister/Fundamentals%20of%20Materials%20Science%20and%20Engineering%205e%20HQ%20%28628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/William%20D.%20Callister/Fundamentals%20of%20Materials%20Science%20and%20Engineering%205e%20HQ%20%28628%29/Fundamentals%20of%20Materials%20Science%20and%20Engi%20-%20William%20D.%20Callister.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
-    <author>
-      <name>William D. Callister</name>
-      <uri>../author_0/author_384_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Jr.</name>
-      <uri>../author_0/author_385_Page_1.xml</uri>
-    </author>
-    <published>2008-01-14T11:33:54Z</published>
-    <category term="materials science physics" />
-    <summary>materials science</summary>
-    <link href="../book_0/book_628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
   <entry>
     <title>Body Of Secrets [March 28, 2020]</title>
     <id>calibre:book:629</id>
@@ -290,6 +271,40 @@
     <category term="Lang:en" />
     <link href="../book_0/book_608.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_FORTNIGHT_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 5)" />
-  <link href="../recent/recent_FORTNIGHT_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
+  <entry>
+    <title>Pimp [March 15, 2020]</title>
+    <id>calibre:book:607</id>
+    <updated>2020-03-28T07:50:44Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Slim%2C%20Iceberg/Pimp%20%28607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Slim%2C%20Iceberg/Pimp%20%28607%29/Pimp%20-%20Slim%2C%20Iceberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Slim%2C%20Iceberg/Pimp%20%28607%29/Pimp%20-%20Slim%2C%20Iceberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Slim, Iceberg</name>
+      <uri>../author_0/author_369_Page_1.xml</uri>
+    </author>
+    <published>2011-05-09T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_607.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Where Good Ideas Come From [March 15, 2020]</title>
+    <id>calibre:book:606</id>
+    <updated>2020-03-28T07:26:06Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steven Johnson</name>
+      <uri>../author_0/author_368_Page_1.xml</uri>
+    </author>
+    <published>2010-09-07T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_606.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MONTH_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 5)" />
+  <link href="../recent/recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
 </feed>

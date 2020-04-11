@@ -12,38 +12,453 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 5)" />
   <entry>
-    <title>Pimp [March 15, 2020]</title>
-    <id>calibre:book:607</id>
-    <updated>2020-03-28T07:50:44Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Slim%2C%20Iceberg/Pimp%20%28607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Slim%2C%20Iceberg/Pimp%20%28607%29/Pimp%20-%20Slim%2C%20Iceberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Slim%2C%20Iceberg/Pimp%20%28607%29/Pimp%20-%20Slim%2C%20Iceberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <title>Body of Secrets [March 28, 2020]</title>
+    <id>calibre:book:740</id>
+    <updated>2020-03-28T11:33:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chuck%20Darwin/Body%20of%20Secrets%20%28740%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chuck%20Darwin/Body%20of%20Secrets%20%28740%29/Body%20of%20Secrets%20-%20Chuck%20Darwin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
-      <name>Slim, Iceberg</name>
-      <uri>../author_0/author_369_Page_1.xml</uri>
+      <name>Chuck Darwin</name>
+      <uri>../author_0/author_386_Page_1.xml</uri>
     </author>
-    <published>2011-05-09T10:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Simon &amp; Schuster, Inc.</dcterms:publisher>
-    <category term="Lang:en" />
-    <link href="../book_0/book_607.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_740.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Where Good Ideas Come From [March 15, 2020]</title>
-    <id>calibre:book:606</id>
-    <updated>2020-03-28T07:26:06Z</updated>
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
-    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <title>The Misbehavior of Markets [March 28, 2020]</title>
+    <id>calibre:book:739</id>
+    <updated>2020-03-28T07:31:30Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Benoit%20Mandelbrot/The%20Misbehavior%20of%20Markets%20%28739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Benoit%20Mandelbrot/The%20Misbehavior%20of%20Markets%20%28739%29/The%20Misbehavior%20of%20Markets%20-%20Benoit%20Mandelbrot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Benoit%20Mandelbrot/The%20Misbehavior%20of%20Markets%20%28739%29/The%20Misbehavior%20of%20Markets%20-%20Benoit%20Mandelbrot.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
-      <name>Steven Johnson</name>
-      <uri>../author_0/author_368_Page_1.xml</uri>
+      <name>Benoit Mandelbrot</name>
+      <uri>../author_0/author_466_Page_1.xml</uri>
     </author>
-    <published>2010-09-07T06:30:00Z</published>
+    <published>2011-02-23T06:30:00Z</published>
     <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
     <category term="Lang:en" />
-    <link href="../book_0/book_606.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>From the inventor/founder of fractal geometry, the award-winning book that turns modern financial theory on its head.</summary>
+    <link href="../book_0/book_739.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
+  <entry>
+    <title>Winners Take All [March 28, 2020]</title>
+    <id>calibre:book:733</id>
+    <updated>2020-03-28T07:20:49Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Anand%20Giridharadas/Winners%20Take%20All%20%28733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Anand%20Giridharadas/Winners%20Take%20All%20%28733%29/Winners%20Take%20All%20-%20Anand%20Giridharadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Anand%20Giridharadas/Winners%20Take%20All%20%28733%29/Winners%20Take%20All%20-%20Anand%20Giridharadas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Anand Giridharadas</name>
+      <uri>../author_0/author_457_Page_1.xml</uri>
+    </author>
+    <published>2018-08-28T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Random House LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_733.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Zen and the art of motorcycle maintenance [March 28, 2020]</title>
+    <id>calibre:book:734</id>
+    <updated>2020-03-28T07:41:47Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20M.%20Pirsig/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20%28734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20M.%20Pirsig/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20%28734%29/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20-%20Robert%20M.%20Pirsig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Robert%20M.%20Pirsig/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20%28734%29/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20-%20Robert%20M.%20Pirsig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert M. Pirsig</name>
+      <uri>../author_0/author_459_Page_1.xml</uri>
+    </author>
+    <published>1984-08-12T06:30:00Z</published>
+    <dcterms:publisher>Bantam Books</dcterms:publisher>
+    <summary>quot;The study of the art of motorcycle maintainence is really a study of the art of rationality itself. Working on a motorcycle, working well, caring, is to become part of a process, to achieve an inner peace of mind. The motorcycle is primarily a m...</summary>
+    <link href="../book_0/book_734.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Portrait of the Artist as a Young Man and Dubliners (Barnes &amp; Noble Classics Series) [March 28, 2020]</title>
+    <id>calibre:book:735</id>
+    <updated>2020-03-28T07:26:58Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Joyce/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20Dubliners%20%28Barnes%20%26%20Noble%20Classics%20Series%29%20%28735%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Joyce/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20Dubliners%20%28Barnes%20%26%20Noble%20Classics%20Series%29%20%28735%29/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/James%20Joyce/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20Dubliners%20%28Barnes%20%26%20Noble%20Classics%20Series%29%20%28735%29/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20-%20James%20Joyce.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Joyce</name>
+      <uri>../author_0/author_460_Page_1.xml</uri>
+    </author>
+    <published>2010-08-18T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Barnes &amp; Noble</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_735.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Good Economics for Hard Times [March 28, 2020]</title>
+    <id>calibre:book:736</id>
+    <updated>2020-03-28T07:00:45Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abhijit%20V.%20Banerjee/Good%20Economics%20for%20Hard%20Times%20%28736%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abhijit%20V.%20Banerjee/Good%20Economics%20for%20Hard%20Times%20%28736%29/Good%20Economics%20for%20Hard%20Times%20-%20Abhijit%20V.%20Banerjee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Abhijit%20V.%20Banerjee/Good%20Economics%20for%20Hard%20Times%20%28736%29/Good%20Economics%20for%20Hard%20Times%20-%20Abhijit%20V.%20Banerjee.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Abhijit V. Banerjee</name>
+      <uri>../author_0/author_461_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Esther Duflo</name>
+      <uri>../author_0/author_462_Page_1.xml</uri>
+    </author>
+    <published>2019-11-12T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PublicAffairs</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Two prize-winning economists show how economics, when done right, can help us solve the thorniest social and political problems of our dayThe experience of the last decade has not been kind to the image of economists: asleep at the wheel (perhaps wit...</summary>
+    <link href="../book_0/book_736.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>For Men Only, Revised and Updated Edition: A Straightforward Guide to the Inner Lives of Women [March 28, 2020]</title>
+    <id>calibre:book:737</id>
+    <updated>2020-03-28T07:16:43Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20A%20Straightforward%20Guide%20to%20the%20Inner%20Lives%20of%20Women%20%28737%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20A%20Straightforward%20Guide%20to%20the%20Inner%20Lives%20of%20Women%20%28737%29/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20-%20Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20A%20Straightforward%20Guide%20to%20the%20Inner%20Lives%20of%20Women%20%28737%29/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20-%20Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shaunti Feldhahn, Jeff Feldhahn</name>
+      <uri>../author_0/author_509_Page_1.xml</uri>
+    </author>
+    <published>2006-04-03T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Multnomah Books</dcterms:publisher>
+    <category term="Non-Fiction" />
+    <category term="Psychology" />
+    <category term="Lang:en" />
+    <summary>Finally--You Can Understand Her! Women: complicated and impossible to understand? Do you love and want to please the woman in your life, but just can't seem to figure her out? That was before For Men Only. Now at your fingertips is the tool that will...</summary>
+    <link href="../book_0/book_737.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alone Together: Why We Expect More From Technology and Less From Each Other [March 28, 2020]</title>
+    <id>calibre:book:738</id>
+    <updated>2020-03-28T08:03:17Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Te%20-%20Sherry%20Turkle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Te%20-%20Sherry%20Turkle.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sherry Turkle</name>
+      <uri>../author_0/author_465_Page_1.xml</uri>
+    </author>
+    <published>2011-01-11T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <category term="Technology" />
+    <category term="Society" />
+    <category term="Lang:en" />
+    <summary>Consider Facebook—it’s human contact, only easier to engage with and easier to avoid. Developing technology promises closeness. Sometimes it delivers, but much of our modern life leaves us less connected with people and more connected to simulations ...</summary>
+    <link href="../book_0/book_738.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Unabomber Manifesto: Industrial Society and Its Future [March 28, 2020]</title>
+    <id>calibre:book:725</id>
+    <updated>2020-03-28T07:26:59Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Theodore%20Kaczynski/The%20Unabomber%20Manifesto_%20Industrial%20Society%20and%20Its%20Future%20%28725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Theodore%20Kaczynski/The%20Unabomber%20Manifesto_%20Industrial%20Society%20and%20Its%20Future%20%28725%29/The%20Unabomber%20Manifesto_%20Industrial%20Societ%20-%20Theodore%20Kaczynski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Theodore%20Kaczynski/The%20Unabomber%20Manifesto_%20Industrial%20Society%20and%20Its%20Future%20%28725%29/The%20Unabomber%20Manifesto_%20Industrial%20Societ%20-%20Theodore%20Kaczynski.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Theodore Kaczynski</name>
+      <uri>../author_0/author_450_Page_1.xml</uri>
+    </author>
+    <published>2011-04-02T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Theodore John Kaczynski is an American mathematician and eventual neo-Luddite social critic who carried out a campaign of mail bombings. Kaczynski excelled in academics from an early age received and undergraduate degree from Harvard University and e...</summary>
+    <link href="../book_0/book_725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Woke: A Guide to Social Justice [March 28, 2020]</title>
+    <id>calibre:book:726</id>
+    <updated>2020-03-28T07:31:41Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/Woke_%20A%20Guide%20to%20Social%20Justice%20-%20Titania%20McGrath.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/Woke_%20A%20Guide%20to%20Social%20Justice%20-%20Titania%20McGrath.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Titania McGrath</name>
+      <uri>../author_0/author_451_Page_1.xml</uri>
+    </author>
+    <published>2019-03-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Constable</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Topic" />
+    <category term="Politics" />
+    <category term="Political Science" />
+    <category term="Comparative Politics" />
+    <category term="Social Science" />
+    <category term="Gender Studies" />
+    <category term="Feminism &amp; Feminist Theory" />
+    <category term="Lang:en" />
+    <summary>'The book everyone's talking about' The Times'Titania McGrath is a genius' Spectator'Just as Bridget Jones was the embodiment of the anxiety-ridden Nineties feminist, a creation whose diary entries encapsulated all our hopes, fears and failures, so T...</summary>
+    <link href="../book_0/book_726.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cypherpunks: Freedom and the Future of the Internet [March 28, 2020]</title>
+    <id>calibre:book:727</id>
+    <updated>2020-03-28T07:26:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20-%20Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Mull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20-%20Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Mull.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann</name>
+      <uri>../author_0/author_452_Page_1.xml</uri>
+    </author>
+    <published>2012-11-25T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>OR Books</dcterms:publisher>
+    <category term="Bisac Code 1: POL039000" />
+    <category term="Lang:en" />
+    <summary>The harassment of WikiLeaks and other Internet activists, together with attempts to introduce anti-file sharing legislation such as SOPA and ACTA, indicate that the politics of the Internet have reached a crossroads. In one direction lies a future th...</summary>
+    <link href="../book_0/book_727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deadliest Enemy: Our War Against Killer Germs [March 28, 2020]</title>
+    <id>calibre:book:728</id>
+    <updated>2020-03-28T07:32:31Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael T. Osterholm, Mark Olshaker</name>
+      <uri>../author_0/author_479_Page_1.xml</uri>
+    </author>
+    <published>2017-03-14T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="Medical / Infectious Diseases" />
+    <category term="Medical / Epidemiology" />
+    <category term="Medical / Public Health" />
+    <category term="Science / Life Sciences / Biology" />
+    <category term="Lang:en" />
+    <summary>A world-leading epidemiologist shares his stories from the front  lines of our war on infectious diseases and explains how to prepare for  epidemics that can challenge world order.</summary>
+    <link href="../book_0/book_728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Think and Grow Rich [March 28, 2020]</title>
+    <id>calibre:book:729</id>
+    <updated>2020-03-28T07:24:14Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/Think%20and%20Grow%20Rich%20-%20Napoleon%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/Think%20and%20Grow%20Rich%20-%20Napoleon%20Hill.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Napoleon Hill</name>
+      <uri>../author_0/author_455_Page_1.xml</uri>
+    </author>
+    <published>1937-01-01T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="motivation" />
+    <category term="law of attraction" />
+    <category term="positive mental attitude" />
+    <category term="get rich" />
+    <category term="personality development" />
+    <category term="positive thinking" />
+    <category term="earn" />
+    <category term="napoleon hill" />
+    <category term="the secret" />
+    <category term="become rich" />
+    <category term="self help" />
+    <category term="power of positive thinking" />
+    <category term="rich" />
+    <category term="grow rich" />
+    <category term="think and grow rich" />
+    <category term="the science of getting rich" />
+    <category term="self improvement" />
+    <category term="and grow rich" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A People's History of the World: From the Stone Age to the New Millennium [March 28, 2020]</title>
+    <id>calibre:book:730</id>
+    <updated>2020-03-28T07:23:59Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/A%20People%27s%20History%20of%20the%20World_%20From%20the%20-%20Harman%2C%20Chris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/A%20People%27s%20History%20of%20the%20World_%20From%20the%20-%20Harman%2C%20Chris.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Harman, Chris</name>
+      <uri>../author_0/author_456_Page_1.xml</uri>
+    </author>
+    <published>2008-04-16T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Verso Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>India Calling [March 28, 2020]</title>
+    <id>calibre:book:731</id>
+    <updated>2020-03-28T07:20:53Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Anand%20Giridharadas/India%20Calling%20%28731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Anand%20Giridharadas/India%20Calling%20%28731%29/India%20Calling%20-%20Anand%20Giridharadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Anand%20Giridharadas/India%20Calling%20%28731%29/India%20Calling%20-%20Anand%20Giridharadas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Anand Giridharadas</name>
+      <uri>../author_0/author_457_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Henry Holt and Co.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Reversing his parents' immigrant path, a young American-born writer returns to India and discovers an old country making itself newAnand Giridharadas sensed something was afoot as his plane from America prepared to land in Bombay. An elderly passenge...</summary>
+    <link href="../book_0/book_731.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A People’s History of the World [March 28, 2020]</title>
+    <id>calibre:book:732</id>
+    <updated>2020-03-28T07:23:58Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chris%20Harman/A%20People%27s%20History%20of%20the%20World%20%28732%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chris%20Harman/A%20People%27s%20History%20of%20the%20World%20%28732%29/A%20People%27s%20History%20of%20the%20World%20-%20Chris%20Harman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chris%20Harman/A%20People%27s%20History%20of%20the%20World%20%28732%29/A%20People%27s%20History%20of%20the%20World%20-%20Chris%20Harman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris Harman</name>
+      <uri>../author_0/author_458_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Verso</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_732.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Peoples History of the World [March 28, 2020]</title>
+    <id>calibre:book:721</id>
+    <updated>2020-03-28T11:32:43Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chris%20Harman/A%20Peoples%20History%20of%20the%20World%20%28721%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Chris%20Harman/A%20Peoples%20History%20of%20the%20World%20%28721%29/A%20Peoples%20History%20of%20the%20World%20-%20Chris%20Harman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris Harman</name>
+      <uri>../author_0/author_458_Page_1.xml</uri>
+    </author>
+    <published>2008-06-06T11:55:33Z</published>
+    <link href="../book_0/book_721.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of War [March 28, 2020]</title>
+    <id>calibre:book:722</id>
+    <updated>2020-03-29T02:10:16Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/The%20Art%20of%20War%20-%20Sun%20Tzu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/The%20Art%20of%20War%20-%20Sun%20Tzu.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sun Tzu</name>
+      <uri>../author_0/author_522_Page_1.xml</uri>
+    </author>
+    <published>1994-04-30T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Military art and science -- Early works to 1800" />
+    <category term="War -- Early works to 1800" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Adventures of Sherlock Holmes [March 28, 2020]</title>
+    <id>calibre:book:724</id>
+    <updated>2020-03-28T07:13:06Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sir%20Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%28724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sir%20Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%28724%29/The%20Adventures%20of%20Sherlock%20Holmes%20-%20Sir%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Sir%20Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%28724%29/The%20Adventures%20of%20Sherlock%20Holmes%20-%20Sir%20Arthur%20Conan%20Doyle.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sir Arthur Conan Doyle</name>
+      <uri>../author_0/author_449_Page_1.xml</uri>
+    </author>
+    <published>1999-02-28T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Holmes" />
+    <category term="Sherlock (Fictitious character) -- Fiction" />
+    <category term="Private investigators -- England -- Fiction" />
+    <category term="Detective and mystery stories" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gold : as an investment [March 28, 2020]</title>
+    <id>calibre:book:718</id>
+    <updated>2020-03-28T11:32:41Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Reuben%20Gregg%20Brewer/Gold%20_%20as%20an%20investment%20%28718%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Reuben%20Gregg%20Brewer/Gold%20_%20as%20an%20investment%20%28718%29/Gold%20_%20as%20an%20investment%20-%20Reuben%20Gregg%20Brewer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Reuben Gregg Brewer</name>
+      <uri>../author_0/author_501_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_718.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Statistical Consequences of fat tails [March 28, 2020]</title>
+    <id>calibre:book:710</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Statistical%20Consequences%20of%20fat%20tails%20%28710%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Nassim%20Nicholas%20Taleb/Statistical%20Consequences%20of%20fat%20tails%20%28710%29/Statistical%20Consequences%20of%20fat%20tails%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_710.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ergodicity Economics [March 28, 2020]</title>
+    <id>calibre:book:713</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters%2C%20Alexander%20Adamou/Ergodicity%20Economics%20%28713%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters%2C%20Alexander%20Adamou/Ergodicity%20Economics%20%28713%29/Ergodicity%20Economics%20-%20Ole%20Peters%2C%20Alexander%20Adamou.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ole Peters, Alexander Adamou</name>
+      <uri>../author_0/author_492_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_713.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The ergodicity problem in economics [March 28, 2020]</title>
+    <id>calibre:book:714</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters/The%20ergodicity%20problem%20in%20economics%20%28714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Ole%20Peters/The%20ergodicity%20problem%20in%20economics%20%28714%29/The%20ergodicity%20problem%20in%20economics%20-%20Ole%20Peters.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ole Peters</name>
+      <uri>../author_0/author_447_Page_1.xml</uri>
+    </author>
+    <published>2019-12-05T01:36:36Z</published>
+    <dcterms:publisher>Springer US</dcterms:publisher>
+    <category term="Nature Physics" />
+    <category term="doi:10.1038/s41567-019-0732-0" />
+    <summary>Nature Physics, doi:10.1038/s41567-019-0732-0</summary>
+    <link href="../book_0/book_714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction To Reliability and Maintainability Engineering [March 28, 2020]</title>
+    <id>calibre:book:715</id>
+    <updated>2020-03-28T11:32:41Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Ebeling/An%20Introduction%20To%20Reliability%20and%20Maintainability%20Engineering%20%28715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Charles%20Ebeling/An%20Introduction%20To%20Reliability%20and%20Maintainability%20Engineering%20%28715%29/An%20Introduction%20To%20Reliability%20and%20Maintai%20-%20Charles%20Ebeling.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Charles Ebeling</name>
+      <uri>../author_0/author_502_Page_1.xml</uri>
+    </author>
+    <published>2004-06-04T08:08:08Z</published>
+    <link href="../book_0/book_715.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Timing Technology: Lessons From The Media Lab [March 28, 2020]</title>
+    <id>calibre:book:701</id>
+    <updated>2020-03-28T11:32:39Z</updated>
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gwen/Timing%20Technology_%20Lessons%20From%20The%20Media%20Lab%20%28701%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://raw.githubusercontent.com/arjunbazinga/books/master/Gwen/Timing%20Technology_%20Lessons%20From%20The%20Media%20Lab%20%28701%29/Timing%20Technology_%20Lessons%20From%20The%20Media%20-%20Gwen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gwen</name>
+      <uri>../author_0/author_497_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_701.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MONTH_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>
